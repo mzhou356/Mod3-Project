@@ -1,0 +1,2082 @@
+id,name,rating,review_count,open_pass_midnight,state
+-0EptA8Ci4gad0arJph4VQ,California Pizza Kitchen at Tysons Corner,3.5,192,False,VA
+-34O36suTEIwy0DIvpW8PA,Dunkin’ Donuts,4.5,2,False,VA
+-4S7XMRABeCDOvJ7lKqgtw,Twist Cafe & Deli,4.5,29,False,VA
+-7mtTaJVlmx9TqWM-CAw-A,Breeze Bakery Cafe,4.0,874,True,VA
+-8E7ufgStmiNHW25NwOUGA,Five Guys,4.0,85,False,VA
+-8TkrTNeebNwFGcfDKJgRQ,Viva Tequila,1.5,26,True,VA
+-9XZ1B_p6j8HBnSzqdMzJQ,Chicken House,3.0,14,False,VA
+-BsEod8t1vIjLzcKEHlbpw,Duck Donuts,3.5,135,False,VA
+-E1i_U7wY_Rg3_GeJrwJhA,Ledo Pizza,3.5,112,False,VA
+-ESAP9gRlC1OntkPp84W7w,Dunkin Donuts,2.0,16,False,VA
+-EVnJSer0hd7vRq_ZodXhQ,The Pita House,4.0,463,False,VA
+-H2XlHxdoe2jbnzL5nOong,Sophias Cafe,4.0,6,False,VA
+-HWp0CjPAEGKvbAqlBynDg,The Stray Cat Cafe,3.5,121,False,VA
+-JdOButHwsdCxV7PocnSdg,Nando's PERi-PERi,3.5,103,False,VA
+-K2eWMSxttOqfC_e1jRrNQ,Cristis Deli & Bakery,4.5,2,False,VA
+-MobQu4DEp8-0QYcMgPr1w,Sunny's Deli,3.0,3,False,VA
+-MuONNrqXerEVzXTIlW4rw,Ruth's Chris Steak House,4.0,433,False,VA
+-O3vg6dLpWEzVqxyFK-ubA,Cafe America,3.5,2,False,VA
+-P6w4FIWDz1PvT29iRBv-A,Jambalaya Bros,4.5,14,False,VA
+-R0ydr_qu7rGhL8aWjha_w,China House,3.0,69,False,VA
+-TuboT7LNXr8cfzmtP9Qjw,Hometown Heros Food Truck,2.0,4,False,VA
+-VD0z7WYCD4P3hlNXd7abQ,Arosto Pizza - Dunn Loring Station,4.0,80,False,VA
+-YvfMEGeZbyEmkQlfLQoTQ,Southern Fresca,1.0,2,False,VA
+-ZVeyeJEL0jHiUO_-u8CAw,Rock It Grill,3.0,268,True,VA
+-dRL6yDxKwoth6KlloMrLg,Northside Social Coffee & Wine,4.0,1176,False,VA
+-fJExaZdJT03DbTGmxEuCg,Fuzion Hookah Lounge & Vape,2.5,40,True,VA
+-fZ_-5koplvoYPLegzeXQw,Vermilion,4.0,807,True,VA
+-gSH7jwDRNJUNP0gXdR8qw,Thanh Van Restaurant,4.5,88,False,VA
+-ny2KfkxF0yUKE8ZB4CpIQ,Diya Indian Cuisine,4.5,89,False,VA
+-pVzxPgFD4zfJ-SHL2u_Dw,Taco Bamba,4.5,1711,False,VA
+-q13gJA2tAaLJl2RbxF56g,Chesapeake Bay Seafood House,5.0,1,False,VA
+-roa5AExAuOC0f-zcgi-4Q,Sampan Cafe,3.5,176,False,VA
+-wYoNl8kHBUa6z60sHFcQA,Little Saigon Restaurant,4.0,175,False,VA
+-xJPcKvE5OgZbjE8d21dLg,Daniel O'Connell's Irish Restaurant & Bar,3.5,508,True,VA
+02HMpzSi462eyPDH2gkI8g,The Little Beet,3.5,94,False,VA
+05Up6qIu3DlAfJRlPI7e_A,Freshway Pizza,2.5,3,False,VA
+068uD-eBFAylOBR7mqutog,Paisano's,3.5,92,False,VA
+07NB7vLf_z9Sm4VW1Xx2KQ,Asia Bistro,3.5,229,False,VA
+085M24RRGm9PpcOV65xUhA,O My Hot Pot & Bar,5.0,1,False,VA
+09_hd7gqcjLxE1qwcTm4nA,Fat City Kitchen,4.0,392,False,VA
+0As7hVpP5ZbVhmh8SKqYpQ,Ledo Pizza,3.5,152,False,VA
+0DryrDZ93n2C8Rfkn6Te2g,BurgerIM,3.5,27,False,VA
+0GBEKwJvQrvzx9ivBw81SA,Vocelli Pizza,2.5,39,False,VA
+0H01dKPAmfjeMpI1xki6MA,William Jeffrey's Tavern,3.5,375,True,VA
+0Hj563er51egDGws86bsaA,Streets Market & Cafe,4.0,77,False,VA
+0Iy8DoejXTdvBzfImiTrDQ,Hops Grill & Brewery,3.0,417,False,VA
+0PRr2fENVx2m1rxETdWzvA,Gallery Cafe Ballston,5.0,9,False,VA
+0RuSiuidEEAmUrC8WxEY3g,Social Haus Biergarten & Restaurant,3.0,6,True,VA
+0U9MXL8xjkg2qvJjPhcz9w,Grand Cru Wine Bar and Bistro,4.0,320,False,VA
+0VuICpMMCjY4brvaqnXpPQ,Catch on the Ave,4.0,66,False,VA
+0WBv5EBk1sydYxyw1VmSmg,Lime Tree Truck,4.0,3,False,VA
+0X2VA6HngUDc7Hd0Oq73Ug,Stone Hot PIzza,3.5,59,False,VA
+0X8ubZT59d1c_mBUdFLNwA,Casa Tequila Bar & Grill,3.5,43,False,VA
+0XVdLA8UHu5qMq5a1xmh5A,Crepe Stand,4.5,3,False,VA
+0YF1uBVB6KNmFNKWqR82yQ,Pizza Hut,1.0,2,False,VA
+0YXk9EDAmqzicZTNPNdj3g,Anthony's Restaurant,3.5,133,False,VA
+0YqPiXR2R70pGKnlQi9Nqw,Subway,4.0,4,False,VA
+0ZfzpfRnfYxvVdIBHrMvEA,Wendy's,2.0,38,False,VA
+0bHdY5GdB2j1DVrJ8yX-jg,Towngate Cafe,2.5,2,False,VA
+0iC8tdkC3B40SloZFoUxzg,IHOP,3.0,66,False,VA
+0ko1C11zrw1YDq5QUKhXfA,Subway,3.0,13,False,VA
+0nE2Xg1wbaVQbG34qsKA8Q,Nectar Coffee and Wine Bistro,4.5,54,False,VA
+0ojtAMCIG4ru0wNTu__XDw,Ny Famous Kabob,4.0,5,False,VA
+0rG7EPtKgW7Xj9XnuUMk8g,Panini Market,5.0,24,False,VA
+0vu4NSbY1Wbik-e3ybiuew,Anthony's Pizza House & Carry Out,1.5,4,False,VA
+0wbptQU_laFZ69D23C7cPQ,Rocklands Barbeque and Grilling Company - Alexandria,4.0,313,False,VA
+0y2nA6n5SD57j_w9bsJNIQ,Kovi Asian Street Food Kitchen,4.0,100,False,VA
+168vYKa25HDg160s8aE0Iw,Moby Dick House of Kabob,3.5,170,False,VA
+19G1gOzWPPpjhOZR8Vw3_g,Roti Modern Mediterranean,4.0,179,False,VA
+1BwcKru3L19LzDVc7uh5TA,Luna Nueva Restaurant,3.0,13,False,VA
+1C5e5kRDIQUZLErdhq50wA,Alta Strada,4.0,327,False,VA
+1DdcntbDDPTKp48pD44sqQ,BGR The Burger Joint,3.0,301,False,VA
+1F5RWWqIrNFxNEDrKL-E6A,Bourbon Coffee,4.0,7,False,VA
+1IzE6zlf2dMaKJ41FxQSHw,Chin's Kitchen,3.5,79,False,VA
+1KdYFwSYyF278gYHLP8cSg,Des Pardes Restaurant & Sweets,3.0,1,False,VA
+1KhF30Xg244OQoiJY2emaQ,Olive Garden Italian Restaurant,3.0,240,False,VA
+1KnV9xlTNzjK7cgGavsCuQ,Bourbon Coffee,4.0,32,False,VA
+1KwpsBcJzxJRWddMmf-UMw,Bob and Edith's Diner,3.5,195,True,VA
+1QMadJcUr6iuvjAcbW6FmQ,Quickway Japanese Hibachi,3.0,88,False,VA
+1Svpu_H-pVuqHP1jODazfg,Dishes Of India,4.0,331,False,VA
+1W5lv--XZhZ77yiERbyyLw,Fahrenheit,4.0,260,False,VA
+1WvNHzAOdwFvTGuoxaqVHw,Gyu-Kaku Japanese BBQ,4.5,272,False,VA
+1XTtG7lk8Jxvv1ubXEg29g,Vaso's Kitchen,4.0,203,False,VA
+1c2kjsLwm8ZZ3r90H_-ntQ,L Charro,4.5,23,False,VA
+1ctsXD-rj0ctn9QCplLVmw,Medium Rare,3.5,135,False,VA
+1eEnHPEatpqi1SvzlYlmMw,Bistro 1775,3.0,4,False,VA
+1f2dCamij1DGvfXZ12hYCg,X-Treme Wings and Bar,2.0,71,True,VA
+1gMAZ6IQfJv09Q6V5Rvxog,Nordstrom Marketplace Cafe,3.5,64,False,VA
+1gNDyf1SMWclUASY2nEKJQ,June Coffee,3.5,24,False,VA
+1h496BqDuea1-YyJGW4eRg,Rincome,3.5,123,False,VA
+1lb49OY4cx-rT4rtufvj6w,Phuong Hoang,3.5,6,False,VA
+1pOJvxKoqVWN5r5si4NeIA,Super Grill,4.5,96,False,VA
+1pxkg3o9fRPDDYtWIXEpyQ,Dunya Banquet & Restaurant,3.5,157,False,VA
+1qllxrADyyCYvsGY1wuSUg,Kingstreet Tavern,3.5,18,False,VA
+1qtbfB8j13bCXaLDwntPvA,Panda Express,3.0,40,False,VA
+1s0NYWph5bU5P0HB9VyD5A,Andy's Carry Out,3.5,55,False,VA
+1slIHIqXb5uEotuPLBIjpg,Chipotle Mexican Grill,2.0,95,False,VA
+1uySX0haClSRSjlvaxjV5A,New Yorker Carry Out,4.0,5,False,VA
+1v6xcehQ6rXRqPrdM-Mqbw,Cafe Natilee,4.0,33,False,VA
+1vLbtb6Q7tKhWZ0Y3gvxJw,Aroma Cafe,3.5,81,False,VA
+1wTmCH79wuRAOMSVPjln_w,Taco Bell,1.5,42,True,VA
+1yU9JEJ6QxR4GHjVBgKK5Q,9 Padthai,4.5,136,False,VA
+22H2ivVbz2jynTv4N9eqHg,McDonald's,2.0,32,True,VA
+22aD4k6tzbm5bIpiNBhkOg,Meridian Pint,4.5,17,False,VA
+25drr0ej_Lp0xQrvIU2rjg,Eddie V's Prime Seafood,4.0,727,False,VA
+26jnjHIIxR7rN3nfbCQ9wQ,Rosita's Restaurant,3.5,57,False,VA
+26wAxnrT6NdSGg5EGHK2Qg,Le Refuge Restaurant,4.0,174,False,VA
+284h7KbkyV1UfGJ6nmY9jQ,Genji,4.0,6,False,VA
+289_Y_bV6p_Ej1bfBOKvow,Halalco Supermarket,3.0,45,False,VA
+290vsiq3XKfp34fYQ24Lpw,Osteria Marzano,4.0,302,False,VA
+2ABqYpjnFL3x6uvTxyWRzw,Taco Bell,3.5,33,False,VA
+2JmPxQWCFYQL3qba-Oo40w,Panera Bread,2.5,86,False,VA
+2S8-xI6JkldBX4PkWbiKhA,Quarterdeck,3.5,601,True,VA
+2SJxh2IiH8IuMjXzYoFRxw,Hu Tieu Mi La Cay Cho Lon,3.5,106,False,VA
+2XLb692Q4OEjKE-VvJdoZg,Foxfire Grill,3.5,169,False,VA
+2ZsrqWzEMXMz0Y8G-ysJSw,Auntie Anne's,3.0,8,False,VA
+2b17LnV3seZM1LxhTaHh0Q,Red Robin Gourmet Burgers,3.0,246,False,VA
+2jdWEuEZGsCQnWh46OB-CA,Verre Wine Bar,4.5,69,False,VA
+2kQOPArGSs2KzA-FimAvRg,Noblis Cafe,3.0,8,False,VA
+2kllGZbaejM9D7SGFdFYyQ,Popeyes Louisiana Kitchen,3.5,28,False,VA
+2lpn08GQR_eYxhHvENPUaQ,Crisp & Juicy,3.5,47,False,VA
+2mU31zkkPQ44lTsuTOXzGw,Park Avenue Cafe,3.0,7,False,VA
+2mUvQB4aSk6P3S4l4prepg,CAVA,4.0,169,False,VA
+2m_hDmvBwq50l2ZCwLzoyQ,A La Lucia,3.5,227,False,VA
+2o0IfFdfQMyIk8P-dkI4mg,INCA Social,4.0,80,True,VA
+2oeR4G6x7EXWlz6PrKuN6g,McLean Pizza Restaurant,3.5,76,False,VA
+2pH0tyTSbPei1Awp6kJnZw,Italian Gourmet Deli,3.5,64,False,VA
+2rBAHcTjWNUDdSpM3naVkg,Sweet Rice Thai Cuisine,3.5,167,False,VA
+2roliWP7nb3fCsxGklZ0JQ,Golden China,3.5,24,False,VA
+2tU3wCerA51T4ZoCV4b_6g,Tropical Smoothie Cafe,3.5,99,False,VA
+2tvNoi4CVf9wHyYtofHO0Q,Goody's,4.0,302,True,VA
+2udjeHWWqwWJvBn3i5K8Mg,Potbelly Sandwich Shop,3.5,23,False,VA
+2ulA40er3o3tN9Ta7FdJeg,Blue Pearl Buffet,2.0,177,False,VA
+2vy0bxECQ2qMFZa35L4ubQ,Huong Binh Bakery & Deli,3.5,77,False,VA
+38tJPenJHXyT9g3NaV2AXA,Haute Dog and Fries,4.0,515,False,VA
+3AUrNZj_o_vYTwrbPtcD8g,Atilla's Restaurant,4.0,191,False,VA
+3Ccp1paCj5noyOHoqP1eeg,&pizza,4.0,178,False,VA
+3Ch1yXqtd_FOoeD7-IN5PQ,La Madeleine French Bakery & Café,3.0,160,False,VA
+3D6d3Shhfy68l5UeKji11w,Pizza Boli's,3.5,56,True,VA
+3FX2YLm-mtO-LW-sg_dWQg,El Pulgarcito Restaurant,4.0,37,False,VA
+3GvNa-Cw5ItkDkBYXkv2yA,Fairouz Mediterranean Cafe,3.0,100,True,VA
+3IO6QXBX58za67MtKCVzPw,LōKL Gourmet,4.5,92,False,VA
+3MXkFZEYOMN8rJm3Z3CPMw,Chipotle Mexican Grill,2.0,120,False,VA
+3ONCQMhy-0Ns7OwAM-TIYQ,Taco Bell,2.5,37,True,VA
+3PLfj9QmYt_xB3zxkj1cWQ,Newton's Cafe,4.0,1,False,VA
+3Qd1At4B4DGnz242YVdOWg,Los Tios Grill,4.0,36,False,VA
+3RXq4HWss9kBwq-EnY4RTw,Vocelli Pizza,2.5,40,False,VA
+3X0mA-t8kSfJHhfU-55X2w,Espressamente illy,4.0,50,False,VA
+3Y9FmshSS5TncxymBrsaqw,Ginger Beef,2.5,43,False,VA
+3YgzcEWDgn1vPO2pswOeQA,Ravi Kabob House,4.0,677,True,VA
+3ZAqDkFmua8WtLzGW2OB-w,Good To Go Cafe,1.5,3,False,VA
+3_5dvDWhGbDIr2_2zZwS9g,The Original Pancake House,3.5,393,False,VA
+3a4J2rYJpazXiIU57OSKEw,Subway,1.5,8,False,VA
+3atJinQYAHjEwL376FOjSA,Hunan Cafe,3.0,112,False,VA
+3c0pTdOiRuXokKjeePWjyg,Reggae Flava,5.0,14,False,VA
+3dHA4KX8_5Mz3VM3_0UjmQ,Red Holic,3.5,201,False,VA
+3lGCvzifJOhRalan2tw-OA,Good Fortune Chinese Restaurant,2.5,68,False,VA
+3lrO2Fsv8cJuce92DFdJmA,Annandale Seafood Market,4.0,1,False,VA
+3pHDRGqeX2NTSCNK8B5OSQ,Subway,3.5,3,False,VA
+3t5mSSCzm_G6ftYnhjWnDg,Noodle Box,4.0,81,False,VA
+3uy46HDCvxCZCQ71nNz9Nw,Chequers Restaurant & Lounge,4.0,4,False,VA
+3v6AQx8xYIB_0HvGShTTzw,Rinconcito VIP,2.0,2,True,VA
+3x297NojX-_Ttf7FnwuL3g,Blue Fire Lounge,3.5,11,True,VA
+3yPzSXFHUbMrf9JBxmI1wA,The Executive Diner,4.0,142,False,VA
+3z77tKcHQMtPhyiGqyF_gQ,Roy Rogers,4.0,69,False,VA
+42WKpubTsVcEhjdtSb0-CQ,Desert Moon Cafe,1.0,3,False,VA
+437lOH8urylFCBadaDXQGA,Atia Kabob Place,2.5,14,False,VA
+43nMGF7xqMwzt-aHgP78fA,Blackwall Hitch,3.0,1110,True,VA
+44x0k9zRk1Q9KBzK9KnQjw,Chop-N-Chicken,4.0,52,False,VA
+45-hHP6WAEKxnyst59I-Cg,Meaza Restaurant,3.5,221,True,VA
+46yMTo1kXCVFMYK3OuIxTg,Pho Deluxe Arlington,3.5,133,False,VA
+47-Aiewqh7tb8Ppup20OvQ,Bracket Room,3.5,485,True,VA
+48jBfe5_HSt-_QxodywBHg,Bamian,4.0,378,False,VA
+4BCrQEcU98J-iRUyE3x7Tg,California Pizza Kitchen at Pentagon Center,3.5,231,False,VA
+4CV_fZ5_GgvBAfQx7PPJxQ,Perla del Valle,4.0,24,False,VA
+4GOYxf-bcFiIHSApJjGm9Q,Subway,2.0,3,False,VA
+4I_AmIA9OVG0APeGZJbuZg,Bob & Edith's Diner,4.0,766,True,VA
+4Oy2BhiLXkp6mE2FuZyCkQ,Mango Mango Dessert,3.5,231,False,VA
+4QIhXFNlWR7I6LzvzDvN2A,Tropical Smoothie Cafe,3.5,93,True,VA
+4UhHaKEBSC5x3tItUPyJQg,Rivera's Restaurant,4.0,111,False,VA
+4WNE2n4jTzhDshKLiUZIyA,The Swiss Bakery & Pastry Shop,4.0,280,False,VA
+4a88zuYFklhlLU1MZuO7mA,Kidwell Cafe,4.5,8,False,VA
+4eaJd-yFPtVF5vwv7axN1w,National Airport Grill,1.0,2,False,VA
+4fpnJU_cH0KyyZX456EPDw,CoworkCafe,4.5,20,False,VA
+4gTUC__lsahxfNNfTW7AMg,Domino's Pizza,3.0,24,True,VA
+4i-VVY0aK_AGdKZAWXAiKw,Sweet Leaf,3.0,39,False,VA
+4lzyNwhyU4DeZsnNJBJqrg,Ethio Cafe,4.5,24,False,VA
+4vg3yCav9P26AqWRpNR5sQ,The Potomac Restaurant & Lounge,3.0,42,False,VA
+4xtT46Or4ZVoN-ZQE_vouQ,Gallery Cafe,3.5,8,False,VA
+4y3zag202_D77oDXKKGewA,Rosita Bakery Nica,3.5,25,False,VA
+4yyOLI28K1vUyTgFuvOYvg,Pokeworks,4.5,43,False,VA
+5-0tM2_KDVfqSvL84264fg,Maggiano's,3.5,429,False,VA
+5-_m5j-UxaHBFA9Zi7GWDw,Golly Waffles,4.5,20,False,VA
+52DhxUjcw_S6q2HQI8NOMA,KFC,2.0,28,True,VA
+53Yew0QYO83gIJio7pLcYg,Tropical Smoothie Cafe,4.5,104,False,VA
+54E13joKJYdHPUCt-e8P8A,Bread & Chocolate Food Cart,2.0,1,False,VA
+5501kD3360-SEi4tHgdPsg,Houlihan's,3.0,133,False,VA
+55O_xCaYmSykarya2PqbsA,Wendy's,2.0,30,False,VA
+57VUiLGiWXRlSpSbbP-xDA,Little Caesar's,3.0,14,False,VA
+58bq4gGkB8YdBVo_kEtTEg,Cafe Oggi,3.5,61,False,VA
+58zJc0PG60CGhZXrGwe__A,Blue City Food,5.0,9,False,VA
+5ALl-v5o_t8PRbKqV21XUg,Edy's Chicken & Steak Restaurant,3.5,311,False,VA
+5BTLgwrrdXazp8dtvh1rAw,Subway,2.5,21,False,VA
+5Dn0XtuYj0IU6KN20K3lVQ,CAVA,4.0,81,False,VA
+5ElzoNKMf9IC-0BGVuGdjA,El Tio Tex Mex Grill,3.5,147,False,VA
+5G8RyeiMpcyTPPu8PPSnEA,Ramparts,3.5,222,True,VA
+5IlBryg_n3o-yJMkiDYjAg,Fin & Hoof Bar and Grill,2.5,13,False,VA
+5J5cKFPOhygbAa38OFm4YQ,El Paso Mexican Restaurant,4.0,579,False,VA
+5JG-7HxHFGXSYHAp1mp-qg,Cafe Kindred,4.0,395,False,VA
+5Jpz2itjycpLbn4ie6VoYg,Heritage Brewpub & Roastery,4.5,209,False,VA
+5L1KRvkStzXB9OkQEc4kRg,Bistro 29,4.0,16,False,VA
+5LQE_YOTwJmIjda4SZ4P3g,Stomping Ground,3.5,27,False,VA
+5LlUNzrS1ib6BiQXiAj5vQ,Cherokee Cafe,4.0,22,False,VA
+5NsYNEt9RPdkD-BKpJSrJA,Rus Uz - Alexandria,4.5,46,False,VA
+5QctdqP4D-UrhSPfTEA3_g,Taylor Gourmet,3.0,79,False,VA
+5QyQ0dLhXzKLaGhzUDQbqg,Bastille,3.5,273,False,VA
+5U8jEvz5Rk5r3-YuJjM2hQ,Wendy's,2.5,26,False,VA
+5UeB8kdccwpO81-ywEtQBA,California Tortilla,2.5,22,False,VA
+5aJx6R5qQ69lVcVJq7J1Jw,J. Gilbert's,4.0,650,False,VA
+5bmoK5VHcw8ztvC1K0NeBg,Skyline Cafe,4.0,55,True,VA
+5coIeO_8UNASFOeV3B6poQ,El Sabor Boliviano,3.0,42,False,VA
+5inwMwD7lcnCRtpvW8G9Kw,District BBQ,4.0,405,False,VA
+5rL-4FTIqrvnF9yCXj-xbw,BJ's Restaurant & Brewhouse,3.0,454,False,VA
+5rlu_qE3jF20habuJicZmg,Taqueria and Snow Cone - La Original,5.0,1,False,VA
+5rq47QIOKzCVk0uvOEbgBA,McDonald's,2.0,19,True,VA
+5s8G49gFRcj4J8aRkFC4_Q,TNT'Z SMOKED BBQ,4.5,15,False,VA
+5t0C8jdBmqacng7VQyLr-w,Subway,2.5,3,False,VA
+5xsX1IxLP49qh7Q64qTQcA,Vim & Victor,3.5,28,False,VA
+6-UFEj4GxxzDxHkIB-TtDA,Gallery Cafe,2.5,3,False,VA
+60VEUM7qvGywV47JiMzHHQ,Panera Bread,3.0,92,False,VA
+626QtedNFFwJZ9XwztrWUg,Organic To Go,2.5,2,False,VA
+62_n4iF3hE9gwEAnQzeJ5g,MMP's 11:11 Restaurant & Lounge,3.5,6,False,VA
+634vdaCiJ2GZ7xDss-WN1g,Maya Bistro,4.5,43,False,VA
+65ofSkd-vD2Yh0zuL_Tkgg,Philippine Oriental Market and Deli,4.5,39,False,VA
+6639M95wO3vuwjbdvo1kjQ,Olive Garden Italian Restaurant,3.0,226,False,VA
+66LA5heg_NbbMYJdH544Mg,Pizza Hut,2.5,3,False,VA
+69YFebT1rL76qxLDTPnN_g,Tagliare,2.0,20,False,VA
+6A0DodSUHF64eCYyCLlcWA,2941 Restaurant,4.0,813,False,VA
+6CaarFHR0sWQ9xej3XnmEQ,Ken's Asian Bistro,3.0,162,True,VA
+6FVzNQ1OICx6vjIeSaLh_g,Mama's Chicken,3.0,28,False,VA
+6K5pYrpM35vZdnM4Zi8RvQ,Dire Market And Cafe,4.0,1,False,VA
+6RY_CJETYZK7ZZHK7YQ7iQ,Five Guys,4.0,67,False,VA
+6SAgWX_QDTCWWmkDGhfKVQ,Haveli Restaurant & Banquet Hall,1.5,6,False,VA
+6VrQuPy8iFa2hoVfPns9dw,Popeyes Louisiana Kitchen,2.5,46,False,VA
+6W1tSAyoEfdJ7KEDc3Bh5g,"LEBANESE TAVERNA - WASHINGTON, DC",3.5,390,False,VA
+6_FF7wqIzJ8mGtHkCSq-xw,Good Grubbin',4.0,16,False,VA
+6dHIqCu0_CkCzp68g7oT2w,Charley's Philly Steaks,2.5,8,False,VA
+6dIDLCjombOEueyvWtsXvA,Deli Mall Cafe,3.5,28,False,VA
+6dd27ChtFwUuPNj5BhPizg,Del Ray Pizzeria,3.5,338,False,VA
+6eiQ8MFIqyC2YTP3ffRmUA,Goody's Carry Out,3.5,36,False,VA
+6gMLqYt0XKPdmQdDuvaEFA,Gom Ba Woo,4.0,148,False,VA
+6kYmTfsookZVgS6CDjSa_g,Chipotle Mexican Grill,2.0,98,False,VA
+6m_HXdnRc2txKD_QDEp_Mw,Pizza Pie Me,3.5,46,True,VA
+6oXKxWTx5WPFOdmmG5L-bw,Choolaah Indian BBQ,4.0,476,False,VA
+6rRA9tT8MNTpGPhMfFTefw,Pho Hai Duong,4.0,228,False,VA
+72H5yryNiWQJRDCu0dgZOQ,Valentino's NY Pizzeria,3.5,798,False,VA
+76kWWz4ZqWQfl-KWYYHWiA,Subway,3.0,2,False,VA
+77mFdOWmtgUi0r0OaX6jQA,Mediterrafish,4.0,61,False,VA
+79w6OwOcvH028Dm6ZQgaoA,New Moon Restaurant,3.0,14,False,VA
+7B22Qdt2pVe3v1QRZoQZkw,Lori's Table,4.0,68,False,VA
+7B8tREDtjiof8TGIzhdAKw,Asiatique,4.5,166,False,VA
+7Bt3cMiWSFIrwfq6ktWdJg,Punjabi by Nature,3.5,192,False,VA
+7DSFz67ZWHqM1dIfGvXIwg,Panera Bread,3.0,128,False,VA
+7Dos4ZNlZt-PX_2krjnAMg,Brook Market,3.5,3,False,VA
+7EKeAmMWyBdRX4H5oCU_MA,24 Express Food Store,4.5,14,False,VA
+7E_0aZRRH_DwSDSzp0Dd9g,Great Wall Billiards,3.0,6,True,VA
+7FS5Vh8tfVsqDxWSXDAM8Q,Hai Duong,4.0,303,False,VA
+7IkbQpf5qq2KJTvU1E0whA,Bada Story,3.0,7,False,VA
+7J9lJGfvUD7nmIt-SQyGyg,Ghin Na Ree Restaurant,4.0,183,False,VA
+7LxQ76OtcQMnVhJCgolhsQ,Rice Bar,4.0,27,False,VA
+7M2kMMyqhmNXYlbTFYm1IA,Moe's Peyton Place,3.5,62,True,VA
+7PnayxDove1C8NQVuDnOCw,Villa Pizza,2.5,13,False,VA
+7QilQoHuQCxQIh3E7H9P9w,Sam Phao Thai Cuisine,4.0,265,False,VA
+7SVhF4tKhgOiVz9i3absJQ,Paradiso Italian Restaurant,3.5,244,False,VA
+7T_TFk-c9CYazGbxg4reJA,Matchbox - Pentagon City,3.5,357,False,VA
+7WulJchxISzkxg2dc_YZyg,Subway,3.5,8,False,VA
+7X4xDkPlbze4Tibl-958cQ,Four Seasons Restaurant,3.5,85,False,VA
+7X5tbWRDJhhXqSoziZoPlw,Cafe Pizzaiolo,3.5,182,False,VA
+7XV3CU6sUR6uKW4Y11y0KQ,Green Olive Buffet,3.0,185,False,VA
+7_boNRitACSC73RB_2ascA,Sheesh Grill,5.0,4,False,VA
+7bUdRDlTjlxSl4-1Xpiwmw,1600 Kitchen,4.5,11,False,VA
+7c8d-J4Uanf_1wDLu1fABA,Pike,3.5,52,True,VA
+7cWSQZ3VLNnGf9UDWyupMA,Fire Works Pizza,4.0,659,True,VA
+7cayFoDsp_VvAvFdunjHSA,Machu Pollo,4.5,18,False,VA
+7fG93WOQ8xXsW_wxtFreMg,Lebanese Taverna Market,4.0,118,False,VA
+7nOukPtMeKata511uBO3mA,Upper Crust Metro,3.5,3,False,VA
+7oQwxTpgp1Be2W9IuswREw,Arepa Crew,4.0,22,False,VA
+7puuAZ04CekNiVo92heGlA,Mandu Rang Kimbob Erang,3.5,67,False,VA
+7u5q7bfjMkrN4itYGzSbfA,Los Tios Grill,4.0,725,False,VA
+7wsznNeMxSxysuz5e1i4XQ,Pamplona,4.0,348,True,VA
+7y5zIp5SfSjqZPdiez2jzQ,Harvest Moon Restaurant & Lounge,2.5,85,False,VA
+7zsfEwn1vEQvhU-m-3EanQ,Chop Shop Taco,4.0,68,False,VA
+8-tkMXzZo-Jdy59f5xhfDg,Johnnys New York Style Pizzeria & Restaurant,3.0,311,False,VA
+80wdjlUhxoHpfjtmttzjLA,Domino's Pizza,3.0,28,False,VA
+88kzgawV_NX4J4fBqvdF5w,Afghan Kabob,4.0,146,False,VA
+8FGH_fFmRRk-2-vXc-4GRA,Uptown Market & Cafe,3.5,33,False,VA
+8K3kSxfpHGURRs4w6HOrKw,Enjera Restaurant,4.0,344,True,VA
+8KLMSV9Ig4pX5lSVTdtkXw,McDonald's,1.5,36,True,VA
+8KQyHt3kgDsjzpWqFAFeKQ,Firenza Pizza,4.0,131,False,VA
+8Ki7ZhhJZqFTUGcPmLutUA,Tara Thai,3.0,248,False,VA
+8Mgg9SUs-V-TKc878bNI8Q,Cafe Tatti,4.0,55,False,VA
+8PTstXZsk4nkc7uHveT6Zg,Panda Express,3.0,31,False,VA
+8S-qxX9ueCDR-dfeMfRQSw,Kazan Restaurant,4.0,171,False,VA
+8VUuZd1YUYWtZqgEktxekw,Tysons Cafe,4.5,4,False,VA
+8XRXAEfcoaaS-w0Z_B9HbQ,Cowboy Cafe,4.0,140,True,VA
+8XT5WO3qs3ByiEnIdd15DA,Eden Center,4.0,168,False,VA
+8_Aw3N_X8BzcIqvGr0rOdg,La Mexicana Bakery & Taqueria,4.5,506,False,VA
+8aAKeQrfw4m3YdPvqmrEIA,Afghan Kabob House,3.5,541,True,VA
+8ezHSFrtN2_msT-GiiNr_A,Chevys Fresh Mex,3.0,354,False,VA
+8ju856lHo3JfnXNudERHMg,Subway,2.0,18,False,VA
+8k58Vah-_hUNkQyhbffjKQ,Beverly Deli,4.0,8,False,VA
+8lkkN96FuR_4gCSanZUFPQ,Booeymonger,3.0,103,False,VA
+8nEfIFrpR6TkAXs9CUsICw,Minerva Express,4.0,55,False,VA
+8nlajKoZuDkrQJ2cPbCtNQ,Thai Square Restaurant,4.0,530,False,VA
+8opgaiUuuDP9d9mmo6YxFw,Fresh Chop Chop,4.5,31,False,VA
+8p4dKn4ar0nmWf7DqHVNCw,Listrani's McLean,4.0,82,False,VA
+8wCDgVSdMwOmudeJMuHXww,Philadelphia Mike's,2.5,36,False,VA
+8xNVuazZA6jtnjxc209zYA,Subway,1.0,1,False,VA
+8y8dBR7aQSjB6Y8xlMfRdg,KFC,1.5,31,True,VA
+90LwYeLn07j5glsDhaCylA,Blackfinn Ameripub,3.5,491,True,VA
+91kYVJk6aS2LHG3fVzvDcQ,Outback Steakhouse,3.0,201,False,VA
+94GIEYlrLFLv64lgk9Oi0Q,Royal Nepal,5.0,304,False,VA
+984GIzTbCQujaT4ZKW8MmA,Pan American Bakery & Grill,3.5,82,False,VA
+98YWUde9jGLTEc8sC04UgQ,Banh Mi So 1,3.5,109,False,VA
+9AM3zqpnvigkXAARt184eA,Cava Mezze,4.0,1077,False,VA
+9BFqgIMpqPjWikrV_mHfig,Fort Myer Officers' Club,4.0,11,False,VA
+9FI-qQTt-KvA1s6qQnwDCQ,Custom Burger,1.5,36,False,VA
+9Go_AVQGIT2s6ltRK2XQ6g,Saigon Cafe,4.0,1,False,VA
+9K2AXYXc8AwiHO55PefWTw,Boston Market,2.5,43,False,VA
+9KgPwARx2jTYQol_UISOUA,Crab Cab,4.0,60,False,VA
+9L-JQtS5nSgHElPaOH0wQg,Elephant Jumps,4.0,463,False,VA
+9ORWlp6YIIUKR-Ui4Ej6hQ,Reservoir,2.5,108,False,VA
+9PKktWkgBlznxQejffuQDw,The Knife,3.0,354,False,VA
+9RHjU6ACR7rUMfSE-OX_Cw,Nam Viet Restaurant,3.5,343,False,VA
+9SJPwtq0bGRT_QkIPV8m1A,Kelly's Cajun Grill,2.0,34,False,VA
+9WfQ9pS8hcytMrfewmg5Gg,City Kabob & Curry House- Arlington,4.0,190,False,VA
+9aRS4gKH8WStSuenG4dCDQ,Golden Buffet & Grill,3.5,142,False,VA
+9blE_FujN_UqEF09TBrmkg,Ding How Carry Out,3.5,60,False,VA
+9cnH99ZmhWDXsrulLr1-ew,Bella Napoli,3.5,115,False,VA
+9ctHijI4fuav4hZ8YfoBuA,Fava Pot Truck,4.5,94,False,VA
+9e6jDE1qXzwr9_9FMDyd1w,The Perfect Pita,3.0,38,False,VA
+9mocaHr2klmfgZWuiIp52Q,Spin Garden Restaurant,3.0,1,False,VA
+9oAjjM88jiZnB-BQlctleg,Lost Dog Cafe,3.5,694,False,VA
+9rG4EVDM9Sg8nIf_A5q6fw,Milan Latino Bakery,3.5,5,False,VA
+9sQehjCmsUjh0gFk2OwA4A,Panera Bread,2.5,92,False,VA
+9suT1dE0IGhDkfGHObNpYA,Balkan Grill,4.5,219,False,VA
+9u9UdGHipzsp2GgzKujPDQ,Cosi,2.5,138,False,VA
+9vNmUIpGcVgilBXnvAWLuA,Boru Ramen,4.0,377,False,VA
+9v_T__0RkbrMMaIdbGnKkA,Hoa Vien Quán,4.0,21,False,VA
+A0wxJz1TK2V2vuY6vdgEBw,The Melting Pot,4.0,98,False,VA
+A1GW3DrXcdIsxgCXZFKaxA,Turu's By Timber Pizza,4.5,10,False,VA
+A5a2WrmY230d_EyDvk1dlQ,Open Road Grill,4.0,424,False,VA
+A8pAZ8H5cAFAbvuxOzKnvw,Tupelo Honey,3.5,1569,False,VA
+AAK9mRzFKwF-LyLPBwE8bw,McDonald's,2.0,23,True,VA
+ADsR2_m16_2fv6KkwJCkqw,Northside Social Coffee & Wine Falls Church,4.0,154,False,VA
+AEuWOBEB6_vcnV22l5dMOw,Russian Gourmet,3.0,17,False,VA
+AFpUu4DZUcM31zV6htwo1g,Urbanspace,4.5,29,False,VA
+ALueUzEhNyauoOZv_YUjnA,Kabob Palace Family Restaurant,2.5,29,False,VA
+AN9jcPZevtY0Ev3bzXWD3g,Burger King,1.5,50,True,VA
+ANt7nPCz6yCTrklwnMpnsw,Lebanese Taverna,3.5,200,False,VA
+A_nT_nKDKAU6mG4Tgxs0Sg,honeygrow,4.0,161,False,VA
+A_nfBEfWQJimuN4YoWDdOw,Tanger Kabob House Cafe,4.0,75,False,VA
+Addp5AbaNq3-I1NjrV_xaA,Delhi Dhaba,3.5,273,False,VA
+Af_2Qf5xTUvDyEyj6776zQ,Brick's Pizza,3.5,107,True,VA
+AgDIsLL59F6e8rMxtjSihg,Sea Pearl Restaurant & Lounge,3.5,423,False,VA
+Aj9TIsaqhUIQdVdrp2g5-w,Little Caesars,2.5,28,False,VA
+AlYB4h2SbrkHu3TfHOVCuQ,East Moon Asian Bistro,3.0,298,False,VA
+AlgrUTAixmpw_-FUU0-ZDg,Family Fortune,3.5,7,False,VA
+AoHX6285iibw21ciBJ2saQ,Katana Japanese Cuisine,3.5,84,False,VA
+AqDKHfuIiM3RCEZFw9t1gQ,King Street Cafe,4.0,103,False,VA
+AqETbhYR7VXn3MFk_qKRmQ,Hong Kong Express,3.0,56,False,VA
+Auap_o2xPJvWDcmFRdAb9Q,Binh Dan Pho,3.5,3,False,VA
+AyGy8rt3y8fosagzmk8hHw,Landini Brothers,3.5,417,False,VA
+AyJ8BLknv1Pa7DYF7IcBNQ,Spider Kelly's,3.0,415,True,VA
+AybwzrTkwapX_tZRvYrvvA,TD Karaoke,4.0,54,True,VA
+B-TC7Dw9WdHd2Zzj653L0g,Railstop Gastropub,3.0,25,False,VA
+B0lZWSP0Dy_FIqlMP2nCkg,House of Dynasty,4.0,427,False,VA
+B1VdsSx3RyZ6IL5Ybjdv6w,Buffalo Wild Wings,2.0,200,True,VA
+B7y2acDk-raFZJ71mIz68A,Big Bite Pizza,3.5,95,True,VA
+B9GRw5GB3NGZXgdmOW2u2w,Jarochita #2,4.0,80,False,VA
+BJaETnsLmY_QriYD-hhxNA,McDonald's,1.5,58,True,VA
+BK-qZTEqJ0f8-As3pVsD0Q,Pho 95's,4.0,82,False,VA
+BPXydF5YrPAFNTj1g1bPbA,Super Pollo,4.0,215,True,VA
+BQBaNKGW6EPaFul70BlyiQ,GRAPE + BEAN Rosemont,4.0,49,False,VA
+BV2E2-sE2EG7IqWWqz-Ckg,Northside 10,4.5,225,False,VA
+BW8rgMX2J_doLnCgH78oxg,Universal Gourmet,2.5,7,False,VA
+Bb5Gu3zUSnZ59PQNuyTfNw,Rustico Restaurant & Bar,3.5,749,False,VA
+BgajjGcq9uUtVkbRIQ93vQ,Charley's Philly Steaks,3.0,10,False,VA
+BjMBr1TeKdG0YQKf0kqHhw,Moby Dick House of Kabob,3.5,97,False,VA
+BjX5rrHbrebT3sV9ZGhzVw,Society Fair,3.5,340,False,VA
+Bm7npZKbEW5P9hrPwIj36Q,Subway,2.0,18,False,VA
+Bmko0huhiKxzZ0qL6EnJ3Q,Thai Peppers,3.5,170,False,VA
+Bo4gpJ3g3PmlNj6-nLL_5w,Caribbean Grill,3.5,168,False,VA
+BqD2PoyYnw1FreVLn907tg,Subway,2.5,6,False,VA
+Bqe2dDOg72QKERvkrv2lqA,Potbelly Sandwich Shop,2.5,67,False,VA
+BuSRjP5kwPw40fL5NOUSaQ,Good Stuff Eatery,3.5,744,False,VA
+Bw9dAaaf3r66p8da4_pd8A,Pendleton Carryout,4.5,70,False,VA
+BwBu9jNwyrrYmoafEs0VbQ,Silver Diner,3.5,249,True,VA
+BwgndDRDoHcCGwAUhUQ0bA,Nasime Japanese Restaurant,4.5,157,False,VA
+BycWSE0wQ7AqogYQvkEZJA,Bertucci's Italian Restaurant,3.0,174,False,VA
+C1cSPZvbgaZ5S91q6WzhUA,Wasabi,3.0,432,False,VA
+C7Hy45m6xebL42p-hb2NbA,A&J,4.0,799,False,VA
+C89jH7R9eB0JlWewgKAGvQ,Evening Star Cafe,3.5,514,False,VA
+C8S6H-am9p90WVgrBNK97g,Hot N Juicy Crawfish,4.0,653,False,VA
+C8yPiHaPPboKznICmhaMJg,BGR Burgers Grilled Right,3.5,84,False,VA
+CFzWv9YyhphPw0rJw_LYwQ,Olive Pizza,2.5,3,True,VA
+CJP-Y7kXkOf2qbJ6td6mog,Mia's Italian Kitchen,4.0,298,True,VA
+CMWCxdVCMMffNG66FTeOYw,Copa Kitchen & Bar,3.5,55,True,VA
+CNATPQgruDWBVRjXfzT8KQ,The Frenchman,4.0,42,False,VA
+COzerevWBRDFKoloMYwkFw,Lebanese Taverna,3.5,470,False,VA
+CQmmcNkL6uRyhvDT-xh2qw,Moe's Southwest Grill,3.0,110,False,VA
+CQwslXcS6IvCciiSp5b-qA,American Tandoor,3.5,571,False,VA
+CSebyfJjT740KKgE6IPYcg,Buena Vida Clarendon,4.0,93,False,VA
+CTl1LgjVqXaADGmBToI6Dg,Bread & Water Company- Alexandria,4.0,233,False,VA
+CUZRwHSLoGr7C3jxOKh2pA,Roundhouse Cafe,3.5,6,False,VA
+CWUTQUxOVQYa4pDxefCiIw,Le Bledo Bakery and Cafe,4.5,157,False,VA
+CWkG2K6ATdT4Wx-ZieUC_A,P.F. Chang's,3.0,325,False,VA
+CXAbQOL_oq2btWl5NRuz3A,Phung Hoang Restaurant,4.0,35,False,VA
+C_MnLpBWMCf2mk7nyT720Q,Taqueria El Poblano,3.0,182,False,VA
+CdIGM9jPoocAJ8Vz-oZeSA,Wow Bao,3.0,237,False,VA
+CdU8n3LubyVv0vqFSQje7A,Cosi,2.5,28,False,VA
+CdwVWDJzTKiskASIKur1vQ,Thai by Thai,3.5,79,False,VA
+Cgg7hRGtYZtwmouVE7ocLQ,Charlie's Philly Steaks,1.5,2,False,VA
+Ci6xq3Bc6IbG__Cad6j6hw,Delia's Mediterranean Grill & Brick Oven Pizza - Arlington,4.0,85,False,VA
+CihKK4T_sxlqmcIjMx_iGA,Firehouse Subs,3.0,72,False,VA
+CkBS9TABv34Z4V-0A9dVCQ,Red Apron Butcher,3.5,248,False,VA
+CnDZ4XeQosnrDhEUEIrAAQ,The Celtic House Irish Pub & Restaurant,4.5,342,True,VA
+CrlTyzdkQmVjTzeOWXd7bQ,McDonald's,1.5,67,True,VA
+CthATbN2gz0nIEUYua7MUQ,Hank's Oyster Bar,4.0,1148,False,VA
+Cwt0sWSZu5euvgbyXoqCmA,Layalina Restaurant,3.5,182,True,VA
+Cz0swTGlkoecNTKjWCzcuw,Hong Kong Express,3.5,84,False,VA
+CzaRxXe8AjjWxNav_7O2Xw,Popeyes Louisiana Kitchen,3.0,32,False,VA
+D-RWa2Ans-ZhaFR3FbPUhg,Founding Farmers - Tysons,3.5,2327,False,VA
+D0xbKShFkKMKKywpZcWPuA,Frito Chicken,3.5,10,False,VA
+D8xj3nfxeWKLINwoSzy-vA,Monterey's Pizza,3.5,196,False,VA
+DDvUaLqH1UrC4d9iljGsZg,Pork Barrel BBQ,3.5,477,True,VA
+DFFNcdDOpxVxLqz0vwN4_g,Five Guys,3.5,31,False,VA
+DGUgKqr3E0Y36RZot-43Ug,Franconia Pizza,3.5,40,False,VA
+DHyTfpWOfORnISTE8nx8cA,Ireland's Four Courts,3.5,365,True,VA
+DKF_uuZN0mcc9o2RcKXZvA,Paisano's,3.5,53,False,VA
+DMLBYzp0xK2O4C0kcc0Qmg,Wendy's,2.0,23,False,VA
+DMaHvLsbAMOjp0WrttTriw,Filipino Global Supermarket,3.5,86,False,VA
+DSq6JVH0ttByY7lp1d08Hg,Pokeworks,4.0,317,False,VA
+DTPEkJHlWSjtkGZqybxlBw,Uptown Cafe,3.5,30,False,VA
+DUTwIMBrsWeYIBcevLuf5A,Abay Market,4.0,17,False,VA
+DUWc5Lt0WzMaDzaHmycNxw,Taco Bell,2.5,15,False,VA
+DVGeontaEtD8u8siKFl4AQ,Jerry's Chen,2.0,10,False,VA
+DVdhZWMIUMCoeF3b8zO3aA,Bozzelli's,4.5,109,False,VA
+DVyNSPYXxskFpL6QA_k8xg,Top's China,3.0,99,False,VA
+DW8NveF-j3hcrSLg1WKhPQ,Wendy's,2.5,22,False,VA
+DZaWXNVGchhbFi-gYxMuMA,MoHo Kitchen + Cocktails,3.5,31,False,VA
+DabTsVMT1JKDWFDjs_ogIw,Domino’s Pizza,2.0,2,True,VA
+DcD98fxatvfYrHAUz0GpyQ,Pizzeria Orso,3.5,469,False,VA
+Df7rGJEcfKcSaKCBIJitcw,Noodles & Company,2.5,101,False,VA
+DjeTQomnSg-mnc-TNG_mnw,Panera Bread,2.5,128,False,VA
+DmytOrDWOp1j7AovhAHWPw,Fuji Asian Fusion,3.0,18,False,VA
+DoDldVxPzgc9zON_8il39g,Uptown Cafe,2.5,12,False,VA
+DobyljkmvxKxh7k6jdlP-A,Taqueria Garcias,4.0,4,False,VA
+Dpk5P5tY2uPXdU5anbJYsQ,Earls Kitchen + Bar,3.5,971,True,VA
+DplX-_IcGbGNGCBju7WfRQ,New China Restaurant,3.0,40,False,VA
+Dta1J0CNkW53M6uXud-7ow,Good Luck,4.0,221,False,VA
+Du0C6QLpAyx-WXf2J7zXmw,Pho 88 Restaurant,3.0,183,False,VA
+DuHd8WHs2FLb9slr-9rm0w,Wing Zone,3.0,128,True,VA
+DuMUkbjDb-aUDcsWZIBLDg,Famille,4.0,31,False,VA
+DvWCMV67Z5dr73dBInEQ7A,Donburi,4.0,65,False,VA
+DwN-ieVAMwLwtz51v0ynRQ,Plaka Grill,4.5,315,False,VA
+E4rLxLJ0OZLiDxtuSnxu2g,Sunspot Cafe of Fairfax,3.5,27,False,VA
+E7x6ajFJV-R27UAqCHbiHg,Old Dominion Pizza Company,3.5,30,False,VA
+E8H_A0GWZX5Ju4OLi5yFQA,Cheesetique,4.5,662,False,VA
+EBpv4cdpLXXeVjSse99_cQ,Georgetown Gourmet Market,1.5,60,False,VA
+EHNiVm5eaya-21uaq1y42g,Urban Thai Restaurant,3.5,356,False,VA
+EI-UtsWiN5WiveX5yqpXzQ,Ernie's Crab House,2.5,184,False,VA
+EKJppc16v3NX0DYmW1Kb6g,Billy's Cheesesteaks,3.5,72,False,VA
+EQK0WAJaTIjbIopUtnc_3g,Hunan Gate,3.5,239,False,VA
+ERBYYRMWR6CkgnaSTzT9DA,Sloppy Mama’s BBQ- Ballston Quarter,3.0,16,False,VA
+ERWFpMTt9HngR5BZGC1EHg,Laporta's Restaurant,3.5,259,False,VA
+ERZivWGZ2xsv6hkE4xXrpQ,Sea Boil Crab House,4.0,88,False,VA
+ES7Ngzf04DwjswOqxU1TuA,Bethesda Bagels,3.5,53,False,VA
+ETBlFpJYAgf2MeFSfU8M3w,McDonald's,2.0,9,False,VA
+EUDyCxN93dX6pgCVmzX8pg,Da Domenico Ristorante Italiano,3.5,184,False,VA
+EUKbgkz2g3tCRPt_DGlhdA,Quiznos,2.0,7,False,VA
+EWoIFuHWU3kFWn8WgQhEeQ,Ngoc Thuy,3.5,7,False,VA
+EYtSM7AZbJQrJCLHlL_0-Q,Hunan Heritage,2.0,32,False,VA
+E_-UwI1Ct46ELI7VJcSpAg,Uno Pizzeria & Grill,3.0,185,False,VA
+E_3iCpiEJlVj8I-LgKUvJw,Cyclone Anaya's Mexican Kitchen,2.5,607,False,VA
+E_p-zhy3vpfsoy1k3VaqpA,Cafe Gallery & Market,3.0,12,False,VA
+E_tFMucdrgjgxVP0T9vtOg,Popeyes Louisiana Kitchen,2.0,49,False,VA
+EikfwzuBjDqtGj5SOD8-3w,McDonald's,2.5,13,True,VA
+Ej_S0TYGWOGi9LPdDz7DKA,Ambar,4.5,1055,False,VA
+Ek_-kvajIvVJbi3ll4pMww,Pho 75,4.0,1610,False,VA
+Elz73CRNSzIRoUnpxlHICg,Eisenhower Deli,4.0,21,False,VA
+EmGN9C5G6GR2ohvllm7QkQ,Aabee Express Mediterranean,4.5,42,False,VA
+EmPwTZaew8aWZxGd7PNcJw,District Taco,3.5,86,False,VA
+EnAtm09-4mIrBZXE6Vofag,The Perfect Pita,3.5,31,False,VA
+Ep62ZpRQI_oEkD3HER-aag,Lena's Wood-Fired Pizza & Tap,4.0,579,False,VA
+EpvdtBv_skMheVkU3JFMoQ,Arby's,2.5,33,False,VA
+EwU9-qjiuyAVsrFvmVXxtQ,Hank's Pasta Bar,3.5,354,False,VA
+Ex974vg37Pk7oBXgIAkMTA,Boar's Head QSR,3.0,12,False,VA
+EyF2ab0vaV_Nu85UE2c7JA,Mezeh Mediterranean Grill - West Springfield,4.5,57,False,VA
+F-EG3_n69fbdUb5FNZ_gFg,Toastique,4.5,32,False,VA
+F-zNvddgmDMw-2iVo_YthQ,Big Bite Pizza,3.5,67,True,VA
+F00k6FdB46IvJBJHjGrTXw,Red Tomato Pizzeria,3.5,78,False,VA
+F1ZpR6gV4dVPNB6C8IAdYQ,Jimmy John's,3.5,87,False,VA
+F5-x-VXm_qtLVuwCQtyYZw,La Cochabambina Restaurant,3.5,15,False,VA
+F7pxjmvMMuM2WJUrskJzaQ,The Chicken Place,3.5,263,False,VA
+F8jTrt3K6SC4XOdxlmx5eQ,Krispy Krunchy Chicken,2.5,3,False,VA
+F8r6Co-wkEuDvMBZ9bW9OA,The Perfect Pita,3.5,56,False,VA
+FFrh5-r6M1uOz3TfOjmelg,Pizza Roma,3.0,87,True,VA
+FGcARBr3ngd8kGiuPY2nUw,Arlington Rooftop Bar and Grill,3.0,266,True,VA
+FGo_7q6ttGzbx8OBCTKVMQ,All About Burger,3.0,2,True,VA
+FI2CSOibX5vKki-xwYq66A,Taco Ssam,4.5,218,True,VA
+FIelHR48jnLPVnGEuJdxUA,Papa John's Pizza,2.5,34,False,VA
+FLSXgGPkdqUMZMmBITsMHg,Viva Tequila,1.5,5,False,VA
+FLe9ti0Z8oc0JW_v33lIJQ,Pho & Grill,3.0,12,False,VA
+FRYVpxrGCZPQIGUy-qI_ZA,Pelicana Chicken,4.0,130,True,VA
+FS185hke9fhrMMMeersxRQ,El Pollo Ranchero,4.0,135,False,VA
+FS3T4i6aqtm1V1Cktp6VoA,Oozie Chicken Plus,4.5,12,False,VA
+FZO7NcaU09gGBiI4e_C5Mw,Gordon Birch Brewery Restaurant,2.0,1,False,VA
+FaKhLze0ZMwSPhvxpTdV-A,Hunan Garden,3.5,53,False,VA
+FcYgt0AcNvSKyUdLLTGaXg,PAUL USA,3.0,198,False,VA
+Fc_OuXUhNga9BQ4HKgNzig,TTT Mexican Diner,3.5,81,False,VA
+FfOSM_zqeK-0H8GjUR1TiQ,Sicilian Pizza,3.5,173,True,VA
+Fh10Ch15xXgNtbX6EDBEag,Amuse,3.0,86,False,VA
+FmIjD9moZvHhRS4PTYB9Bg,Genova Pizza,3.0,52,False,VA
+FmqbPB3jEOYVfXRwxN7z7g,District Taco,3.5,203,False,VA
+FpVoAnnQeDDb6mc_8UP3MA,Subway,2.5,13,False,VA
+FqR099igjOiWwK505cmX-A,&pizza,4.5,393,False,VA
+FsCp52joCds65P7E-zDXgA,sweetgreen,3.5,158,False,VA
+Fs_XnZbSlRywMaPAiAXhNQ,District Taco,4.0,746,False,VA
+FtYPXMTDy5cL8069wCQj6A,Woodstock Cafe,4.0,12,False,VA
+FuobXarTyMbqBNqJXihWjQ,Matsutake Sushi,3.5,133,False,VA
+FxmtxAwVjvOdlgurfJR1sg,Chuy's,3.5,510,False,VA
+G4u2Yj8dFfvkoAcuyjTxrA,Bread & Kabob,3.5,65,False,VA
+G5xWW1v6jVtVf0Q0dHVI8g,Lebanese Taverna,2.0,111,False,VA
+G6KPSbdaVNFPyJZN_MyAkA,Bonchon - Annandale,3.0,288,False,VA
+G6_4jLQcTqMC5fqz5Bu6gg,McDonald's,1.0,15,False,VA
+G8PbxSyuc1vzAtvY52RI6A,Fourno Pizza,3.5,11,False,VA
+G8wENj2Q5iuwpcFTee_BEg,The Palm Tysons Corner,3.5,248,False,VA
+GBzCC7wM-X8XuSUv8VNH0w,Magic Pan,2.5,47,False,VA
+GDij-IL5erRq5PsinH86Ng,Faccia Luna,4.0,311,False,VA
+GH2Vg5o0jXGHdOxprdrbuw,Capitol Deli,5.0,1,False,VA
+GJ49cfc_in2l5FMvWSC8kQ,Big Red Halal,5.0,21,False,VA
+GJkcjX3I04sEmQbzxaVL5g,Tama Sushi Japanese Restaurant,3.5,83,False,VA
+GLKdXevyKqMeGtuPx5pl1w,Lei'd Poke,4.5,582,False,VA
+GLnbgyIdZ1dJ_NDc86V-lQ,Sam & Harry's,2.5,131,False,VA
+GOzbZMHNBOlr8uIXCjmEqA,Buffalo Wild Wings,2.0,385,True,VA
+GQzz6X6hKheTpuWTJuKwRQ,Domino's Pizza,2.5,27,True,VA
+GWVvgOwVf_44rVdiG4IMdQ,Joe's Place Pizza & Pasta,4.0,173,False,VA
+GWskjDaarB71fcuPfP8TnQ,The Perfect Pita,3.5,70,False,VA
+GYJqSzwhct6ITCI8vJjt8Q,Sapphire Tysons,4.0,169,False,VA
+GZM_uk3Gw7jM-UYKq9n0Lw,Ichi Ban Sushi Restaurant,4.0,197,False,VA
+Gd5Hh4bmT5rrn23GskBOag,Deli For the Belly,4.5,30,False,VA
+Ge0jpzi97loOd4Gp4mQF-g,Neisha Thai Cuisine,4.0,688,False,VA
+GgGkgLmiZ8xx4fqXtTYttg,Citipizza,3.5,36,False,VA
+GkeAIHinPtJ82J6U9uNKww,H Mart - Annandale,3.5,116,False,VA
+GlNlePB2Pmp67dZWm59qHg,City Diner Restaurant,4.0,293,False,VA
+GmB3a-FZb4kQMSlAUHP8DQ,Park Place Gourmet,4.0,22,False,VA
+GpjpPgs773nuphIhzpRsyA,Calabash African Cuisine & Bar,4.0,75,True,VA
+GqJUvn0QVfh1jHugQf1o4Q,Miyagi,3.5,294,False,VA
+GtiyeTFesrzPDXcYif3b8w,La Moo Creamery,4.0,82,False,VA
+Gw8GCgHx0atCy-lDZCEV9w,Tachibana Japanese Restaurant,4.0,753,False,VA
+GynlwbXt7-ImnLFerze28Q,Toppers pizza,3.5,35,True,VA
+GzEMT9domODRgPjtXgVQ-w,Heebeen Restaurant,3.5,615,True,VA
+GzEeDG13x9s5LxPgXYQOMA,Royal Cafe,5.0,4,False,VA
+H0Nc3vrYoJCRWAFeAYljmg,Bamboo Buffet,1.5,103,False,VA
+H1gOCUyD7gNnDo5KiDNqUg,Jason's Deli,4.0,233,False,VA
+H3j7dlznQhyRrjv2YpukZg,Espresso Cafe,3.5,3,False,VA
+H6aGdZ_4hdaHdq8K1cRXRA,Makeda Ethiopian Restaurant,3.5,49,True,VA
+H9cmHstKHjuFPVUC3K93Fw,Sushi Rock,3.5,1059,True,VA
+HBtM-9qS5hwCZOwI14BKIQ,Domino's Pizza,2.0,45,True,VA
+HFKi5FgWMM-zp_azHEvtCQ,Pizza Autentica,3.5,20,False,VA
+HH6gvRAcF1IWYnEAtoMSIA,Hong Kong Palace,3.5,452,False,VA
+HIloo3tfo-tymoif_izzPg,Burger 7,3.0,232,False,VA
+HJmUFmzfnZhzsy3vptQJSg,Justa's Chicken,3.5,106,True,VA
+HNs9kQgTejESA9XkH7mnXw,XO Taste Express,4.0,25,False,VA
+HUlopJmamj-x-Go7qeeiuw,Sunshine Deli,4.0,2,False,VA
+HUwJO3mGLU4i8BLJLL-esQ,Le Pain Quotidien,3.0,220,False,VA
+HW-gpOQZtkZ2y-1xn-76Tw,Chiang Mai Thai Cookhouse,4.5,46,False,VA
+HY_V8Nqgc9yYpsmDQZ_YcQ,La Madeleine French Bakery & Café,3.0,177,False,VA
+HZFPaIzuSk5_FjLyo28gyA,The Perfect Pita,3.0,25,False,VA
+HZI8Qo6FJxDVomQaBNAXNA,Key Bridge Terrace,4.0,12,False,VA
+HafCty0ZUptj_hpC_jhRlQ,Brio Tuscan Grille,3.5,384,False,VA
+HbFH9RrXghvbiAsXMKJaFg,Elie's Deli & Catering,4.5,7,False,VA
+HiWJ40TbGPLz_d0GhQ-GTA,Duccini's Pizza,4.0,140,False,VA
+HlXOf95kOhnjjgZtGd5H1w,Huascaran,4.0,52,False,VA
+HmGVvnY9PgAcGNsL-aARKg,Shake Shack,3.5,235,False,VA
+HnieWXrwCa7fyZ259x7OFg,Taj Of India,3.5,207,False,VA
+HqoZlI7wHR7qXtyvUdTq4Q,Buffalo Wild Wings,2.0,481,False,VA
+HrEIDhVUNYA7Ee0KplJn9g,Genghis Grill,3.5,237,False,VA
+HsWa6WydmEr1TzQ1CEO_sw,Chopt Creative Salad Co.,3.5,229,False,VA
+HtM--mgrn69rR0hlC1KHbA,Subway,3.5,20,False,VA
+Htp1v4D-HHtopIARHFhyVQ,Meridian Deli and Convenience Store,4.0,2,False,VA
+HxR6wAmID4H-5yJ3CDgOKw,Mezeh Mediterranean Grill - Springfield,4.0,70,False,VA
+I-_Q2aymqyppY_38ae9Wrg,BIBIMIX,4.5,130,False,VA
+I1BHlgUMLK3ltG72njewmQ,Cosi,2.5,101,False,VA
+I1cwajsgXPzfFCsekznsqA,Bar Bao,4.0,453,True,VA
+I21d0n07ca5sDcOrado3FQ,Mom's Pizza Restaurant,3.0,169,False,VA
+I4qPQKGukndyU9M6LVZa-Q,The Chop N' Room,3.0,1,False,VA
+I5PXmFkDAOTj_04KC5LjfA,Aladdin,3.0,3,False,VA
+I5m4Cj3sFhv51N5y0nryLA,Panera Bread,2.5,98,False,VA
+I67xVaFVUjqQSE4FwgXFow,Freddie's Beach Bar & Restaurant,4.0,368,True,VA
+IAOpc2U59YoyhcWcQqQ9qg,The Broiler,4.0,231,False,VA
+IClG34SGtjgrVNxSZfvhNQ,Panera Bread,3.0,15,False,VA
+IGMLodBLh3VkntLZuEVjMA,Chirilagua Pollo and Steak,3.5,37,False,VA
+IGik05PPfYSBMur7K09N9Q,Pho Huy,4.0,91,False,VA
+IHv-2a5HLO0--NtrPmaorA,Dutch Grill,1.5,3,False,VA
+IKDkp_D8KfCd3Itl0JjJrA,Astro Doughnuts & Fried Chicken,3.5,437,False,VA
+IL50vaWPfDk2xjfTww6viQ,JK Seafood Korean Restaurant,3.5,44,False,VA
+IOR3IxNiv0-NAqcwbv04Zg,Domino's Pizza,1.5,26,True,VA
+IP-2EJ24mea7xmvKvd5Yyw,Manchester Bagel,4.0,126,False,VA
+IRIxvNtAGUfcLpJVgUG37Q,Weenie Beenie,3.5,120,False,VA
+ITiNujDc13yQf4xj7v4tag,Sumo Japanese Restaurant,3.5,416,False,VA
+ITy8Dsji9nLrMNomAHtllQ,Charlene's Kitchen,4.0,9,False,VA
+IVVo2RdnSj1aT6oRMUvfaw,The Light Horse,3.5,288,True,VA
+IVaWHzFH8FQHYzYt249qIw,Nhu Lan Sandwich Shop,4.0,130,False,VA
+IWTriWHlvrWUobammbGP6A,Inca Chicken ,3.5,44,False,VA
+IZkYEX_Z27V9LRzINi_nmw,Sisters Thai Mosaic District,4.0,758,False,VA
+I_MnBBuWIQOU9NkPeWFXEg,Tarbouch Mediterranean Grill,3.0,274,True,VA
+IcqTDz1oRQ6Plvv3wUbm4Q,McCormick & Schmick's Seafood & Steaks,2.5,444,False,VA
+Icuy6z_AiGjsSm3H02S3zA,McDonald's,2.5,19,False,VA
+IeIdLJS9LRhvRlHNpfAQfA,Domino's Pizza,2.0,30,True,VA
+IeMlynWO6J5jBozq145d3Q,Applebee's Grill + Bar,2.5,105,True,VA
+IkkSiPpQP8F4hctHd8xzmw,White Orchid Deli,3.0,2,False,VA
+IkkqHbIV7fjQFMaWFJ1O3g,Chez Le Commis,3.0,2,False,VA
+IlxbSXs3aBO1OQs_S_mwag,Saigon Bakery & Deli,3.0,32,False,VA
+In2R3GlTfjfHVRJA13jIQg,Hong Kong Express,2.5,40,False,VA
+IoECU8BMorDtuTvRjydE5w,Capriotti's Sandwich Shop,3.5,99,False,VA
+Iol5-pMXKbMXxgrIm6Ci-Q,Cambridge Cafe,4.5,6,False,VA
+Is7YOaiWcs9-9QAUU6ZOXA,La Vincita,1.0,1,False,VA
+Ixs87EcyfdTPhBHo7ab1cw,Chopt Creative Salad Co.,4.0,64,False,VA
+Iy0AK5U_RfnnwSV0rKQraA,Healthy Heart Cafe,3.0,1,False,VA
+IyLsxwJdR9nlzcRfuLvRkw,District Dumplings,3.0,60,False,VA
+IyuUp9A1QG0uLYraoVng_A,Mediterranean Gourmet Market,4.0,64,False,VA
+J7BnFnoMAcsKdfT5BQpnlg,China Express,2.5,37,False,VA
+JAEbvK-ws8NbptIrLYD5MQ,Chick-fil-A,3.0,23,False,VA
+JB7PDIhuZ-wjor0bd786Xw,Sbarro Italian Eatery,2.0,12,False,VA
+JBYZ7WzCN1c3TRHOXCs2dg,Pines of Florence,3.5,166,False,VA
+JGxa0E5bNP-8x_Zb9l8FCw,Camba Cafe,4.5,2,False,VA
+JNPJBvyQrtd8OotwAw3hMA,Burger District,4.0,120,False,VA
+JP25nRTlHtpYS1RqaEmCdg,The Halal Guys,3.5,224,False,VA
+JPIGQamqo6OlhjGnCAG2NA,Subway,2.5,14,False,VA
+JPbBIk6y7wOjUSi_YCogMA,Meda Market,4.5,18,False,VA
+JSRb5Cpy6yxLP_Pw1lWI1Q,CAVA,4.0,410,False,VA
+JSVn1Jo1RJ2TY8RgqY7Ycw,Jang Won Ban Jum - Annandale,3.0,160,False,VA
+JTYunBp6HBrINZ7af3Ru7g,La Madeleine French Bakery & Cafe,3.0,235,False,VA
+JUOYWGqoepBt-TF3qrxR9A,Eamonn's: A Dublin Chipper,3.5,480,False,VA
+JYhwbw7_asZf3m59tY10Ww,Lost Dog Cafe Alexandria,3.5,313,False,VA
+JYsSarQ2doiP8prkYum8rg,La Estancia Churrasqueria,4.0,102,False,VA
+Jd4B3c9TmaxnLN4sZrU8gw,Subway,2.5,13,False,VA
+Jfin_ouKopXR5bHrbYrgoQ,A Deli,4.5,103,False,VA
+JftqrcGTmr0890imQT76HA,Vantage Point Rooftop Restaurant,2.5,91,False,VA
+JhuMexikZb78fd7nfchp_g,The Mixing Bowl,3.5,27,True,VA
+JmInAR_7GOsg3WKnrneTsg,Pizza Hut,3.5,10,False,VA
+Jn3T2MH7TSW6xtbtVYzEvw,Chrome Cafe,3.5,16,True,VA
+JoCbgltDIN_JOVgHqITuEA,Old Chicago Pizza,3.5,144,True,VA
+JozbI9j4sqKVezeHA29XDA,Sophia's Cafe,5.0,1,False,VA
+Jqb7YWOFQJ4wQxTUSyJmpA,PX,4.0,477,True,VA
+Jwlob5xIP9NatxMoOaloxg,Bob Evans,3.0,115,False,VA
+Jxs26kyJHwcgpoMxTKGzqg,Stageplate Bistro - Arlington,4.5,62,False,VA
+Jy-Z0BY-CRbhpimv098q6w,Ichiban Sushi & Ramen - Arlington,4.0,402,False,VA
+JyLWdk2mB4_9AH6x13gP4Q,101 Royal Restaurant,3.0,1,False,VA
+JzWuQeo2vkta9uW8rsUEqw,McLean Family Restaurant,3.5,151,False,VA
+K4ZdETIEVHL5U_gRrWIxgA,Domino's Pizza,2.5,30,True,VA
+K667JDL8fVE4EKfkbzlhww,Cafe Chocolate,3.5,33,True,VA
+K85yyaY-9KENiJL3XxN8cg,Jimmy John's,3.0,94,False,VA
+K8tNKj-HQyb-tHKS9ONkKg,Pho & Exotic Fruit,2.0,1,False,VA
+K8vG-n2hOUY85xjGEiSPqw,Ted's Bulletin,4.0,64,False,VA
+KAKHs77M4Ie3NpPBVZ8f9A,Tortas Y Tacos La Chiquita,4.5,308,False,VA
+KGAtPDE_z0g7GFROEWKVTg,Cosi,2.5,92,False,VA
+KGoiZ6KDhF3-c-d_S526cQ,Asian Origin,3.5,118,False,VA
+KKmAG3HjRD5ffX0Io4B-BA,McDonald's,1.5,6,False,VA
+KO1rxIZvnGwg-_5z7VBYjw,Brooklyn Bagel Bakery,3.5,588,False,VA
+KP6kEstrmtAclA8kg3iwgQ,The Melting Pot,3.5,323,False,VA
+KP_grNTWDPjSpeF6wyw0dA,Jersey Mike's Subs,3.5,30,False,VA
+KQdcYbU15uqELEDzDXnR-w,Sorak Garden Restaurant,3.0,190,False,VA
+KQfw0Svm7wWgb9CHg7z_Zw,Corner Bakery Cafe,3.0,117,False,VA
+KQqF1696WTdEQ5cXDTMYlg,Assaggi Osteria,3.0,7,False,VA
+KTPyngwOwl00rCgNfGU5Ww,Asian Bistro,3.0,58,False,VA
+KTvgm3dvU-2O-AATTLinBQ,San Antonio Bar & Grill,3.0,227,False,VA
+K_sdzBQWl20Z-kPKpplXAA,Mom & Pop Coffee Shop,3.5,289,False,VA
+KdAR9Rq-0ri_wiw_q78UKQ,Sweetleaf,3.5,151,False,VA
+KdI20gBOcdJILwAVg3LaVA,Legal Sea Foods,4.0,175,False,VA
+KgHIwa_ldM0HQluOy5tS5Q,Great Wall,2.5,38,False,VA
+Kk5ruwlrIXmGMRMYf5dP5w,Firehook Bakery,3.5,129,False,VA
+Km7sse_j5jaWXr_met7Nlg,Fish Market Restaurant,3.5,761,False,VA
+Kmj20O7yYuVF8UxGBB4WYQ,Applebee's Grill + Bar,2.0,139,True,VA
+KoAVUN8hT8K6qOwWn0bPEA,Duck Chang's Restaurant,4.0,162,False,VA
+KoU1nnp7Pu6gDF2WCerKTg,Gom Tang E,3.5,70,False,VA
+KtUQYoK-_w02I8ybIowfeg,Deli Works,3.0,14,False,VA
+KudJEL3-xWdk_zVAwACmtQ,El Pollo Rico,4.5,1410,False,VA
+KwQa7GB2RkiivYd6vdL-lg,KFC,2.5,19,False,VA
+KxDxrFmjiY6U3IO1cq3L4Q,Pho Golden Star,3.5,217,False,VA
+L2QSXQH14JcADoXnMfRzHw,Ngoc Anh Restaurant,4.5,5,False,VA
+L5wRiXrwTz1I3h8V1LEH2Q,El Encanto Latino,3.5,3,False,VA
+L8RSBLzf8a2ibeQTne_KdA,Thanh Son Tofu,4.0,359,False,VA
+LAEJ8dXrf52swIr-vAUqMQ,Chart House,3.5,1006,False,VA
+LALt_k2btYxjoVICzkL7uA,Old House Cosmopolitan Grill,4.5,72,False,VA
+LFQd0TXUOm7hIbrQB30SwQ,District Dumplings,3.5,336,False,VA
+LGqTlPVaX-9chJHaLfo0cA,Papa John's Pizza,2.5,14,False,VA
+LHzxiCe9JUxC62B0jJdEVg,Anita's New Mexico Style Mexican Food,3.0,83,True,VA
+LIIzAFsMuU1wnedRzHX-qg,New York Pizza Factory Plus,3.0,62,True,VA
+LKCz_W6qV6K0CCeaoERqYw,The Reserve,4.5,57,False,VA
+LKakQj2Gxk8Z63SrkHiOzQ,Cha Kim Phung,3.5,79,False,VA
+LL4UO0wECjl6b5-A50Qr3A,La Côte d'Or Café,3.5,133,False,VA
+LNRO4-t8dJ_lKKAsFndUWA,London Curry House,4.0,390,False,VA
+LP4pCkT-uLL9PrhXlpZaaw,Chipotle Mexican Grill,2.0,50,False,VA
+LP_fSarIIt0U7W9uJg_kWg,Lebanese Village,2.0,1,False,VA
+LQ2v5faVyH0X0NNyibtllw,Smoking Kow BBQ - Alexandria,4.5,203,False,VA
+LT4qPgi2CIoRZpChNYtonw,Aladdin Cafe,2.0,10,False,VA
+LV4tHkBwBhF720uzx6iIxw,Boardwalk Fresh Burgers & Fries,3.5,114,False,VA
+LZIJZa-z9nGjkBgG0FA2LQ,Pangpang Cafe,3.5,6,True,VA
+L_LuQQybySy9qy9GBzrjmw,Grapes Lounge,3.0,1,False,VA
+L_wQF0jxs7kbfZIPhg9jIg,Juke Box Diner - Annandale,3.5,165,False,VA
+LbDissG11bYd64pg-ktpRQ,Oegadgib,3.5,735,True,VA
+LbG_tDi7WAcvA-LlS9tMUA,Saigon Saigon,3.5,331,False,VA
+Ljbh5DlzZQdEm6C60lfg4Q,Jimmy John's,3.0,17,False,VA
+LnfaHShZp_1vHJ6cqBMpQw,Sabrina's Pollo,3.5,57,False,VA
+Lo9ew50oVsl7NZwOPN4FiA,SoHo Cafe,3.0,19,False,VA
+LouNvrVzTA2eb68nIj-H5g,Caspi Restaurant and Lounge,3.5,29,True,VA
+Lq5E_hkaDhNkEPUbi-4qAQ,Harth,3.5,202,False,VA
+LuGBODHiz1cYiyXG5_4D0w,La Terraza Bar & Grill,3.5,20,True,VA
+Lv3DF7bqVdtWWUC7WFOURA,Pistone's Italian Inn,3.5,164,False,VA
+LwCHr4TEKDIi6xDFmyic1Q,Yunnan by Potomac,4.5,86,False,VA
+LyA773Nb0MYa_SquUpd_gg,Kabab King,4.0,36,False,VA
+LytdQIou4bOmJ9pSzTfLlQ,Cafe 44,4.0,70,False,VA
+Lz0MDFy5iG29Kqb3uWai0w,Waffle Shop,3.5,151,True,VA
+M2Y94cyVTT7XO10AwcS8Ng,H Mart - Falls Church,3.5,149,False,VA
+M2ybSvtF8HFAZ92b-doIsA,Idylwood Grill & Wine Bar,4.5,174,False,VA
+M5anDNNh5bf5NOgMJ0_atw,Terrace Cafe Inc,4.5,17,False,VA
+M63Og1t1qh2qiICDd2T_zA,Whalers Cafe,1.0,2,False,VA
+MA21e6lMm_XJS8rNaiQe4A,Dunkin' Donuts,1.5,5,False,VA
+MCy7EK9MSfZlU_XcqHxf-g,Pizza Hut,1.0,8,False,VA
+MD7vzvsX5_ESWn0tmkl9pA,Little Lady Grill,5.0,3,False,VA
+MEQOZYQDBlemUQk15cU5Rw,Mercado Chilango,4.0,1,False,VA
+MEXLILyGtfr2V_3VXBWfBA,Villa Fresh Italian Kitchen,2.5,3,False,VA
+MIcEk9ac-pEee4Iqe0bMUQ,Yogi Sushi,4.5,12,False,VA
+MKqyauh8SD3nfoGfRRi8qQ,Chicken Loco,3.5,30,False,VA
+MO9YrznJMuQA0bAgOvzryw,Barley Mac,4.0,579,True,VA
+MO_MaJmgpK6Lf_hQKc1pJA,Pizza Hut,1.5,43,False,VA
+MOiJH3yRDtczvXJasTAbhg,Atrium Cafe,4.5,42,False,VA
+MOyQ4085J_nq4Z0DiazHwg,Hurley's Bar & Grill,2.5,2,False,VA
+MPvFGvB1slyIuf5ob6lQkg,Mediterranean Chicken,4.5,25,False,VA
+MQNHCWOBylGrMDa9IMXPbA,Delias Pizzeria & Grille,4.0,339,False,VA
+MR30ZkWTWxWUaY2CHKZBMw,Wildfire,3.5,771,False,VA
+MSc7bzRw-6E262irhxAgfA,Paisano's,3.5,67,False,VA
+MSm7CFdOkAxskxaUia7_zA,Tycon Foodservice,3.5,2,False,VA
+MUhr8LcKUsdoE0oFXVC5qQ,Gordon Biersch Brewery Restaurant,3.0,519,False,VA
+MWFNcH-kIB_xeXY3o-6F2w,Thai 24,2.0,12,False,VA
+MXlddvoKWBEtNWBAxeY_YA,Don Tito,4.0,700,True,VA
+MeO5lMo_oZmhaG45XzI8FA,Page,3.0,84,False,VA
+MhTVv-PQ9KlluPW25Tvjlg,Courthaus Social,3.5,277,True,VA
+Mjw5JsPeMkJ11YqUrMevIg,Bangkok Bistro,3.0,303,False,VA
+Mmxx3xsFxEPGpoWYnLcbsA,Williamsburg Deli,3.5,8,False,VA
+Mpg0Xzcul12YjfH2n7nnjg,Big Bowl,1.5,25,False,VA
+MpyxsURIHTQE2D8et6Xfow,Infini-Tea,4.5,82,False,VA
+MsGfoGUxamwvZ6Q8kA8gEA,RAWR Sushi,4.5,351,False,VA
+Msu9t-QbELLUt_loOnEDtw,Sloppy Mama's,4.5,5,False,VA
+My9q0xf6EBLr6Fuew5ZgUg,Pho Saigon Oi,4.0,6,False,VA
+N-IqBFsOOwS3u3EdD4zHRQ,Texas Jack's Barbecue,4.0,801,False,VA
+N2Ek2KGUCZc6bAtrISJagg,King Street Newsstand & Cards,4.5,4,False,VA
+N3rzA7SmauKlfK6x3dcDCA,Golden Hong Kong,3.0,168,False,VA
+N4TZRrOWR5GuNFbNnAgd9w,Hula Girl Bar & Grill,3.5,465,False,VA
+NAz7Hs-1Pdv0sLOWC3AUaQ,Sombrero Restaurant,2.5,4,False,VA
+NF_KXwjmTySuo0azq6Ta4Q,Latino Chicken Place,3.0,23,False,VA
+NG40ta9H5sV4rChMX5B4Mg,Essy's Carriage House,4.0,65,False,VA
+NGanuvGX_Xw7Awjv6JKzbQ,Chicken Pollo,3.5,127,False,VA
+NJe-MwSMzml-m3lIj_AJlg,Oak Steakhouse Alexandria,5.0,1,False,VA
+NKK0_8S7xGs9Iwr8XcvCuA,Cocorico,4.0,226,False,VA
+NQ4Pir3kHxv0kqqpCf0Jrw,High Noon,3.0,1,False,VA
+NRagjbNgImkw952His-QeA,Bartaco Mosaic,4.5,525,False,VA
+NT4nR2QqfdcgYPtSf2vD0w,Sweet Fire Donna's,4.0,656,True,VA
+NWfQ7TcRRgL4oMhmIA_ZfQ,Checheho Ethiopian Restaurant,4.0,37,True,VA
+NZ5UQ6hu1Bx2HdfKLUTbEQ,The Melting Pot,3.5,292,False,VA
+NZpArtJibXXqRtJafZXYkw,Ahra Kitchen,2.5,5,False,VA
+N_6pbr1IGamorXtABVs77g,Uncle George,3.0,3,False,VA
+Nbtxb-5rqXgn6RaEu1rsug,Curley's Q BBQ,4.0,78,False,VA
+NcC22EbIzRO4AwaBM7Pm2g,Manila Oriental,4.0,2,False,VA
+NgvRug38THRYkl-5lfFrGg,Wingstop,2.5,63,False,VA
+Nivs76DKoirrXq-RZaCjzA,H2O Cafe,1.0,1,False,VA
+NkO4vmvwzTFgxhwXuyG5qA,The Italian Store,4.0,187,False,VA
+NqD0LdvET3IjnBKFbWKcaQ,Subway,3.5,9,False,VA
+Nr3OhPg8HATvocNoSmKp8w,J&J Deli & Catering,4.0,63,False,VA
+Nt38RoV9RZnL6x3kl00BKw,Yamazato Sushi & Spice,4.0,540,False,VA
+NtObeMJ48j4qr8Pz-csNtA,The Cue Club,4.5,101,True,VA
+Nv_FoWkIbNr_0fZ3dGYWcg,Magills Famous Pizza and Buffet,2.0,55,False,VA
+NxNu1Pcc773vwAoI2VAFqg,La Finca,3.5,35,False,VA
+O0HCXh5iTRcAozktZ86Ryw,The Tuscan Grille,3.0,1,False,VA
+O0TlitkGzUBmwg9WhfxnkA,Irelands Four Provinces,4.0,299,True,VA
+O2wE0EWhUjS4rIcf85A-2Q,Masala Express,4.0,299,False,VA
+O5YrMeOGYDxLcnf5mrlR0A,Big Buns Damn Good Burgers,4.0,892,False,VA
+O5dQfUGxQqNhBhKggFwKsg,Crisp & Juicy,3.0,214,False,VA
+O5mt-Tx35c-8Zx3ZlHSaVg,Great Wraps,2.5,26,False,VA
+OEY00wUdp53ybB0Pkfx1fw,Lucky Thai Restaurant,4.0,149,False,VA
+OFKeQoR9hut54SsUV1-JNQ,Boba & Bites,3.5,213,False,VA
+OFOqI-pSJKUcShnFV_AuZQ,BGR The Burger Joint,3.0,199,False,VA
+OLJfrtQFuM9zDAjpqzum1Q,The Perfect Pita,4.0,9,False,VA
+OMh8eGN_AdTTCxRylPi3hw,Atia Kabob Place,2.0,23,False,VA
+OMpFTxuUZIPl2-kPt8uq-g,Pho Cyclo,3.5,334,False,VA
+OPAuSriogM2roJaBcyNNdw,Falls Church Distillers,4.0,38,False,VA
+OPpI4yQks90PvXgpOfl4_Q,Blondo Street BBQ & Catering,5.0,2,False,VA
+OQivXrJb5AmKxGW33bifIg,Chopsticks,2.5,20,False,VA
+ORGiC2f7UxaUvK_NZSHPdQ,The Cheesecake Factory,3.0,464,True,VA
+ORfl40l1PIkdmVFlTcnaSw,Peruvian Chicken,4.0,5,False,VA
+OT8wFyVU7SntkfS-gvTGqw,CAVA,4.5,32,False,VA
+OW7mNdPNDw0io3pSTp4k-A,San Miguel Cafe,3.5,51,False,VA
+OWsO9rQ-8Zg-USKlBmYF8Q,The Forest Inn,3.5,24,False,VA
+OZ5JzT8A96bEAxsc40xVTg,Roro's: Modern Lebanese,4.5,53,False,VA
+OZEXfwWtPOg4USgPlg-odA,Urban Bumpkin BBQ,4.0,65,False,VA
+OZHUhK5mCFK_eJbGzTEJlg,Subway,2.5,12,False,VA
+ObPQuzm3QSuddxNAeaY-_Q,Paramount Cafe,5.0,278,False,VA
+ObrKy9g0O-Ga-CVbesYJ3w,The Greek Taverna,3.5,91,False,VA
+OeyOUkrdd0dbFHFugCYKbQ,Which Wich,3.5,110,False,VA
+Og73EFz2Nr6iIDnO2fsuQA,Clark Street Grill,4.0,88,False,VA
+OlRZwqsIEj_eEx8O2lK2Jw,Top Chef Cafe,3.0,1,False,VA
+OtJg-gks0QprLvGVuSmKYQ,Tycon Cafeteria,4.5,12,False,VA
+OtTikVCjEcIgXN-JbXfucQ,Banh Cuon Thang Long,4.0,68,False,VA
+Ou1i1bNt5yFGvjq0hb3Bow,Super Chicken,4.0,449,False,VA
+Oupz3qb0HAPJZph24VTZzQ,Corner Bakery Cafe,2.5,101,False,VA
+Ovxr1_Qg-V3_t4RxtgRGQQ,Tally Ho Theater,3.5,49,False,VA
+P3OXUwErA2Xe2jptCWmxIg,Costco Warehouse Food Court,3.5,22,False,VA
+P5mHHz9Pu50TVcS_UwJ8EA,Forbidden City Express,3.5,56,False,VA
+P7ZDOYfgclFcQgQM0EISig,Vocelli Pizza,2.5,63,False,VA
+PEVa1GfDeoeOIS5Qr073KQ,Lost Dog Cafe - Dunn Loring,3.5,344,False,VA
+PEnabJqIht_lQ2o7Br5-uw,Huong Viet Restaurant,4.0,918,False,VA
+PF35AGlGxoSdQJAw4gLEww,McDonald's,2.0,16,False,VA
+PFs8ZJTRTfjp04PvVoShMg,Mejana,4.0,643,False,VA
+PG8xpIvwvX3ObPWefizI-g,Patsy’s American,4.0,59,False,VA
+PIQece_XHI89WzgiEw1RRg,Sweet Leaf,4.0,135,False,VA
+PL5-F9ErNRXrjuBTSuZH0g,McDonald's,2.5,48,True,VA
+PM0YVuMZT8wHUBMfb63-uQ,Bren Mar Deli,3.5,16,False,VA
+PM4dSYMmXTJ58XZOhJCe8Q,Sugar Palm Thai Restaurant,4.0,248,False,VA
+PORqy07ff850-rnxjRxW9A,Good Company Doughnuts and Cafe,4.5,57,False,VA
+PS4g_onVGbQmQQGIlFSs9g,Caprese,3.0,27,False,VA
+PT1QVzEf4gHA0xhxsWM0wg,Takumi,4.5,276,False,VA
+PTQ7Eqb0WuMPgtpaA24XGQ,1750 Cafe,5.0,3,False,VA
+PTkrdDZRAshsdLuRowsrgg,M's Deli & Market,5.0,1,False,VA
+PUK1MV6DW5rzfTrf-oxSbA,The Club Burgers & Sandwiches,4.0,119,False,VA
+PVi-hgqEX_q14XflBoEj7A,Pita Tortilla Restaurant,5.0,2,False,VA
+PY9Jht6G3g2l-cte-Uu08g,SOCCi,3.5,133,False,VA
+PYUejc_xfxh47qiAcTjyag,El Tipico,2.0,31,True,VA
+PavvtPMgJez1pH6aZ6UArA,Bistro 1521,3.5,234,False,VA
+Pk6tdh-nyLfSeloTHwhhRQ,Assaggi Pizzeria,3.5,191,False,VA
+PlcT2nuTHKLOYsOJixaeXg,Cedar Deli,3.0,2,False,VA
+PnPo-CuJ_y95FjiXGUUlNw,Italian Cafe,3.5,122,False,VA
+PnSfOmiCgBX6are2qTw9ug,RedRocks Neapolitan Bistro,3.5,527,True,VA
+Pp8yP2lYitTuF3kFj9nVAw,Gadsby's Tavern Restaurant,3.5,315,False,VA
+PqkkiuN2h-U-c27MtXW_vw,Gharer Khabar,3.5,139,False,VA
+PrRvHu-VJ6fDNV3sJb7gXA,Fava Pot,4.5,240,False,VA
+PrWOxsFx0DTYyIBqu06bUw,Sonoma Cellar,3.5,190,False,VA
+PtojJHYOmrM15cT7GlMPFg,Arlington Pizza,3.0,1,False,VA
+PwI3bmGoK-79HmhWf0cT_Q,CAVA,4.0,145,False,VA
+PwuN8D_ijolRu9Ie-7aW9Q,Ledo Pizza,3.0,103,False,VA
+Q0UIznn5mdGJ3DIRx9lBLQ,The Block,4.5,740,True,VA
+Q0V8e5EAc3Nc9bQaiX_ODQ,Heavy Seas Alehouse,3.5,398,False,VA
+Q2W5Q0DyShhu5FpJUumL-Q,Wendy's,2.0,34,False,VA
+Q3yhYLZ5ShSLntEFIWrpVw,Pizza Hut,1.0,7,False,VA
+QB8bdYi9_GMIT-jku9XQTw,Enat Restaurant,4.5,217,True,VA
+QBlLrVmmWv4nFYEOz1Ynzw,Momo Sushi & Cafe,4.0,876,False,VA
+QDHk4sW7qedArRnT7xSJaQ,Angelika Film Center & Café at Mosaic,4.0,443,False,VA
+QIAzF7anUngyM_YTVolmpw,El Rancho Latin Grill,3.5,221,False,VA
+QLkg2hX0-viN9moFhC3XLA,Hunan Chef,3.5,36,False,VA
+QM8GvLh3cSdSIe1b7MZl9g,Dairy Queen Grill & Chill,3.0,2,False,VA
+QP4d86GyZy1iRLCrte4nBQ,Subway,1.5,3,False,VA
+QTIUXZ_PEUfxJJgpno81Cg,Wingstop,3.0,60,False,VA
+QTJpHnYoDImwTueN_R-Q2A,Bugsy's Pizza Restaurant & Sports Bar,3.0,351,True,VA
+Qb0YVj4zVw_0qcOJ4KbZpg,Oxygen Bistro and Bar,5.0,1,False,VA
+Qc09Y-P78XX6n8cyL3Kf6w,Mele Bistro,4.0,366,False,VA
+QeNI3K2Eg-UMP5odJ4fU7Q,Takohachi,4.0,210,False,VA
+QhDyL6ILj5hJlkvRG_w_2A,Sen Khao,4.0,89,False,VA
+QhaYkyUU5s3qAku62TI2bw,Glory Days Grill,4.0,122,False,VA
+Qn9buhoCRLkfaMEmaE_j-A,The Halal Guys,3.0,55,False,VA
+QpSk9SKdqK-PPD4sg2WUMA,&pizza,4.0,92,False,VA
+QpeKuoOy1cUojpItdADVMg,Springhill Cafe,3.5,11,False,VA
+Qq_6bqQHYdAYENZ6B7G_fw,QDOBA Mexican Eats,4.0,91,False,VA
+QsUGCouawJ9LeP4129V4Mg,P.F. Chang's,2.5,363,False,VA
+Qtpl7SQedvgzkX0WKi2GZw,Zento Japanese Restaurant,4.0,483,False,VA
+Quqc250D7Jd_TWEE25QBIQ,Heritage Cafe,4.5,13,False,VA
+QyheiNXf49m68hoggXWo8A,Tippy's Taco House,3.0,112,False,VA
+R3VAm-YTq5y5SPfadtAqDg,El Rancho Latin Grill,4.0,52,False,VA
+R5COw7yP9axvZkc31JIQSw,Uncle Fred's BBQ Smoke Shack,4.0,32,False,VA
+RAAuTjWHSQWlz9vbPHtIKQ,Hunan Kitchen,3.5,84,False,VA
+RCEBOEAvyqU63CPfdBOgUg,Duangrat's Thai Restaurant,4.0,409,False,VA
+RDAGQqiWMJvp24ftS21kJw,Emily's Kitchen,5.0,1,False,VA
+REWqzYeTXwdA4k660FXDTg,Bistro Sancerre,4.0,55,False,VA
+RH2ACZMTv6ZOI26Qs6h3zA,IHOP,3.0,139,True,VA
+RHMaGt72ZuxPUmpX81Zy0Q,Casa Grande,2.5,5,True,VA
+RKLctqHCJK7IetmhdMyd6g,Sarku Japan,2.5,73,False,VA
+RNARWsTi-1qhg1fdgmp2Hg,German Gourmet,4.5,170,False,VA
+RPaHteIm3y2m1TefQ6qfcg,Release the Craycken,4.5,68,True,VA
+RQRbPb-nyGYXvO7rJhxXzQ,Charlie's On The Avenue,3.5,47,False,VA
+RRa4mm1ar_SGX1hQIn1Jtg,JV's Restaurant,4.0,68,True,VA
+RRh3lco00y8rW6zq-LcKMQ,Chipotle Mexican Grill,2.0,85,False,VA
+RTUt3chdSkv-ZDT3fgaMNQ,Pizza Hut,2.0,78,False,VA
+RTuZwV0WRNWT5oqtp-dNyw,Panera Bread,2.0,58,False,VA
+RUsK1m5je0g8p65UVAD-Ew,La Tingeria,4.5,81,False,VA
+RW88vj9dMVYSpcXJ9i8T6g,Juliano's,3.5,138,False,VA
+RYWCyp2ovDktgSwnR5Qmxw,Kabobistan,4.5,62,False,VA
+R_C3Cik9VgsNoaDUygO4FA,Papa John's Pizza,2.0,26,False,VA
+R_KQM8h4T6_xFz2UA5MfYQ,Moby Dick House of Kabob,3.5,57,False,VA
+RbLDsiKtbTv9lK7ghTOccw,Thanida Thai Restaurant,4.0,207,False,VA
+RbdDtU2sVNNFdXbiu3LjHA,TRIO Grill,4.5,381,False,VA
+ReWj8PAbCUg6dcVYD_cZCw,Ruby Tuesday,2.5,95,False,VA
+RgofqLNm_ZyJv50ryRFoDA,Panjshir,4.0,156,False,VA
+Rn5alyA8L__WD01gy6VKFg,McDonald's,1.5,30,True,VA
+RncrLWb73PR0V5-geELQ-g,King Pollo,4.0,118,False,VA
+RnnltBPH3uxv_Zv-VpMnoA,Chipotle Mexican Grill,2.5,97,False,VA
+Rnt5bmjfsg4MS3eLjpPX-Q,Viva Tequila II,3.0,19,False,VA
+RryGjGvw4gxq565NPri5bw,Papa John's Pizza,3.0,32,False,VA
+RsBty1bREe-J7vdU6UyEzw,Mediterranean Bakery & Cafe,4.0,220,False,VA
+RxbjQL84TRxM7D-3VDZ9Gw,Karahi Kabob,3.5,52,False,VA
+RxjTiOpAMuNn8KOc6UV69g,Panda Express,2.5,76,False,VA
+S1MZUJ8MKb1zrjHRWJb-Hw,pie-tanza,4.0,198,False,VA
+S1McIXJNoyuKP6gwmsbr0w,Mark's Pub,3.5,61,True,VA
+S4ZwS_1c8SLbwMDGFPyjAg,"kabob, Curry and Sweets",2.5,23,False,VA
+S5ZUrtBv6w9XXZ9vz-sw-g,The Athena Pallas Restaurant,4.0,221,False,VA
+S9MDPlFXXcyvhXgWKmikug,Phuoc Loc Bakery,4.0,82,False,VA
+SAhVZNr1BPRL7etO88oXkw,Pho Cong Ly Noodle & Grill,3.5,206,False,VA
+SCSLq-oGGTDmOeiyxwzkxQ,Jerry's Subs & Pizza,3.0,4,False,VA
+SG2Fq13J-JXB2i4aHouHog,ViVi Bubble Tea,4.0,233,False,VA
+SI3yzpe0-OtNCfhNx3DcPw,Atlacatl and Pupuseria,4.0,84,False,VA
+SImt36ZuSsFj_DkRODrT9w,Zen Bistro & Wine Bar,3.5,164,False,VA
+SKECV7xavtDs2udPW-kBdA,Pampasazone,4.0,94,False,VA
+SLOGaSkSU5DzZZdHSgkg1g,Metro Halal Food Cart,4.5,118,False,VA
+SQ0qUz6ghRkx-g0BbSB3yA,Jack's Place,3.5,120,False,VA
+SQfqoXHCbxQ3csJCEckZnw,The Simple Greek,4.0,73,False,VA
+SSzSaE_sh2u_eYCj6du4kw,El Tio Tex Mex Grill,4.0,370,False,VA
+ST7X0FNX5SXIOuLDWWyGIQ,Teriyaki Express,4.0,4,False,VA
+SUEjgjPTaoibK7oSwIWD6Q,District Taco,3.5,335,False,VA
+SUokZE-eIboa2-GrO9rZVg,Maneki Neko,3.5,279,False,VA
+SWDY4U9DfOMiFoLKm5xX-g,Slaters Market,4.0,40,False,VA
+SYmBe3MeRtj35VQzWYvMAQ,Iron Chef House,3.5,331,False,VA
+S_KX4pHfvJYIsf98FWQuUQ,Greenberry's Coffee,3.5,131,False,VA
+SgeIoV9glkGrzaJBdRc1-w,La Tasca,3.5,492,False,VA
+ShQL4bWq8BJjNe-yPJgeqw,Subway,3.5,11,False,VA
+SiPf7uImMbSaTaqcddgzJA,Happi Grill,3.0,13,False,VA
+So7a7z7pRaeVUhGCnjTtYA,Cushman & Wakefield,2.0,1,False,VA
+SpHnhS353ir52mUtD9SY9g,Chipotle Mexican Grill,3.0,115,False,VA
+Spzf2JZXfBdDvcy5QwNz6w,Wok 'N Roll Chinese Cafe,3.0,74,False,VA
+SqV91RubH_lavcf9lT-ztQ,Le Pain Quotidien,3.5,315,False,VA
+Swm15xIBu5duBwudN4sMLQ,Win Buffet,2.0,95,False,VA
+T-aPLxSPZq0ju-GtJ2jgTA,Dos Amigos,4.0,215,False,VA
+T1p76InvVVmpjNogsnUCoQ,Thai Treasure,4.0,45,False,VA
+T5qkVFJ25gFJ90tTUqT_5A,Eastern Carryout,3.0,46,False,VA
+T8R6sAamPv-U0n80TKkIXg,Tom Yum District,3.5,315,False,VA
+TAokp6D04Hb0ikRmod17Lg,Fatouche,4.0,67,False,VA
+TBXhjsPdbw79v8Wq3NbGdA,Greenhouse Grill,4.0,2,False,VA
+TEFTsQjgsWA-ZQhhOfGkGg,sweetgreen,4.0,289,False,VA
+TEoCOchyVUL7lHp16mbA5w,The Local Oyster,4.0,27,False,VA
+THhI_81o74rW46MO7qokAw,Chipotle Mexican Grill,2.5,17,False,VA
+TJ-mzO_uYSCbxCSW2m5P7A,Saigon City,3.0,178,False,VA
+TJ2uhkq5KyUgOuEyS16Ofg,Finestkind Lobster,5.0,4,False,VA
+TMiWSxhwuumW-9wiE9lJDg,Spring Hill Carry Out,4.0,11,False,VA
+TN2Ihp-pPPTJZIImxGukVA,Ragtime,3.5,261,True,VA
+TOlqB7-zoUdMg_DTlFXVOA,El Fuego,4.5,121,False,VA
+TRrkXjO9r10Sh4Ag6icTXQ,Nha Trang Restaurant,4.0,152,False,VA
+TVJpzWtVrC02aPtc3GqJyg,Silver  Leaf  Restaurant,4.0,2,False,VA
+TXRwUApEiR9FKBpMXOnJUg,Chipotle Mexican Grill,3.0,92,False,VA
+TXS5RTKgN9Mhj8Q3z0F66g,Casa D'Mama Pizzeria,3.5,129,False,VA
+TY83Ybil-Fh1-p0Cy-w2KA,McDonald's,2.0,77,True,VA
+TaJfRQO_hJpxUm1oTZumKw,Four Seasons Cafe,3.5,95,False,VA
+TabYxUG7nDmX3wXOZqzSEQ,Noodles & Company,3.0,70,False,VA
+TguqEqZEQEPX44fOA29CkQ,Duck Donuts,4.5,228,False,VA
+Ti6XxEj7vOVHRnTOL4Sy4A,Jimmy John's,3.0,38,False,VA
+TkjBIyfjAOTJV5WwhM0VxA,New Szechuan Express,3.5,33,False,VA
+TqqEbI19SmUEWo_tnZslIA,Iron Age,3.0,82,False,VA
+TrMb86GjCVCt3n3ArfQrVw,Cafe Manna,3.0,26,False,VA
+TsIev1rC7DyrruEW8mG3ng,Southside 815,4.0,487,True,VA
+TwekYFv0a6tXcFLu3bYWnA,Pizza Hut,1.5,15,False,VA
+Tx9GMUeOhBRorXPnDdqX4g,Dudley’s Sport And Ale,3.5,66,True,VA
+TzDUolWrjdDfK6w_2ppOsg,Matchbox - Merrifield,3.5,825,True,VA
+U-7DFjC79NKPAjorbMB4bQ,New York Grill,5.0,3,False,VA
+U-bHA5hTKhpy6EPSMoNgiQ,Sora Ethiopian Market,5.0,43,False,VA
+U3LnW_q7msgjSG6UCsmeUg,Kenny's Cafe,4.0,6,False,VA
+U3mRaQMoQDzCogLB3hIDEA,Halal Kabab House,3.5,103,False,VA
+U3v0g0NpNKv-SSl5hujZVQ,FDIC Cafeteria,4.0,10,False,VA
+U6A73EqLhljcxjRrAvK2MA,Osteria da Nino,4.0,371,False,VA
+U8GVdYCN5_tWFnamxbJGGA,Nazret Ethiopia Restaurant,4.5,44,False,VA
+U9h80DvwJvCkOMvGE1Ixlg,House of Fortune,3.5,252,False,VA
+UCpwjugFyTUdInwHdd_QFw,BGR The Burger Joint,2.5,55,False,VA
+UDGngf4xTwGz7jPEXQjdFg,Bozzelli's,4.0,238,False,VA
+UDrODIkPF0KKXQKqIqpY6A,Santini's New York Style Deli,3.0,108,False,VA
+UHNjbYL3QFOXD2nPYuY50Q,Osaka Japanese Steak House,4.0,90,False,VA
+UHyLjqhA1zjDTSzE-fEtIQ,Thirsty Bernie,3.0,178,True,VA
+UJD3Dvickx6lV898DSAGdA,Tropical Smoothie Cafe,4.5,79,False,VA
+UJjgj_haISdkvR6BNolWoQ,Taqueria Cancun,4.5,30,False,VA
+UKGPfaTcpoOGT4ydnGAMpw,Cafe Blu,4.0,2,False,VA
+ULtWW5K4Udcm63S1yeIS1w,Chipotle Mexican Grill,2.5,92,False,VA
+UMls2aIMa4oaaiEQCHSFtA,Thai Thai Restaurant,3.5,106,False,VA
+UNRBa9MIn-fmQpk3SkQS_w,Aditi Indian Dining,4.0,496,False,VA
+URPmY6A_yEkDY07vTkSHnQ,Mackie's Bar and Grill,4.0,415,True,VA
+US9sPzcZUj0KUnPiBG7ajg,Uno Pizzeria & Grill,3.0,151,True,VA
+USmFEiUiR0KMN6WOzskpfA,Little Caesar's,2.0,32,False,VA
+UTnNGqOK5BqKF4EyVl80rA,The Salsa Room,3.0,152,True,VA
+UYJYh271waRBov_I3j0rUQ,Lost Dog Cafe,3.5,334,False,VA
+UZm0C3ngV-hgyr7zUOsHHw,Wendy's,2.0,22,False,VA
+UaAZQzpx9cSEFWzQGSuCoA,Flippin' Pizza,3.5,155,False,VA
+Ucmc2livSyR1Y3iQsWhm2g,Aldeerah Saudi Restaurant,4.0,144,False,VA
+Ug1Xhn8WklfIM5sVhReVZw,Fontaine,4.0,578,False,VA
+UkIeSiUc3AtEnWWisfjlgA,Famous Dave's Bar-B-Que,3.5,228,False,VA
+UoeBjtcFKeOuMWGmsQ72ag,Hard Times Cafe,2.5,198,True,VA
+Ur8MjUkzgJRlMbYyaS2J2g,Outback Steakhouse,3.0,191,False,VA
+Uu6A4edyD6NUlqqAo2Cehw,&pizza,4.0,104,True,VA
+UvEQ5h-MOsCnfpWjh-fVRg,Quickway Japanese Hibachi,2.5,43,False,VA
+UyFxMQkm5Ty7K6QmSwmHbA,Subway,3.0,20,False,VA
+UznBkMv1nUsPZIkB2kilRg,McDonald's,2.0,37,True,VA
+V2wO44bEzJIleeZ2E9RZ7Q,Ruby Tuesday,2.0,117,False,VA
+V5-FNMpjI3sjBmESkexRQw,Laura Cooks,3.5,50,False,VA
+V5qQY8cKXsb03wZJjhBP-w,Universal Gourmet,3.0,10,False,VA
+V7r8pMedcHe9QWt82vUyLg,Donburi,5.0,1,False,VA
+V9YX5v-ExqLQtWQuSPgMbw,Good Stuff Eatery,2.5,113,False,VA
+VDwfr1q9m1UPZEkRINg00Q,Dragon Puff,1.0,1,False,VA
+VFM8XfjK25M-D38LW_ITzg,Riverside Taco Company,4.5,8,False,VA
+VO1jnrYSGFCGXxYHdu1r8w,Royal Palace Kabob,3.5,135,True,VA
+VQX70I5uYCCv1VAFbmM2TQ,Al's Steak House,3.5,254,False,VA
+VTqKNViyoGQjV3GuEYCSgQ,Sam's Delicatessen,3.0,7,False,VA
+VUfflugAZa3MxbtzDTGnEA,HammerDown BBQ,4.5,188,False,VA
+VXe5ZHjVvgfFfkMaSNyXgA,Subway,2.5,7,False,VA
+VYHSw-CczXJZk2GE-M4zpg,ChukuLata,1.0,1,False,VA
+VYzf4madobNGGl9rqIPzjw,Pizza Authentica,2.0,5,False,VA
+VZQvCO6HGLftkFr7d1tjWQ,Taka Grille,3.0,40,False,VA
+Va5ZXtWADLIN1Sw9S-cxLg,Hong Kong Pearl Seafood Restaurant,3.5,713,True,VA
+VbSnSm3l_d1M2DGuL1EN1w,Panda Cafe,3.5,94,False,VA
+Vet05uXkPUHYbXcL9ah_GQ,Cha Lua Ngoc Hung,3.5,15,False,VA
+Vg0-NSHUe0wNASHTqv0GfQ,Sushi 2 Go,4.0,193,False,VA
+VgpT2DO2RcASDwDcY9tkTg,Tokyo Japanese Steak House,3.0,154,False,VA
+Vhm9lH7mFR4wRP8hKHHwBA,Thai Noy Restaurant,4.0,158,False,VA
+VirS892XYAzaUpRWEfmKfg,Sip Munch & More,2.0,8,False,VA
+Vkm496BmKltEFjcOkgUTpg,Passion Fin,4.0,352,False,VA
+VnHkzzI8Mb0T1wpIJKlhNA,Super Pollo,3.0,57,False,VA
+VnwPxT5XZyRiBvRnyW9d-g,Two Chefs Pizza,3.5,80,False,VA
+Vo36o9BOtU0DngiOTXSKHw,Magic Wok Restaurant,3.0,45,False,VA
+VtVDWPmK7iPxYNeAxA5uVg,Holy Cow,4.0,569,False,VA
+VuQsgryFNstUPKUsMyyzEg,Popeyes Louisiana Kitchen,2.0,60,False,VA
+VuxJFwaiVLDbXLrQ9csv-g,Grill Kabob Express,1.0,1,False,VA
+VwR-PRjzUOCBqa5fjA-RVg,Great American Steak and Buffet,2.5,130,False,VA
+VyXl3B9oAAlW2coWwFimjQ,Rice & Spice Thai Cuisine,3.5,195,False,VA
+W-W4WjRSyQ8X9wky4WFEMg,Market Place & Cafe,3.0,24,False,VA
+W0XQFPWxgVCMxJ7A05jpvw,Malek's Pizza Palace,4.0,246,True,VA
+W1u2i381wt2MVwWuY5-QjA,Yume Sushi,4.5,150,False,VA
+W1uzxQifSRqrnTvQqZZ9jQ,Burger 7,2.5,48,False,VA
+W52HVVJFCa_x0RUacXDr3g,Milagro's Pupuseria,4.5,42,False,VA
+W5C6PjOTvdp2vvInuVaZ7Q,Shirlington Halal Pizza Restaurant,3.0,17,False,VA
+WAQXsIEnCFJ1gqmt8cA76w,Pan American Bakery & Grill,4.0,154,False,VA
+WCoIW94VWz73_d9Lx9V4RQ,Quinn's On The Corner,4.0,182,True,VA
+WCrBdTEaDCdvj3dqNYsfcw,Pizza Bonus,3.5,37,False,VA
+WD51Wdn_AJwQwA3adkryEg,Honduran Food Truck,4.0,5,False,VA
+WDTfHsuEzckp3B5bJhT6HQ,Donut Heaven,5.0,15,False,VA
+WHs7Ts7QWazxUYdxAputUg,McDonald's,2.0,40,True,VA
+WLMUph2I4J99NdkDc2O_-w,IKEA Restaurant,3.5,78,False,VA
+WLff-YWczPHQyW8HxclpNA,Five Guys,4.0,20,False,VA
+WLpgFJ44mxwtPdp9oCqbAw,McDonald's,1.5,33,True,VA
+WLrQluAkSf0UW-HlbZ2OqQ,Banh Mi DC Sandwich,4.0,576,False,VA
+WMGH-dhD8626mHro4HY0jw,Magnolia's On King,4.0,259,False,VA
+WOGBkH5wn_TY1gj3H4LBGA,McDonald's,2.0,29,True,VA
+WUSAY7n5uvFbXJ0Kqr9B-Q,乡味小厨-Uncle Liu's Hot Pot,5.0,5,False,VA
+WUbn9rTk6AtVnOoo74CXvg,Nespresso Boutique,3.5,75,False,VA
+WXnP225tYL8AKEXQE2xzQA,Dominion Wine and Beer,5.0,80,False,VA
+WZgvCC3oSc_zhB1JciKnkg,Sweet Leaf,4.0,113,False,VA
+Wf8g_y6cwT8vaNuwW9BnyQ,Burger King,2.5,37,False,VA
+Wj9z-uuvQoPMyoDabb0kvQ,Veranda Cafe,4.0,8,False,VA
+WjHutD6Vp4ZBOfq6WMrlkg,"We, The Pizza",3.5,330,False,VA
+WkIB83EfRZX6kNJk2eHVcw,TGI Fridays,2.5,198,True,VA
+WlD4z_s0ZWuYN8vK8gaIOg,Project Milanesa,4.0,19,False,VA
+WpJYEWLdwrUG9xBGtB0rPg,Java Grill,4.5,24,False,VA
+WqMCacZUMYXU_sKsxeisQQ,&pizza,4.0,68,False,VA
+WuRzdGAqDXI18BVT_54Uqw,Simply Fresh,4.0,85,False,VA
+WwH4ze5vmhv7BbMP6hvQkw,Victor's Grill,3.5,157,False,VA
+Wzj7EsImn3PhUXhRbSUhwQ,Domino's Pizza,2.0,25,True,VA
+X3Fmna27Rd-KT_34N-BOOQ,Asia Garden,3.0,22,False,VA
+X5U96XyfUWTqZu674kT8vg,Chuck E. Cheese,3.0,40,False,VA
+X5kjJgl84xIa0_mwLMNnNQ,East West Grill,4.0,210,True,VA
+X7U5kqAMgSduWL9FI4lkLQ,Tropical Smoothie Cafe,3.5,68,False,VA
+X8UhJvJvIKA1opVb9347Lw,Pizza Boli's,2.5,37,True,VA
+X9dyUmRV5JviVgAz4JqKZw,Subway,2.5,7,False,VA
+XGD1XkdqqD6j4z5mUwia2A,Flame Kabob,3.5,168,False,VA
+XH6FWblL9wiVY9bEctX8Vw,Manoa Bakery Cafe,4.0,278,False,VA
+XHPtDRNYTacX6u2MPLPQ-w,Della J's Delectables,4.5,287,False,VA
+XISk4KKjbQJNf3h3pX8xlg,Loopy's Eatery,4.5,45,False,VA
+XLM270bky_kR2TkE68HAVQ,Shawarma Express,3.0,28,True,VA
+XL_gLUQACa2ww4TnH1jXkw,Charley's Philly Steaks,3.5,25,False,VA
+XMTUhdNzl8wlcuHpNgJgzw,Fyve Restaurant Lounge,4.0,133,False,VA
+XMVj3Y5dnh5PrGB7QC5sRg,Cristinas Restaurant,4.0,9,False,VA
+XOQaddczmRWh1MQ_SI4tPQ,Neramitra Thai Cuisine,3.0,311,False,VA
+XQIoT11_Ou5PedBhVruH8A,Kabob Bazaar,4.0,339,False,VA
+XTSwyWsBklT3CMjeeWaeuQ,Moby Dick,3.0,165,False,VA
+XXg0T2Rt_wSjXKWFrbkw2g,McDonald's,1.5,32,True,VA
+XYqFgO66WG2q8mc2mOwVig,Dama Pastry and Restaurant,4.5,311,False,VA
+XahEiJm2uDQrzj_pzbqnRQ,Sarita's Restaurant,2.5,24,True,VA
+Xaitf5qqohV7QZLqLMMUSA,Shooters Sports Bar,4.5,94,True,VA
+XbLm1FG8MSv7AD0_xl3_2Q,Namaste,4.0,185,False,VA
+XbVyhDQVNPezG4-I0pvx-Q,Urban Tandoor,4.0,200,False,VA
+XcJ2QvWY5OuHh2XTszYIvg,McDonald's,2.0,22,True,VA
+XcQl0py6uZJMoZgkGsPgpg,Pho Golden Cow,3.5,148,False,VA
+XcYyH41_Z9gDxBj_C96oEw,Ali Khan's Express,4.5,4,False,VA
+XceRhqfiQd1bfAoGv12msw,Mocha Cafe & Pastry,4.0,200,False,VA
+XdaOQxlu9YYB6ow_njn1mQ,Bell20,2.5,29,False,VA
+XlPNlyqXHBzeKCxr_1-g4A,Namaste,4.5,433,False,VA
+XmYyDBTey_rE9YzzcVJtNg,Pasara Thai,3.5,250,False,VA
+XoNk-o9alpTjrlHKooZCSw,Saba Traditional Yemeni Cuisine,3.5,29,False,VA
+XvwfqkhqKPvkxiX7aSGcAA,Kimen Ramen Izakaya,4.5,64,False,VA
+Xx-xx4f4YA09zBiNlv4WnQ,Liberty Barbecue,3.5,269,False,VA
+XxIBiEI_aBDgtqtIQva6AA,Taco Bell,2.0,49,True,VA
+Y-5oQPvctznCxMnKgZIlCg,Thai Food,4.0,180,False,VA
+Y-Kavonmx2mImngrjOTZkA,Rocklands Barbeque and Grilling- Arlington,3.5,574,False,VA
+Y0R31RDfxn0ZVii9AJBs0A,Koi Koi Sushi and Roll,3.5,274,False,VA
+Y4UxftdX6IK3yxA_6uThEg,Rosslyn Gourmet,2.5,7,False,VA
+Y5KdONDo5sWkRv8aVK4H5Q,Del Ray Cafe,4.0,619,False,VA
+Y8X4-X7l_fNQ4VIVTqeBjg,Bonefish Grill,3.5,226,False,VA
+Y8bLcU2N-Ijhbn_Sjr370g,Subway,3.0,11,False,VA
+YB92vXpB2zYM1OA78UzzuQ,Silver Diner,3.5,556,True,VA
+YDEwy0AVXPEksttWE2CgYg,The Cheesecake Factory,3.0,468,True,VA
+YDtqLt3MVzP4fA4BERy96w,Chili's,2.5,129,False,VA
+YF8Ykgjo9DGQyyJMuRt8xg,Fresh Chop Chop,4.5,9,False,VA
+YKQV3jWLube1MbrkGV5HWw,Elevation Burger,3.5,402,False,VA
+YNfvjZ8_W0GR2g72ijhUCw,CAVA,4.0,46,False,VA
+YOOj2cFsQgR8PzPDooCZfQ,Banh Cuon Saigon,4.0,78,False,VA
+YOoOOlKOvaj-EUIK7X0dtw,Skydome Lounge,3.0,304,False,VA
+YPmlJSQSOqNq97LqzP8uOA,The Perfect Pita,4.0,32,False,VA
+YQrpTmeEolq9RnmC9rkOBw,Hummingbird Bar & Kitchen,3.5,172,False,VA
+YRbOIMa1Xsl9quY1YVDYtQ,Junction Bakery & Bistro,3.5,237,False,VA
+YSw09BGNfcfuOqvnpjB4Ug,KFC,2.0,20,True,VA
+YTTaKQTnIvwjdxyx_qXPjQ,Nespresso Boutique,4.0,17,False,VA
+YU51Zh0-RFBD-5V8IuHshg,Five Guys,3.5,28,False,VA
+YUUsWx-yBJ7-yy4tD7AAGA,Landmark Deli,4.5,3,False,VA
+YUheeff0UNbAgaJtZB7Nyw,Peking Pavilion Chinese Restaurant,4.0,77,False,VA
+YVVkclwOlRqsNhHyAYaCyA,Emma's Chicken,4.0,183,False,VA
+YXYg_vxtq2u5SKUlW7TAvg,Afghan Market And Restaurant,3.5,18,False,VA
+YYnS9SwkhmBfcGynQJ-gGA,Jerry's Subs and Pizza,2.5,59,False,VA
+YZAPpxw3DBCMttP4jYJ62g,Han Gang Korean Restaurant,3.5,178,False,VA
+YbiPd1NoQW9Ud6FcuGDriA,Anh Hong & Asian Spices BBQ,3.0,4,False,VA
+YbnZionKLNRROtUt1ZWc0g,La Hacienda Restaurant,2.5,21,False,VA
+Yd9AvRNJUhfS_ZSXtyW2gg,Baja Fresh,3.0,53,False,VA
+YdyWk_yTtqQ4tn_yj8ypoQ,Subway,3.0,8,False,VA
+YeCwb1pheocNqEluDVq_Jw,SanChick,4.0,53,False,VA
+YjTvFQbryT_ceXVsIuH6zg,Toppers Pizza,3.5,54,True,VA
+YlkjxOFWItD2We_xON_GgQ,Oasis Cafe,4.0,11,False,VA
+Yo9VZQFZVmIg4Ez25W0EpQ,Ben's Chili Bowl,2.5,150,False,VA
+YoDGakBQxcjzJhKQ3HpCRA,KFC,1.5,15,False,VA
+Yod8QGx0AaWvHR30pka1Rw,Sophia's Deli,3.5,3,False,VA
+YpbDUSsXKl7RlVR8TGLm-w,Mala Tang,3.5,568,True,VA
+Ys-eQd7AfQqAui0oNLb6qA,Sushi House,5.0,1,False,VA
+YsAUQmtgh5NC-2gwzW3w0A,Safeway,2.5,53,False,VA
+YsNkZpjaxe7XHq2pPw92DQ,Smoking Kow BBQ - Arlington,4.0,25,False,VA
+Yu1DzwoME_tf_akhzRG1OA,Cafe America,4.5,6,False,VA
+YufXxOEKFJwp5dkXefaSYg,Alto Fumo Pizzeria,3.5,78,False,VA
+Yux4AQdCtqBxAXcqFXm3qw,McDonald's,2.0,36,True,VA
+Yw4J6YfYJu6JDq37DlEE_g,sweetgreen,4.0,31,False,VA
+YwDkf4NbDt0kTqR_BX9ryw,Einstein Bros,2.5,83,False,VA
+YxMuxVM0_QD06xON5z1IqQ,Pupuseria Mana,2.5,3,True,VA
+YxziAmneMoV1OjfBsWdRrA,Pho 24,3.5,106,False,VA
+YyrfbdLhBV8tyifJpD4khQ,Westwood Cafe,4.0,7,False,VA
+YzKk-H0dcYp0C6XYwsrWEQ,Potomac Bar & Grille,2.0,16,False,VA
+YzwZvv5NBV5SM4t9RsXkMA,Shooter McGee's,3.5,316,True,VA
+Z6OSMhKxejiwNV_II6yVVQ,Wendy's,2.5,28,True,VA
+Z6ssV5Fgo7eawAAPdxSybw,The Java Shack,4.0,245,False,VA
+Z7acNzjtvWn8lU3GCKkk7w,Ted's Montana Grill - Crystal City,3.5,519,False,VA
+ZBlTu91o9p3ey_MPxd36ig,Cucina Al Volo,2.5,3,False,VA
+ZDoFP_8Cs85Hl42STP6vwA,Jefferson Cafe,4.0,11,False,VA
+ZDufZTP6j3JnfcVl0DJMTA,Roy Rogers,4.0,57,False,VA
+ZFUJz6QWMF3W7dTcOs6cBQ,Choong Hwa Won,4.0,342,False,VA
+ZGKAujpDkVFd1g7l3hETxg,Pizza Hut,1.5,9,False,VA
+ZGVKgk6-q6a0ZrHpadUNAA,Warrior Cafe Post 176,4.5,23,False,VA
+ZJ7wyyryWmSjBuNRX3nrjQ,Au Bon Pain,3.0,3,False,VA
+ZJUAmRlOVO5pKIgwhTaoiw,Heidelberg Pastry Shoppe,4.0,316,False,VA
+ZNltvpGft4PcS42IEWMZlA,Panera Bread,3.0,110,False,VA
+ZOHox7jeV3T0_D-R85bCMA,Eyo Restaurant and Sports Bar,4.0,80,True,VA
+ZORmIIKt6UmITGq-r5FHyA,Busboys and Poets - Shirlington,4.0,1256,False,VA
+ZOqStAOrttI8hdQc_LRmtg,Brabo,4.0,499,False,VA
+ZWCxQ2-10kRiYxu8NPb5Yg,Subway,3.5,5,False,VA
+ZXQS5aP1uWIOELg-xviPPw,Silpancho’s House,4.5,11,False,VA
+ZYVS2ZSWKunUBisP2Qa4jA,Ted's Bulletin,3.5,744,False,VA
+Z_6loNll8pu5q_c1DPZqmg,Woodburn Cafe,4.5,6,False,VA
+ZcehpT7tMT7rtg_IyBzVEA,Romano's Macaroni Grill,2.0,230,False,VA
+Zd3VoNce6jXffGVkBsdSCw,Miu Kee,3.0,281,True,VA
+Zdq6dpJK-exevmS5VHV_Pg,Burger 7,2.5,171,True,VA
+Ze5bYVUvivdy7hWxBeTcQQ,Pho Sate,4.0,732,False,VA
+ZfsSyCt7q_1JUbYEE46PEw,Pasa Thai,3.5,145,False,VA
+ZiCFiJr0cZQXh_7NIKV53A,Urbano 116,4.0,204,True,VA
+ZkWfK1L6Aj5B63F3AKbU3w,China Delight,3.0,94,False,VA
+ZnPkYfSc1HhhWoREsUohXw,Sunday In Saigon,4.0,251,False,VA
+ZneIwskXo4HTfPKJi5LZlA,Skylight Cafe,2.5,4,False,VA
+Zo8u1q7z8VyL15gTyVrS0A,Dogfish Head Alehouse,4.0,657,False,VA
+Zpnl0cYW4B5Z2HH8dWroVw,The Portofino Restaurant,4.0,332,False,VA
+ZrN69xkuSjDaEbeZdBgZZw,Chipotle Mexican Grill,3.0,142,False,VA
+ZrwU301C6uI59ynOpjcSmQ,Reynolds Street Bar and Grill,3.5,70,True,VA
+Zucgz_cqpnuEX5Dh5k_0Bw,National Airport Grill,2.0,38,False,VA
+ZwlMULSwFWJ4NodklGhyXg,Papa John's Pizza,2.0,33,False,VA
+Zwm9vtlExLx_ysb-vkXSXg,NM Cafe,3.5,36,False,VA
+Zx8rCjULitJp8T_zab2aAA,Scc Deli,4.5,6,False,VA
+Zxt_F8I9zWh1YofN3Pl1Rw,Pulcinella Italian Host,3.5,153,False,VA
+ZyVVRRt14t8eK_sLzE0_dw,Potbelly Sandwich Shop,2.5,40,False,VA
+ZyWlSNSx08Ybf50izJtkng,Stomping Ground,4.0,490,False,VA
+Zyo-u22jJzDmKmuCEBSaNA,Hops N’ Shine,4.0,50,True,VA
+_0gpuxlD7E5ZWk3F7kyN7g,La Paz Restaurant,3.0,9,False,VA
+_16B04QsupVB2lVgwLfTdg,Sandwich Republic,4.5,287,False,VA
+_3LE2_ScGUrbz5ddWe0JWQ,Five Guys,3.0,21,False,VA
+_4ViCjvWdufPwD3oRnJb2A,Chilanga Foods,4.0,4,False,VA
+_51Sn9w8gyf9O5_x65DZmA,Rocoto Gourmet,5.0,4,False,VA
+_6zGdL87MIAvkjsiGoM8vQ,Joong Mi,3.5,87,False,VA
+_8LcvkRDMs19VZFVBM5uxw,Guapo's,3.5,805,False,VA
+_9bQ8P2OLsVHAbOuVxGWLA,Ichiban Sushi House,3.5,321,False,VA
+_AaG9OzjSaN-T6kYZOAosg,Revolution Darts & Billiards,3.5,22,True,VA
+_CRtAuwWhvJmAQ35yZP06w,Subway,5.0,1,False,VA
+_CrMNI8OC9trgBIsRZWG7w,Los Tios Grill,3.5,150,False,VA
+_DfnQWpl6cAKkYh4DzDkuw,TGI Fridays,2.0,234,True,VA
+_Gv0e8_HhY8fX5Mex_pdaQ,Springfield Town Center Food Court,3.0,1,False,VA
+_IdreB6b9NBTouvlj4FQRw,American Legion Post 176,4.5,14,False,VA
+_KAG8hZxpw5uTWbC1kJJEQ,DIRT,4.0,88,False,VA
+_Lik2KWj90ppCJG3SgTZfQ,Domino's Pizza,2.5,43,True,VA
+_MZ_zmdCl7RHIKyrV_OcDA,Popeyes Louisiana Kitchen,2.5,13,False,VA
+_PxV1zJMB6rgaRsnj3atdw,Kana Sushi,4.5,289,False,VA
+_QFi5D2gwVoL3CL8WjcLbQ,Khan Japanese Kitchen & Bar,4.0,53,True,VA
+_SjKrjRYGld3vUQZ82ExBQ,Endo Sushi,3.5,321,False,VA
+_TWJZqoGEhX1FLSaT81m4Q,B Side,4.0,315,False,VA
+_V5Tlh35LrufRxobCWluaw,Crystal City Sports Pub,3.5,532,True,VA
+_VowG86LD5yDayijhZHf2Q,Cafe Pizzaiolo,3.0,215,False,VA
+_Ws7GTv8j02K39pKvKTElw,Evergreen Cafe,4.0,1,False,VA
+_XqCndSJYjJSW5cjZ3-EoQ,Maneki Neko Express,3.5,49,False,VA
+__3R_PQxGXiimYgGigHhyQ,Shake Shack,3.5,504,False,VA
+_cq_FlcQxM3Hv27MtBaQrw,Mediterranean Delights,4.5,10,False,VA
+_feW25VKRppuE0LAhjFt4g,Cajun Boil & Pho,4.5,60,False,VA
+_gVtSH9A5r-RSiD0pIQQKQ,Haifa Grill,4.0,149,False,VA
+_hu58tK1ZyPjoG1UnHQ0UQ,Bruegger's Bagels,3.0,167,False,VA
+_lj7tF05tuKEAOMtG2Tqjw,McDonald's,1.5,42,True,VA
+_ui5hPiFqQWWXKUBx34KXw,Kien Giang Quan,4.0,150,False,VA
+_vi-I4uF1N97ppeq-R7iuQ,Mangia Mangia,4.5,3,True,VA
+a049XciFG7N4MhTdyt4QXQ,Pa’ Tortas El Papi,5.0,1,False,VA
+a2Xwb1hnfs0tzb41hdNRoA,Thai Lemongrass,3.5,181,False,VA
+a5x8VWr4fZUF_X4AeoT-5w,Mama Mia Pizza,4.0,52,False,VA
+a8NjJNwMVUP3qAxlMYAVCA,Pho Hong Anh,3.0,68,False,VA
+aA3evn8yPWyNlC4g_7hn8g,Brine,3.5,379,False,VA
+aChzKpSSY34ji2CoyfJXzg,First Down Sports Bar & Grill,4.0,305,True,VA
+aDrlnNcZtCmHyfFVu4_G9Q,Whitlow's On Wilson,3.5,831,True,VA
+aFnN8a398FmlMyN7TzaZeA,South China,3.5,251,False,VA
+aGdjD7RexNRrCIqhSeHEwA,Panda Express,4.0,3,False,VA
+aHVlB01xoYLDBUwoYnGTZw,Hanabi Ramen Clarendon,4.0,265,False,VA
+aJ4lOuHnC0lY5-ha7nR8RA,Sofia's Pupuseria,4.0,73,False,VA
+aKdXpYjfE_79A-_h78vSOw,Blue & White Carry-out,4.0,126,False,VA
+aNkPCU1whYL_W7JMaZ_qgg,Fabulously Fresh,2.5,4,False,VA
+aOk-D4bmvh7ADTeqrrgm4g,Masala Indian Cuisine,4.0,181,False,VA
+aP8uA6LkzBc4q2R0RBRTtA,Yayla Bistro,4.5,447,False,VA
+aRgNF8cCAmkmimB1j2PTTA,Blue Sand Korean Restaurant,3.5,47,False,VA
+aTIrqwmEirT7RF72lYapfQ,Baba,4.5,259,True,VA
+aU3V9cQjhNsvjaGQeimUcQ,Cafe Rio Mexican Grill,3.0,279,False,VA
+aV6u_sPGaG61B3uwSBlqrg,Lost Dog Café & Gourmet Pizza Deli,3.5,664,False,VA
+aY0Pj9Ch9I-Ac3kniR_pVA,Subway,2.0,18,False,VA
+abMBBkHBalBRFO2tswXOKA,Kefaya's Café,5.0,2,False,VA
+ae4UYCb0Q0-h8OsRRdNrKw,Stone Hot Pizza,3.5,144,True,VA
+aec0ome52gcbLVYiBCvIdQ,Hunan Number One,3.0,316,True,VA
+ah8RUwYZxibJvpz_0l6CIg,Old Town Sandwich Shop,3.5,18,False,VA
+ai8mX8VXkkMPaUaTNswbhw,Istanbul Grill,4.5,111,False,VA
+aksHrN8WijIRbErzdBD28g,Clare and Don's,3.5,501,True,VA
+altTfayjtJAiH39nMrlqrw,Meridian Deli,2.0,25,False,VA
+aoe5viBx8sIZ-KwAe_uSCQ,IHOP,3.0,85,True,VA
+ap9bMCYooeGO8Ya_Jn94Mw,McDonald's,1.5,12,False,VA
+aqP1Oeni6VVmNTGCaQ--Ww,Chez Hareg Cafe,5.0,3,False,VA
+aqkzCTZOcBK0x5el2A7DDA,Subway,4.5,2,False,VA
+as4I6taMup3InWVg4TUD0Q,DC SteakHolders,4.0,12,False,VA
+av4ihi4uK0tNlLXNVrCGIg,Madrina's Sweets,5.0,1,False,VA
+avHzmFsepOW64xM9l9IWXw,Fratelli ,4.5,346,False,VA
+awAZgUIP68khZnCMIkF_vg,Highline RxR,3.0,297,True,VA
+az8WP_xq2DlBQoOGgfzUcA,Sweetbites Cafe & Bakery,4.0,64,False,VA
+b-k3NkJ1RUSDleRvoBrC_Q,Omar's Bistro,3.5,19,False,VA
+b3--NbTqdBEzPFtMPgfL0g,Old Town Deli,3.5,107,False,VA
+b3zQOC4tuYc1N5z5tRi6lA,Popeyes Louisiana Kitchen,2.5,50,False,VA
+b46G8kiMDzPYz2gHFG_MiA,Deli Italiano,3.5,68,False,VA
+b5lo5iWGRpqm3FopCKl_jA,Aroma Indian Cuisine,3.5,321,False,VA
+b5vpawIp5qstMoQa60-p7w,Honey Baked Ham Company,2.5,26,False,VA
+b7M7KTPNxrc5ydjxBazjiA,Go Stir Fry Express,2.5,2,False,VA
+b7wJmX7VsqAhptfIdlelYg,X.O. Taste,3.5,301,False,VA
+bAwpBpDPLPmnMbGah56D7Q,Luzmila's Cuisine,3.5,65,False,VA
+bB6qJCZBhCAkptGLsvaNXg,Foster's Grille,3.0,162,False,VA
+bDovwIGYxDhlual7kS99ng,Cinthia's Bakery,2.5,23,False,VA
+bHu90zj_Wrf4UnMDOexo9Q,Siné Irish Pub & Restaurant,3.5,342,True,VA
+bIsz6qRHItl25B56mfx4xA,New China Taste,4.0,213,False,VA
+bKRzYuvRL6Cl4jiOTfwy6A,Peter Chang,3.5,424,False,VA
+bNecSOFniQPy5VnLcUO0xg,Aldo's Italian Kitchen,4.5,134,False,VA
+bRfXlWXLuuAxeM1ljzjDcg,Honey Baked Ham Company,3.0,25,False,VA
+bYOO-ooja0soqh116iOH9g,Five Guys,4.0,99,False,VA
+bYUuoS5yTop77Ypbzius8Q,Shake Shack,3.5,31,False,VA
+bZR-XJIeXfxp_BnUcs-_GA,Marib Restaurant,4.5,211,False,VA
+bb9H4hrSfJLbjszXESj6lA,Boston Market,3.5,39,False,VA
+bcr3PNV-bZrjUGJ45P61hA,Thai Curry,4.0,363,False,VA
+bdAyagqkOTLNe-ruE_iVNg,Mike's Cafe,4.0,160,False,VA
+bdJ3ScXP1i5FBF_UpRwvLg,Asahi Japanese Restaurant,4.0,185,False,VA
+beZXaBZ4B7xerUMYs8nrqQ,Le Pain Quotidien,3.0,146,False,VA
+bepNpGqITi-1A90Se6DkqA,Shanghai Peking,3.5,244,False,VA
+bfO7ZPJT4OvOBc3WQHOAHQ,Gigunito's Italian Sandwiches,5.0,1,False,VA
+bfW5hicmgKscjmYU7ExRXA,Sfizi Cafe,3.5,192,False,VA
+bjmlmC0ZTBhqgEeIlcSKXA,Nordstrom Marketplace Cafe,4.0,92,False,VA
+boZG6-JlmaFYN78sC0D8Yw,Taiko Japanese Restaurant,4.0,209,False,VA
+bohHZHKSoncNgmqhQcDDRQ,Le Pain Quotidien,5.0,1,False,VA
+bpnb_ahOQCZEeTGGBNMqOg,Silver Diner,3.5,370,True,VA
+bqdqZSwejOnpz7sYdruzLg,Cityhouse,2.5,50,False,VA
+br6NjAEd2oeZoryqNMB2LA,Food Corner Kabob House,4.0,329,False,VA
+brVgg6jo5-LMegINIlxCPg,Right Angle Deli,4.0,45,False,VA
+bredm342sEAh6vWRvPKG1Q,China Cafe,3.5,60,False,VA
+bx4OqJyUMmeE2QGU53v_dQ,Cibo Express,2.0,9,False,VA
+bys6pYRFLRfay4glN4C69Q,Tysons Social Tavern,5.0,1,True,VA
+bzzP-7fQcb3Sd2tJynR7xA,Nostos,4.0,471,False,VA
+c01HfKIRSN0u5lLs9HqGlA,Subway,2.0,4,False,VA
+c3SIlTZ1saEyU-bmMi4dDg,Earl's Sandwiches,4.0,363,False,VA
+c572fhqo95UFhcgJzzwItA,Mike's Deli At Lazy Sundae,4.0,274,False,VA
+c6ZLqdMuU28o1YIEMJjeQg,Two Smooth Dudes,2.5,8,False,VA
+c8IIrhq_HYXZFk7mFOYs1A,Mike's American Grill,4.5,1763,False,VA
+cA1jVqDYSlKSEG-E__h1Aw,Fairlington Pizza Shop,4.0,176,False,VA
+cB--lN8q7jtq6PCuAvdWTA,Las Veguitas Restaurant,3.5,3,False,VA
+cB-GAIplNve2e_Mcah_H-g,IHOP,3.0,179,True,VA
+cEvKCWsiFHeKfeHXd0kXoA,DaMoim,3.5,110,True,VA
+cIvp4HEUCnW08ItNvVkOxQ,Q2 Taste of the Pacific,5.0,9,False,VA
+cLYbCGYelKwc9PbyFufw3g,Vocelli Pizza,2.5,74,True,VA
+cONzOIumH-pV4brb24igmg,Jimmy John's,2.5,41,False,VA
+cOlfVdhTjuKOYgFrBhhuAA,Taco Bell Cantina,3.5,42,False,VA
+cPQ4RSY9Qy7JeNaDUHig6w,sweetgreen,4.0,80,False,VA
+cS-Xlk7xg1kvgtQxs17-Pg,Los Cuates,3.0,307,False,VA
+cSDCS9l9sY5tc_ULQQMogA,Crafthouse,3.5,104,True,VA
+cSyq5-w9At_LiY0joGap7g,Peking Imperial Restaurant,3.5,42,False,VA
+cUVnHV5pC99fPaG7YBpiaA,Tabeer Restaurant,2.5,7,False,VA
+cWcW6jShfrmJWr4xz1808w,Sweetwater Tavern,4.0,933,False,VA
+cYiztA9lB6_QXpGLwzXKpg,Jackson 20,3.5,797,True,VA
+c_jX9LaXVOYIW7Q912mCow,Mylo's Grill,4.0,96,False,VA
+ca6g6LtitHRtmzZYYPQw6A,True Food Kitchen,4.0,1316,False,VA
+cbQIfEwjj_XoD2akHJYyow,Thaiphoon at Pentagon Row,3.0,355,False,VA
+cb_N1RaZI5CEv-yEi4eR9A,Cheogajip Chicken,4.0,170,False,VA
+ccg9V0RG6V43gKmwV7edPA,Kabul Kabob House Express,4.0,169,False,VA
+cd_RHMTq-LKTbO1Rq37N_Q,Hope Key Sushi,1.0,1,False,VA
+cecVDr95YwSHYhmB_AhwMw,Phoenicia Resto & Lounge,3.0,209,True,VA
+cgfOXR9qRsCoYfj5ud4phQ,Charlotte Artisanal,4.5,34,False,VA
+cl9FFCWxUP55I69QYePkKQ,Subway,2.5,12,False,VA
+clHPyj82dP2GDcJqOIYM4w,Domino's Pizza,2.0,66,True,VA
+cmwnNw99Z39FHmL4P5ORzw,Rito Loco,4.0,5,False,VA
+cqcCqhw2lWhKEsC2AZHiVA,Subway,4.0,8,False,VA
+czM3z5Z5aaeuo-xzp0UP-g,Five Guys,4.0,59,False,VA
+d-AeMWwJCfbrg1Cc4HigwA,Com Tam Saigon,4.5,15,False,VA
+d4VcQwRyXppE6p8YN-ARVg,Kiwi Pie Shop,4.5,25,False,VA
+d82VK9Ve7hq1WROlsA4fIA,Pupatella,4.0,1798,False,VA
+d8tIot6yYbb97y7nycqNdA,Delhi Club,4.0,327,False,VA
+dAgc_uXURqL2njouXfc8Gg,Peking Cafe,2.5,34,False,VA
+dD3ijVkoC26kCQBpSrYqiw,CAVA,4.0,391,False,VA
+dDIXvHHniIm4kC5x0AyfNQ,McDonald's,1.5,39,True,VA
+dH6P9Pk3wOoHtDufjonm-A,Chick-fil-A,3.5,172,False,VA
+dIMNqrq_vOHpLcOdcPCVpA,Saigon Noodles & Grill,4.0,59,False,VA
+dIpNaPgPwyDJ8GgVHY7r-A,Spin Pollo,4.5,110,False,VA
+dOKnbP1TjZx_3XB6_VYHgg,Carlyle,4.0,1276,False,VA
+dPZE3lhsRbox0KE1t4bpFw,Caboose Commons,4.0,260,True,VA
+dPbkPaPvFqYOQv40A1-nrQ,Cafe Sazon,4.0,96,False,VA
+dQdzHHqpn1MTb_Geu_34aw,Papa John's Pizza,2.0,25,False,VA
+dSKvHIkc1SEn9-mxzkYaDw,Honey Pig Gooldaegee Korean Grill,3.5,1577,True,VA
+dT3lgP3pfSR45TX7td-JOA,Connexion,3.5,23,True,VA
+dUKMRGq4mcq3F683qnBzUA,Chipotle Mexican Grill,2.5,37,False,VA
+dVHMyrVUBEYgS3RTac2pbQ,Garden Grille and Bar,3.5,11,False,VA
+dX1iPaNw_IOcBhWtQTT1Cg,Van Dorn Diner,4.0,139,False,VA
+dZ-7jCXHe3c86MU_kTMqHw,sweetgreen,4.0,105,False,VA
+d_JCgvw6fJA7gFjxQLdtYg,Caphe Banh Mi,4.0,969,False,VA
+dfLUhzC1HoYvjbOHq_-CVA,Pizza & Gyro,4.0,162,False,VA
+dhUlcuQnMo_6DB-dXTEfjA,Samuel Adams Brewhouse,2.5,7,False,VA
+dnFNudAooE5UFXN8YR59xQ,Silver Diner,3.5,330,True,VA
+dnZsJ-F4gm8qiQoKX1jTKQ,Ballston Place Gourmet,4.0,33,False,VA
+dobS5m6QeZH4Ca17wshqMw,Maggiano's Little Italy,3.5,645,False,VA
+dpdxywxqeMpUXSPvjHKDQA,Arlington Kabob,4.5,218,False,VA
+dqS2gz4KttzE7w04NJ6ubw,Rhodeside Grill,3.5,335,True,VA
+dqSc_uZY4qX6PAJe27Dlgg,Chipotle Mexican Grill,2.5,100,False,VA
+dqff8XraWEaCobqM6jqgig,99°c Hot Pot,4.0,262,True,VA
+du4WMCZcs2kuz-Olo8FXbw,Thai Ghang Waan,4.0,368,False,VA
+duer52a0aMheoSXUNZmnTQ,Mark's Duck House,3.5,675,False,VA
+dvnH9pu5LpIrYCZ7QVMiAA,Savio's Restaurant,3.5,120,False,VA
+dwUMlFEouFEEgnNF0Vk8ow,Mi Tierra Deli & Carry Out,4.0,31,False,VA
+dzOKqNpdEruRqc07q5ZuLQ,Subway,1.5,6,False,VA
+e01_oYp2LIalqw2lLGkDCg,McDonald's,2.0,32,True,VA
+e1bXwE_vOLqCOYgjWreXRw,Il Viaggio Italian Kitchen,2.5,11,False,VA
+e3XROcah0_nDFMI9tsaCYg,Chi Mc,4.0,341,False,VA
+e3xFagywbOWmKVGP2I9RNA,The People's Drug,4.0,177,False,VA
+e4nZqxBboXZd688asmOJMg,4 Seasons Cafe,3.5,8,False,VA
+e4pvve0lbV_d7u5G3QYV2g,Paisano's,3.5,148,False,VA
+e69zgJQC8GX-XULobjLk0g,Bracket Room,2.5,92,False,VA
+e7diJh59tAyDOFQA7-hZVQ,Noodles & Company,2.5,68,False,VA
+eBAcAIqxrQVLCM2AYQuDCQ,Las Catrachitas,4.0,13,False,VA
+eBKjzBacjblIWbT-Dk65vw,Sub Stop,4.0,17,False,VA
+eD0HfGjdlAypnJIsNRf-Vg,Present Restaurant,4.0,367,False,VA
+eJ1nUU9AR0Q3f_53NLlJXA,Slapfish - Arlington,1.0,1,False,VA
+eKGmapWc5dCXeyEToeoTSw,Ledo Pizza,3.5,103,False,VA
+eNm7X2_n3pkfV52MvxgJvA,Los Toltecos,3.5,342,False,VA
+eNnWo3f67SMUCO1WBNcsQg,Emessa Restaurant & Lounge,4.0,23,True,VA
+eV0BrV_UKwavPSfm7GS9Xw,Crystal Grill,3.5,4,False,VA
+e_jEP2y9VT_ux8UZOvPnfw,Subway,1.0,19,False,VA
+eb7047YpsBsgsXkNQFoVFQ,The Haven,3.5,159,False,VA
+ecL-_OrbtG1575fimtHrnQ,Taco Bamba,4.0,493,False,VA
+edzE_1Rg2ncOhNz3xQa34Q,Troys Italian Kitchen,3.5,58,False,VA
+ee-Oe0b9kPiMjWxehQQ_Fw,FIREPAN  KOREAN BBQ,4.0,67,True,VA
+eitZlqKgXewfmJUJCwZvRg,Domino's Pizza,1.5,63,True,VA
+el2yfaCjs1vHoJK4PYKkcw,Basin Bar Room,3.0,9,False,VA
+eq08BnR_-mAHlvFyNx79hw,Extreme Pizza,4.0,41,False,VA
+etAXOgfch3G51wt8746pkg,Little Sheep Mongolian Hot Pot,4.0,309,False,VA
+ew3GtzYMjQ0TJrZxLlEG1g,Bob & Edith's Diner,3.5,331,True,VA
+exvGPhAm3G5fMpkaOb7axg,Tropical Smoothie Cafe,2.5,38,False,VA
+eyBc0jZeuz-ssB-U4GOg6w,Noodles & Company,2.5,43,False,VA
+eyweCIcvdR6CiQgYL-XSVA,Bistro Eighteen90,1.0,1,False,VA
+f-_HwO6v3KHtRQO3YX8e5w,Esaan Northeastern Thai Cuisine,4.0,104,False,VA
+f0dZPMJXwENOt_P-KUTMGQ,Balagger Ethiopian Restaurant & Bar,4.0,16,True,VA
+f13HXS7iGr-0oOKXEP63LQ,Dain Cafe & Karaoke,3.5,96,True,VA
+f1OmNnWqwVxERhZoLSTGpg,Lacay Cholon,3.5,23,False,VA
+f3Hv-tVvO-noqW2DNxZvsQ,Chipotle Mexican Grill,2.5,63,False,VA
+f6Yp7u16mwe8_cUH2AGVOw,Farm Credit Administration Building Cafeteria,4.0,1,False,VA
+f6iUqQYzKdcmbRuCOY2gwQ,Kohinoor Dhaba,3.5,495,False,VA
+f6nEVauUFXb4qT4x31i8-A,TGI Fridays,2.5,253,True,VA
+f8ljjy7vQaASdNizDQBDWg,Papa Pizza and Wings,1.0,1,True,VA
+f9BAZHJuxqsl63FgmbMxrA,"Sip, Munch and More",3.0,7,False,VA
+f9ZiTNjFo3seUpLiav5tpA,The Terrace,2.0,1,False,VA
+fDzkHX_8tnkeAq0il0_u3g,Chipotle Mexican Grill,3.0,32,False,VA
+fEFIjJTOkgwTy4Xe7zAihQ,Hong Kong Restaurant,2.5,3,False,VA
+fFf5D15rbXePVZFXOWvgNw,Tivoli Gourmet-Deli,3.5,97,False,VA
+fI-eHUlno1CyhtpNK1gBUg,Living La Chiva Loca,3.0,9,False,VA
+fJ5WwKzYcmOLuwtNjEi2JQ,Ruffino's Spaghetti House,3.5,171,False,VA
+fJzrQD-doRptfSHIh53HWQ,Kogiya Korean BBQ,4.0,1506,True,VA
+fK8STlBBbmWYDsCCZ5kMcA,Century Cafe,4.0,5,False,VA
+fMjFdj1T3qN2Dl-QKh42mg,South Side Cafe,3.0,4,False,VA
+fOyFkyK6JVx3QrIVXZaVCw,Kanpai,3.0,213,False,VA
+fQTFKXraQ25cVQakluo8Vg,Kyoto Japanese Restaurant,4.0,228,False,VA
+fRp3Bod9QJthqFl33b6UuA,Subway,2.5,8,False,VA
+fTy0VGrrSIgZIrImKeifqw,The Majestic,4.0,406,False,VA
+fY4x0hP3CyztA_hqWPnpZQ,Urban Plates,4.0,215,False,VA
+fYjPvGskY9CaKLisXjwSpQ,Eleni's Greek Taverna,4.0,305,False,VA
+f_xgNaf-X-i1NFtBzcLA9g,Busara Restaurant - Tysons,3.0,255,False,VA
+fdRi8qRpZ7uuCH3Y2Gu2kA,Village Kabob Restaurant,3.5,23,True,VA
+ffVeYqHGFzYJKmzCx-fOzA,Dairy Queen,2.5,20,False,VA
+fhDqvOVxAZZVUTRAqXwK4w,Five Guys,4.0,160,False,VA
+fiYwoNh0tIhzfZhPLgaU4Q,Union Street Public House,3.5,471,True,VA
+flwFKhDmpT4P9ooSe0tA9g,Greensboro Cafe,3.5,17,False,VA
+fn3fsR_x85BLkWU94GbA_Q,Galaxy Hut,4.0,500,True,VA
+fnIEDED7g71uwdwp6kOQuQ,Euro Market Cafe,3.5,63,False,VA
+fppUmHCsDjesUayypsqyIg,JJ's Deli & Carry Out,3.5,22,False,VA
+ftSqVKo3LvgZTcenkugDaQ,Champps,2.5,364,True,VA
+fzSWnwtnSLB3Spw6FX5RuQ,The Best Little Cafe,3.5,31,False,VA
+g2vQ20OJdtPaKyGjG4K3hg,Copperwood Tavern,3.5,793,True,VA
+g9MqIAkmSEt01B8ib-UVfw,Chipotle Mexican Grill,2.0,105,False,VA
+gC8P69Fd4rBd4M1iwGuoyw,China Express,3.0,79,False,VA
+gCeneucuyT1dhVQIaZL7cw,Z Kabob,3.0,99,False,VA
+gDtmyv081GRCjwJDZ6J0XQ,Ricky's Pub & Grill,4.5,9,False,VA
+gFEgqF_NExcOZ4iuVtwXvA,All About Burger,3.0,125,True,VA
+gGJbWQ_4smiVAfSNkd4qoA,Nando's PERi-PERi,4.0,388,False,VA
+gIP-dpJAxx4leK3OR0d4Cg,Entyse Bistro,3.5,18,False,VA
+gIu_LEabt6g_m7zaYkv7_Q,Cafe Deluxe,3.5,390,False,VA
+gJA3U5sfSSzEoFMrcwD8Uw,2020 Bistro,3.0,4,False,VA
+gJHZ1Ze-iioIubaiz_NyLA,Samurai Hibachi and Sushi Bar,3.0,159,False,VA
+gLCUe6FeopOimakz2ur2MA,San Antonio Bar & Grill,3.0,135,False,VA
+gNhhcBg87eYoglH4uIz1Kw,Sense of Place Cafe,4.5,58,False,VA
+gThF293-HdL2o1iAy2Cb9A,QDOBA Mexican Eats,3.0,38,False,VA
+gWXa7UzzFjhcFRcMKRr7PA,Tequila & Taco,4.0,136,False,VA
+gY8Hlr-Oh0Ly8EFpXCWHsA,Hard Times Cafe,3.5,542,False,VA
+g_4L9opzWd2om-qShkg3kA,Sweet Nuna Middle Eastern Delicacies,5.0,1,False,VA
+g_SKr4bayy9cIqKKUtMQ_g,Nando's PERi-PERi,4.0,312,False,VA
+ga5yrdwfyDdwaq8yRxJCDg,Crystal Thai Restaurant,4.0,189,False,VA
+gc5Awe6DNN6myBjJEMippg,La Fromagerie,4.0,163,False,VA
+geOyACoaGcri6EuURqXGeA,Tsim Yung,3.5,37,False,VA
+gfYdNoB3KyI-2SgE_Ihk4Q,Boston Market,3.0,31,False,VA
+ggZhsgGN6aDTmEiOMnUR7Q,PW BBQ and Catering,5.0,2,False,VA
+ghaH3G0SbgCXlJA0X5faAA,Pizza King,2.5,2,False,VA
+girfubHL1zkI1lB-jiKwLA,IL Porto Ristorante,3.5,267,False,VA
+gjudnhHfed5xYhi-K1f5nw,Restaurante El Salvador,4.0,6,False,VA
+gkyEYm5W0wWm1knlyWFOXA,Taco Bell,3.0,48,False,VA
+gpED4iMJzTpTo4pae_585A,Grill Kabob,3.5,49,False,VA
+gpPl66Gtuh8Uff-W-3xVwQ,Dogwood Tavern,3.5,401,True,VA
+gsnnn1gIQ9MbTqRYdTZ0aA,Kokee Kitchen,5.0,16,False,VA
+gws5vPk55Vqk_BiC9SyTUA,Maggio's Italiano,3.5,142,True,VA
+gx9h5cmdZ17ApLeEKim8sA,Bonefish Grill,3.5,375,False,VA
+gxVJkK378ShwyDLSoCCNlQ,DC Steakholder and 1950s Creamery,4.0,20,False,VA
+gxy2fknxMKeuyuFrkFDD5w,Ledo Pizza,3.0,60,False,VA
+gzFGwgDnNreOPTUYshlj8A,Smashburger,2.0,72,False,VA
+h4VihwSFFBEgMZanKgy-7w,Lincoln Towers Gourmet,3.5,3,False,VA
+h6HXq3yIVeWi6EgqBdQHLA,Fonda Latina,4.5,4,False,VA
+h7zHYM8LbPWmXx0ZEqOOAw,Seoul Soondae Restaurant,3.5,133,True,VA
+h9kzHge9Akh5zRiWY2r4eQ,Jersey Mike's Subs,3.0,60,False,VA
+hATFL1ACEApAs8oHpRJ93w,Sweet Stuff,4.0,23,False,VA
+hHa5ptYCp0mw3FpeGrMaGg,Fresh Gourmet,4.0,4,False,VA
+hHy4BpjKBQsU1zbzgT-22w,Zaman Hookah Lounge,4.0,1,True,VA
+hJoBd1waeEXxHD2D0Ak4Ew,Nak Won Restaurant,4.0,193,False,VA
+hN-kCm6mUoWGtf8U_rQU-g,Rus Uz - Arlington,4.0,406,False,VA
+hNTBJU2V9Tl7Hy4l-oyYmQ,McDonald's,2.0,24,True,VA
+hPCBRWDKZSn8OFOJBwRgPQ,Guajillo Mexican Cuisine,3.5,514,False,VA
+hRUtSY9oHUSa6kjQyv2aRg,Village Brauhaus,3.5,82,True,VA
+hU1p-q0i1M051QBhqpefqA,Uptown Cafe,4.5,23,False,VA
+hUDXlKK-_8Yhf7MgC6chJA,Courthouse Deli,3.0,15,False,VA
+hVHwc_PSQorXjjEHPqDhKQ,Pa' Tacos El Papi,4.5,70,False,VA
+hbU7BPpTGOwiHHxYegOY2Q,La Jefa,5.0,5,False,VA
+hbjDPj2TQ6HbRg7NfI9_hA,Viet House,3.5,286,False,VA
+hd_Nw--kHY_b93a5lOPcAA,Lilian's Restaurant,2.5,11,True,VA
+he5lVUKgvlGmjMeWjLnO8A,Poké-Man Truck,4.0,43,False,VA
+heZO1g5Y7fHjgTQucM7R1w,Manny's Olga's Pizza,1.0,2,False,VA
+hfmrtXrowkQXbVmAfMuOLA,Chill Zone,4.5,207,False,VA
+hl3ZWyjN93QPc9kRooSh1w,Table Talk Restaurant,3.5,416,False,VA
+hmz_WnnsuoBtmPUl2zbnyw,The Warehouse,4.0,558,False,VA
+hnlIBHBJj9IB-T07cN_u7A,T.J. Stone's,3.5,404,False,VA
+hpX-SI6Cmw2weQQ7ec-tJQ,Rice Paper,3.5,689,False,VA
+hqoXhP7TWtBb6yl9NeVNgQ,Doña Bessy's Pupuseria,2.5,63,False,VA
+hwO-SsDg-NhWbKuLfRf1mw,Pho Kim Resturant,3.0,66,False,VA
+hz5gq1p4n4SenMWfEOFSMA,Pho Factory,4.5,389,False,VA
+i1c5zIqoN0HyQ4r59eWYpA,Jersey Mike's Subs,4.0,62,False,VA
+i1t8z0VI79C1i1NtChrITA,Pizzeria Paradiso Old Town,3.5,437,False,VA
+i478RLKzFDilmjusHBVmLg,Asian Bistro,3.5,242,False,VA
+i5dIoGLpWU_FZl0l2X4R4w,Aladdin Restaurant,4.0,52,False,VA
+i5ydv0b3U_uBk7kNfN2gVQ,Ellipse Restaurant,3.5,17,False,VA
+iKAut08RKmnAZdP_IuosUg,Fresh Kitchen,3.0,6,False,VA
+iKlUuTshDQ11W3MQdQMetA,Chef Guo,4.5,31,False,VA
+iLXqkMbsLQq_DY91f2qUYg,Sawatdee Thai Restaurant,3.5,620,False,VA
+iLi5D6Pkn5iKWUI9g3kzwA,Springfield Cafe,3.0,8,False,VA
+iM5vnUDpmKyEZ9YFePEbEg,Peru's Chicken,3.5,10,False,VA
+iNR18YhaHNbPKc9lQqkxiQ,Pete's New Haven Style Apizza,3.5,538,False,VA
+iPTjMnxg6yTbL0YH25F1nQ,City works - Tysons,4.0,26,False,VA
+iR5nA5kKKB-2ADzWzZUWGw,Potomac Perks Bistro,4.0,1,False,VA
+iTMvODXoP9eo3odv-ueRbQ,Yard House,3.5,1074,True,VA
+iZ4AJ6z9a851hFHIBZsrWQ,Quiznos,5.0,1,False,VA
+iaEaAOc6dKOVMcmevqC6Jw,Dama Bakery,4.5,34,False,VA
+ifIB1AES88sldX3fXxJ2vA,To Sok Jip,4.0,481,False,VA
+ig3oLr_FbG6dp0i_QPFXoQ,La Granja De Oro,3.5,152,True,VA
+iiFsCZCArcxd4CIfxSsVuA,Akmal's Kitchen,3.0,2,False,VA
+iiytvFtZud8DuBtNJ7-HKg,Ravi Chatkhara,3.5,14,False,VA
+il5R5Wi5otVmZ98X2Im0SA,Five Guys Burgers and Fries,3.5,48,False,VA
+ilGBHYco3BHkcPmWeQR88Q,Five Guys Burgers & Fries,3.5,42,False,VA
+ipdc3g20nDx1nF7uyQLRcA,McDonald's,2.0,53,True,VA
+iqk5O6ix-nueLZIuCIoWNA,Smoke's BBQ,5.0,4,False,VA
+irNaK7wXiwKn493_6XfTCA,Dama Ethiopian Restaurant Pastry & Cafe,4.0,60,False,VA
+irgFBxzwQSdzlKPLkOskBg,Poke It Up,4.5,60,False,VA
+j1zI3Ort5IXuNZBQcHYnWw,Great Wraps,2.0,25,False,VA
+j7H7LYglkQeJmMK_-u7lTQ,Maggie McFly's,3.5,193,True,VA
+j7p8X48jDjmsuLw4ttJ7WQ,Hot & Cold,4.0,33,False,VA
+jFEeT8PLB7Vv9Xdh7hgimw,Grand Hunan,3.0,57,False,VA
+jFXNk7HKQ5_ew8lebefyGQ,Panera Bread,2.5,32,False,VA
+jL-sjKYnEL3thqlDup1ptw,Lalibela Ethiopian Restaurant,4.0,11,False,VA
+jMGOQ8D2juwVNLxi8-twxw,L.A. Bar and Grill,3.5,96,True,VA
+jRSB6nu34yognGXS0t280Q,Burger Bomb,5.0,4,False,VA
+jUF0wvy0WE4dQ_m6qEOt8w,Kilroy's,3.0,218,True,VA
+jU_mBaIdzjRqgBv5LJkCpw,Pho Ngoc Hung,4.0,138,False,VA
+jUoA1T_PrMCvCQKodP7-Gw,Arby's,2.5,30,False,VA
+jWdCOqPutn9PfTVIBd2Cqw,California Tortilla,2.5,50,False,VA
+jX2NIem-uvaumdt1WBCh3g,Lucky's Sports Theatre & Grill,3.0,208,True,VA
+jbfA-xtxNAdNrqyjKxHi0Q,Padaek,4.5,783,False,VA
+jdFmoXsA_DDPC4g4zIX0Yw,Subway,2.0,6,False,VA
+ji_mlC_LLeTrdgoyHmIpPw,Malaysian Kopitiam,4.0,93,False,VA
+jjAYnuIsB7CNu8abULOwcA,T-ZO,4.0,64,False,VA
+jp2X5VxKVVvSd2534r8Zbg,Zikrayet Lebanese Restaurant & Lounge,3.0,305,True,VA
+jqLi50-n1_w53TIjVjlFPA,Subway,3.0,4,False,VA
+jvTlS_K1oqWxjOWZFqwMnQ,Jimmy John's,2.5,43,False,VA
+jwO94CmA5xeN866qlRsaxg,Rolling Cooking,4.0,170,False,VA
+jx_q-STeOpRYxxWSW0vsEw,SER,3.5,281,False,VA
+k-E2ZtBGgwOnmGDW4LrpMw,Zinburger Wine & Burger Bar,3.0,478,False,VA
+k-aFd_M6VMUAqMOXeSU-Ig,Stacey,4.5,4,False,VA
+k3GbLvsOYBDIob0vasYpVg,Punch Bowl Social Arlington,3.0,276,True,VA
+k69DRM5aepfZNF4w6EpJ3w,Young Chow,3.0,149,False,VA
+k8KXl_8xMwS9436S3bESiQ,Jimmy John's,3.5,58,False,VA
+kA5IWlpGvOdzzOhAUGmS_w,Balboa Steaks and Cheese,3.0,14,False,VA
+kDlFQbZWMywtijjGq84KKA,Java Works,4.0,8,False,VA
+kE3UI-uyPH39jlmT-lmUOA,Tippy's Taco House,3.5,144,False,VA
+kET2mdTXCEnz_m3cHlZasQ,Subway,1.5,2,False,VA
+kFXxO7UEa5zJkHY7kvj-uQ,Cafe Gloria,4.0,27,False,VA
+kGDqIRNES38PHSZamrLwBA,Paisano's,3.5,83,False,VA
+kLAzKsMTQWk3snb3Yg2Oqg,T.H.A.I. in Shirlington,4.0,567,False,VA
+kLYjK-4Q_-xWk77oWXKo2w,Fairfax Deli & Pizza,4.0,36,False,VA
+kLxG9pA3_QoX_5wsVCvN7g,Delia's Mediterranean Grill & Brick Oven Pizza,4.0,491,False,VA
+kLzD0f8bH7QkfiP89b7tyA,Tanpopo Ramen House,3.5,351,False,VA
+kMWIOAOFeKeWUgF_CiTQyA,Dominoes Pizza,2.0,3,False,VA
+kOtrp4MbGhi2hkhgxAWJuw,Hot Lola’s,4.0,135,False,VA
+kPGm3RQLgoiVjCraTp7M4Q,Idido Coffee and Social House,5.0,65,False,VA
+kPgXDreTqKpk89CdL-OzLA,Potbelly Sandwich Shop,3.0,70,False,VA
+kRf-JvMnCC1AGAnhMB-OcA,Zoes Kitchen,3.5,132,False,VA
+kTF4y0Axg2QdYC3kDcqJxA,Subway,4.0,12,False,VA
+kTZu7WieAo1ihJ3rRqmBMA,Augie's Mussel House & Patio,4.0,66,True,VA
+kUZPkkmVVMdzTmWOqhnaOA,Papa John's Pizza,2.5,37,False,VA
+kUdte0_oEgkbOfheu9PUTQ,SLAPFISH,3.5,20,False,VA
+kW7DXrVGYFaUyPxLy-Nc6A,The Capital Grille,4.0,441,False,VA
+kWHhCwNdYrVsvKhHA5EGgQ,American Tap Room,2.0,187,False,VA
+kXsOXXlT-Bg5zmPmrYEAkw,Moby Dick House of Kabob,3.5,65,False,VA
+k_74Y8vP_7N4wWpo6VXyAA,Russian Gourmet Food,2.5,9,False,VA
+k_gYlGRQB9dKPTlMA_D_8A,Buena Vida Social Club,4.0,10,True,VA
+ka6ryiUqnjuqm9jkHW5BgQ,&Pizza,4.5,8,False,VA
+kaOt2Nj7h0MnozmlTEGOVQ,The Halal Guys,5.0,8,False,VA
+kcHzqIHSZLpfFisLlIcQcw,The Italian Place,3.5,130,False,VA
+kcmZ7Um2BMsTHvwxPs1elg,Rabieng Thai Restaurant,4.0,183,False,VA
+kdlYkUJpEvkIWrnQFZ_o8g,Subway,2.5,6,False,VA
+kepB2hmQf-xCWQq5r6HiRw,Sicilian Pizza,3.5,97,False,VA
+kg9hZyx9nfx6ahzy_mtaOw,Jangteo 7080,3.5,56,True,VA
+kgT7b-QkP3wy-hlq7DwG6g,Niralla Sweets & Restaurant,3.0,96,False,VA
+kickYaPQqwQy1c2wRY_aUA,Great Wall Supermarket's Restaurant,3.5,25,False,VA
+kjp9ZFjp0pN_Un7oLmgeuQ,Nick's,3.0,113,True,VA
+klTPA_4SdBvgxtGP8ge1wg,Sushi Nami,1.5,2,False,VA
+kmvJ5hzMybYP9gal-pP2RQ,Myanmar Restaurant,3.5,241,False,VA
+koS8uGPsZIuSUSyQK4nI8w,Jerusalem Restaurant & Catering,3.5,245,False,VA
+koft6ej3M3VZoH8N8xLZWw,Galae Thai Restaurant,3.5,296,False,VA
+kqfUX9gH0rHEIfOLREDOuA,Taste of Asia,4.0,237,False,VA
+krB8md2Xlm5gQix66xQ_NQ,Market 2 Market,4.0,104,False,VA
+kxFsdaeeFMtKGaLiPXXDjA,Oby Lee,4.5,473,False,VA
+l258ltO5tw4-I6BTbZ-6Rw,Shutters Bar & Kitchen,3.5,15,False,VA
+lAuecfzfXwu3-lkNBaF9yA,American Prime,4.0,84,False,VA
+lCeIkdU-UA9ixssF9dmXSQ,Lesly Restaurant Bar & Grill,3.0,8,True,VA
+lD1YdQpINX_mz6HrGG0JAg,Summers Restaurant,2.5,151,True,VA
+lDgYC-Dpp1OlFkSWbuGxZA,Spice 6 Modern Indian,4.5,486,False,VA
+lF4I87t-DyqIo-W2-g453g,Dabkë,4.0,12,False,VA
+lKvWgvRu94pEPEButI2Ucg,Green Pig Bistro,4.0,834,False,VA
+lL0NXXhSbku0Gl49b4rjYQ,Panda Express,3.0,52,False,VA
+lNAwP-C_KalCGTlvIErmGA,Kaizen Tavern,4.0,131,False,VA
+lQC8hqxT-vP7UZEzi_IuMw,TGI Fridays,1.5,271,True,VA
+lQhXiFpO2EE4iYKHNgiphg,Takeshi Sushi,4.0,20,False,VA
+lTqbkcXhn8bQyXqQDjaI5A,Panera Bread,2.5,87,False,VA
+lWMoEJZ0oW5l0I-GDnMPGQ,Grill Kabob,3.0,107,False,VA
+lXzNZkxjYTPnq0xzZggDYA,Celebrity Delly,3.5,266,False,VA
+lYQ3gz3YCYYPqS92_TY8fw,Thai Café,4.0,229,False,VA
+lYaJawU_mZO4_T78Df3COQ,Peacock Restaurant,1.0,1,False,VA
+lYnqgcblDV2HJlLJLtDg-w,Chili's,2.5,139,False,VA
+lgw-685kIZUpmDsGFihAvA,Panda Bowl,2.5,57,True,VA
+llSWTMWumS5j1ctaQ2BIkA,Kabob House,4.5,31,False,VA
+lmCuLwr2OM2kGfFx6gHjQA,Papa John's Pizza,3.0,28,False,VA
+lrfVOGf-dRhq8mwNCJMm_g,Philadelphia Cheesesteak Factory,3.0,228,False,VA
+lsTUFqEeyyzkixd3bei7IQ,Chima Steakhouse,4.0,971,False,VA
+luTWs9mfWHHkDe9Sy_r8gQ,Paisano's,3.0,48,False,VA
+lv80SKqS8wfAPllFuyfUfA,Banban Fusion Eatery,4.5,68,False,VA
+lzEtt8oZ4BJUoZpKpX1NDw,Kizuna,3.5,477,False,VA
+lzJm9fT0j8C3xI1W9MvtZA,Subway,2.5,3,False,VA
+lzOxtVOhJu_MK9bIwSB_lA,McDonald's,2.5,33,True,VA
+m2Q1qbD3pu_vGLhBAC8hiw,Pho Viet Flare,4.0,305,False,VA
+m8iOhaOrrw7hD6znxWselQ,California Tortilla,3.0,148,False,VA
+mHivcgOcEfM6FDTi49mb2A,Balageru,2.5,3,False,VA
+mJYEEhUYE0ffvGAA_0fhMg,Subway,3.5,18,False,VA
+mJl1EQXcyOo-WJNZm3bN1Q,Clyde's at Mark Center,3.5,454,True,VA
+mKMUqyrCuqzzDgXdI_Ttuw,Nua Haus Thai Sushi & Drafthouse,4.0,92,False,VA
+mL3kirxDpVPMq_tH2LFFPQ,Continental Modern Pool Lounge,3.5,245,True,VA
+mNL0OMmJuqwjvMu1e5rh1w,Lima District,3.5,20,True,VA
+mUzEkBi14OFh7ZLEcCBcxw,Kumo Asian Bistro,4.5,867,False,VA
+maWRKEGgS1dXIqPlUTd90Q,Kulan Restaurant,5.0,15,False,VA
+mcuasjgJhiKd0lMhXUbZkw,Ballston Cafe,3.5,15,False,VA
+mcvKBqG72EtziL_A6fD4sw,Healthy Fool,4.0,70,False,VA
+mdgflTABip8BUB6NMllOng,Bronx Pizza Subs,3.0,192,True,VA
+miYD0_zsQv2_nawuHR2mEg,Ju Mak Jib,3.5,46,False,VA
+mk-F1-5Wd85Cm9Um7HSuJQ,Subway,3.0,13,True,VA
+moYgvv0LXK6umAP6V9Ftrg,Taste of Eurasia,5.0,33,False,VA
+motn9n9Xvtqw5qa1VlS7AA,Ramen Factory 42,4.0,199,False,VA
+mrOL91MP7oQUFUxBS5Uf3Q,Meggrolls,4.0,218,False,VA
+msC64xuXjejENTeZE9FB8w,Venezia's Gourmet Pizzeria,2.0,1,False,VA
+mw6PR2LXUiljTHlt9vPd6Q,Bob & Edith's Diner,3.5,494,True,VA
+mzw-hyEjODeq_PzxQ1hCXQ,Crystal Bonsai Sushi,3.5,177,False,VA
+n0CPyLn94Od3Ql0VK3KZBg,Dairy Queen,3.0,21,False,VA
+n3yuLaMvreBquUiIdaYvEA,Pupuseria Doña Azucena,4.0,173,False,VA
+n5dt0drSPNEkYnQl55x4HA,Chelsea Market & Deli,4.5,48,False,VA
+n850-tl-BCNTdbI4Fg9phA,Wingstop,3.0,133,False,VA
+n8aPlL0D1DkD-BuSdapIew,Street Kitchen,3.5,117,False,VA
+nDbE6x9JThj94reVaD6uEw,Randolph Deli,4.0,4,False,VA
+nFCmXU-z_s5Ci_f6_990Zw,Saffron Indian Cuisine,4.0,214,False,VA
+nG7FGIbvsDEyIHZebG9MQw,Willow Oaks Cafe,2.5,8,False,VA
+nHVgQaG0XX3zSKtDvYT-qw,15th & Eads,3.5,20,True,VA
+nHeldHOLQZ_WG7k_VwP8CA,Choong Man Chicken,4.5,77,False,VA
+nIMeOZmUC3Q8pKkiKtORrA,Mad Fox Brewing Company,3.5,997,False,VA
+nIgDD3Gtq8Ya1ddJ1w1IMQ,TNR Cafe,3.5,505,False,VA
+nKQk4IYNqd-ykmQDZMK_3Q,McDonald's,3.0,35,True,VA
+nOdW6KLishD7DuiPXDV6Aw,Here Cafe,2.0,1,False,VA
+nPYrHVzjjwBBnVPvvK3NLw,El Patron Bar & Grill,4.0,26,False,VA
+nRV3bkEQXs2xLp8lDKyspw,Dominion Deli,3.0,96,False,VA
+nUOxtZVuyaNQxcS8J95m2A,Shiney's Sweets & Restaurant,3.5,86,False,VA
+nVINpydtT9CpQuUan2JU0g,Curry N Tandoori,4.0,27,False,VA
+nYkxCU96uHQ5CHykqu61jA,Asian Wok Cafe,3.0,108,False,VA
+nZCdehN5DmsnjOJQs8Tf7A,KFC,2.5,21,False,VA
+n_97tVbPby5vDKrAMSQyIw,IndAroma,4.0,555,False,VA
+nb68wDBZBzXi3pZtyD82nA,Sophia's Cafe,3.5,11,False,VA
+ndH33yg0vX_pdQRWMEoyEg,Killer ESP,4.5,790,False,VA
+ndisLhvL-T5pgtBhfRvp6w,SUBWAY,3.5,6,False,VA
+ngEbA0zrd_gFLbcsJ8HI-g,Pizza Hut,2.0,102,False,VA
+ngHw1WsEIWaJacB6UHMQlQ,Sibarita Restaurant,4.0,246,False,VA
+nhcq1JNWMtXP7pHFSaaNGg,Seasons 52,4.0,922,False,VA
+njozJIrBaNNX0nvFDulB_w,Crossroads Grill,4.0,25,False,VA
+nk3-bSmy2DyXduFbtqYMcw,Cantina Mexicana,3.5,185,False,VA
+nmVlQwH5bDs0NrXSkoenUQ,Woodstock Cafe,3.5,17,False,VA
+nmc-ogdFU-Jf2-1SJEtUMA,Dice Burger,4.0,201,False,VA
+nmqs6EByhb7ASZMV9xmTuA,Full Kee Restaurant,3.5,275,False,VA
+noj041Anm7XH-EMEunfJjA,Pho Va,4.0,130,False,VA
+npLV7m1arqtv9GTySoGCvQ,Roll'd,2.0,22,False,VA
+npSuKKPi2drVtG4FwEta0g,Rinconcito Chapin,2.0,2,False,VA
+nrewGe49KsSsPWoOHjPVtA,Brabo Tasting Room,4.0,371,False,VA
+ntE2YAtq_ymtmqWOek_cvg,Wilson Hardware Kitchen & Bar,4.0,211,True,VA
+nuvu967M94ORtElQPw31OQ,Loving Hut,4.5,587,False,VA
+nx6EevRxNHH7Rfk1bFuoXw,Cinnabar,3.0,47,False,VA
+nzBmB26hG9N24WoEFPdqSA,Mama Mei,3.5,35,False,VA
+o-kYXcDS7EMXnrvsoXbGsQ,Burger King,2.0,28,False,VA
+o04b8Rytap3dPj53z_tOfw,O'Malley's Pub - Arlington,3.0,35,False,VA
+o3beQ33AHUZdPAl2AoriAQ,Uptowner Cafe,3.5,125,False,VA
+o5TeQF3EUqWeKVjc3K0-Bw,Ahhh Wah Gwaan,4.0,6,False,VA
+o5qinuir8ptHHh4of0sWbA,Shake Chilli,5.0,2,True,VA
+o8RypRCdLEwHWVPKKlMRKg,Vocelli Pizza,3.0,22,False,VA
+oCRXu9BxMoWqSG2qNAuMsA,Firehouse Subs,4.0,134,False,VA
+oCxBSerpEqYQzz4ojilnow,Eastern,3.5,34,False,VA
+oGRY0V73G_aD_9t0Wp6Ddg,Baden Baden,3.5,27,False,VA
+oGniYHKg_1Tyfi_1tDa85g,Woo Lae Oak,3.0,339,False,VA
+oJLfppou07mHIpZt1Dg1Ag,Fogo de Chão Brazilian Steakhouse,3.5,344,False,VA
+oJRbJEd4_gbt3n3sX9BXQw,Subway,4.5,3,False,VA
+oK053fHDEFkdPPoLl2PahQ,Java Cafe,2.5,3,False,VA
+oLwhw_4gFD2sZCPmLdVOVw,Taverna Cretekou,4.0,530,False,VA
+oRptzbCPHRdA1alQuPJL9Q,Il Radicchio,3.5,267,False,VA
+oSGZg0F8Rdru3wPrAFJisw,Elfign Ethiopian Grill and Bar,5.0,1,True,VA
+oT97mb6kH7RTHpiO7r90JA,Pho Ngon,4.0,45,False,VA
+oTZNPa1qvX5eajBLXT2N7g,Denny's,2.5,92,True,VA
+oUb350QQjreNdcn7frFcUA,Perfect Pita,3.5,23,False,VA
+oVR740h8NUvhsESdBn0C5Q,Panaderia Latina,3.0,23,False,VA
+oZgKKRX2J-U7CxJAi5xEPw,BJ's,3.5,2,False,VA
+obpWMAjO-YMDmlqmHFxWdw,Spacebar,4.0,376,True,VA
+ohBhwFVlJOP54Frr7b1UVA,Pho Hot,3.5,250,False,VA
+oheKLB3qLwZfmy2lhe0FfA,Bar Louie,3.5,373,True,VA
+oiQsBpU3yEkvgCOEH3p8Pg,Haandi Indian Cuisine,4.0,395,False,VA
+oi_iPNG7-zsQL__2X7VG4w,Boar's Head Delicatessen,2.0,9,False,VA
+oieRq9QIHLtAbBDT2nFe4w,Lickety Split,3.0,2,False,VA
+oj6XL0HPAXA7IEJYbpesJw,Poke Bar,3.5,111,False,VA
+ojsl8TfUWWm5hSHcMPs_Bg,Nando's PERi-PERi,3.0,165,False,VA
+okdX4HkfkEGDHFgPF1bh3w,Fillmore Pizza,3.0,21,False,VA
+omX1dAMKrnB-JKfMDq8AbA,Andalusia Hookah Bar & Lounge,3.5,116,True,VA
+omoUvDm6atCW9TJmAntkwA,Charga,4.0,38,False,VA
+oms2gEflPJmhGGT4bQEUGw,Little Dipper Hot Pot House,2.5,51,False,VA
+omwHz1goTjWQe7BTfD3XGA,Thanh Trúc's Restaurant,4.5,7,False,VA
+ooaLiXZAxqsrXE7gmwyWZA,Mai Thai,3.5,512,False,VA
+oqqSrJ_Spw2Zq3rtUK5XpA,Pollo Campero,3.0,69,False,VA
+orYUNq5oLTQJd8sQFDBm1A,Mandarin Restaurant,3.0,80,False,VA
+orZVWihO-UlLIOreSPwLBQ,Bento Sushi,4.0,1,True,VA
+ot88ZZqnFbg0Y0-yg4FzTg,Hanshin Pocha,3.5,12,True,VA
+ovHz_mrYSL6FYp1_1gb5Ow,Rosemarino d'Italia,4.0,153,False,VA
+owPClxC1OXKhxGm1kREIRA,Cafe China,3.0,26,False,VA
+oy_mkg1Ws3TLq2pbooDUjg,Columbia Firehouse,3.5,911,True,VA
+ozvaYiA1D60NEXp6ZRZOqQ,Trademark Drink And Eat,3.5,170,False,VA
+p-IM2RKuvsUi18-mVVBySA,Atlantis Pizzeria & Family Restaurant,3.5,215,False,VA
+p1jPcWjfDmFsL6L6LXj04g,KFC,1.5,15,False,VA
+p2Sb8frMahlp4FNHVglw7w,El Manantial,1.5,2,False,VA
+p4ekeA9WnUB9Xnjhagxb-Q,Metro Cafeteria,4.5,2,False,VA
+p5vmpTEIqq561ynaS1ZePw,Burger 7,3.5,329,False,VA
+pAo2WebAf3l8hdockQWpWQ,Pupuseria Dona Bessy,3.0,43,False,VA
+pCMTgw8vV5d7pObigutzxw,sweetgreen,3.5,51,False,VA
+pD2Jbh-q1YDafLwyB9bYvw,Paisano's,3.5,154,False,VA
+pFv3a-M7rujxr47sjIYJGQ,North China Cafe,4.0,100,False,VA
+pG6NrWSCLvOd-U9xzGWGmg,Chicken & Steak Las Brasas,3.5,34,False,VA
+pI32DkXT3Y7hANGrRqP3bA,Bentley's Restaurant,3.0,121,False,VA
+pOpsQ5IWT3ssLyNmyFR_cg,Metro Halal Food Cart,4.5,72,False,VA
+pPktKV9NB6P1XfGX0QXOHA,Sarku Japan,2.0,37,False,VA
+pPpLXPScdJZCvJPaoYgJog,Live Oak Restaurant,4.0,186,False,VA
+pRLOi88Vd7H9h9ujR9hokQ,1000 Degrees Neapolitan Pizzeria,3.5,92,False,VA
+pTVbM4bfT-TiGia7KbLcjA,The 219 Restaurant,3.0,236,False,VA
+pUN_E85fRql6H_9uPzE6HA,Vaso's Mediterranean Bistro,4.5,356,False,VA
+pW31vW_mILrCRY72v79KMQ,Peking Gourmet Inn,4.0,1966,False,VA
+pbTM60Us0mK8w23nk3PX_A,Bilbo Baggins Global Wine Cafe & Restaurant,3.0,545,False,VA
+pcdiHOmbQeXD75kkzKq0Vw,Pilar's Restaurant,4.0,67,True,VA
+pcjyWy8t_h0naCSSg9tXIA,The Happy Tart,4.0,168,False,VA
+pcnkdv2fLLBmw6rDGUBmaQ,Myron Mixon's Pitmaster Barbecue,4.0,783,False,VA
+peqHOhKF632zENV8uKQEIg,Popeyes Louisiana Kitchen,2.5,18,False,VA
+pf1XWSQ0RQjpmmmGQEt4jA,Voila Pastry & Cafe,4.5,161,False,VA
+pgJA3Ymfx-PEZHQ7S5qfyQ,San Miguel Cafe,3.5,12,False,VA
+pksjPlbjTDJhRwWXYovobg,Spring Mill Bread,4.5,40,False,VA
+plbNoC3smRQclrz0m6liEA,Red Lobster,2.5,191,False,VA
+pnGadMmohVwx2Vck3l1HjA,Papa John's Pizza,3.0,21,False,VA
+po0em9SD6Fd9K-F-O_QFSA,Pho Anh Duong,3.5,83,False,VA
+prMrlKtnZ-aJ-TQR_fbo_w,Maki of Japan,1.5,48,False,VA
+ptFM_k1oyflmXUZ5AlUPuQ,Burritos Bro's,4.0,59,True,VA
+pv9xl5R_Yo12dLFwxn0SHA,Mario's Pizza House,2.5,329,True,VA
+pyFmn63OA-mbetSGMt1o8A,Sang Rok Soo,4.5,27,False,VA
+pzL2lv--06ykk3BVh0naHA,El Gran Palenque,2.5,17,True,VA
+pzetVQ35-R8MylbHTyT-DQ,Tacos El Chilango Food Truck,5.0,7,False,VA
+q-mWEMrXtJiizlhTOL2QMg,Lee's Sandwiches,3.0,245,False,VA
+q0jxCB5XyLztdETdyXk7Xg,Fanny's Restaurant,4.5,16,False,VA
+q1zSpYNSXbdy2ePp4R3Vnw,Kisso Asian Bistro,4.0,17,False,VA
+q3D8gff3giaBtX07-AwjZQ,Bangkok house Food Truck,3.0,11,False,VA
+q3c6PR_-yt0pTi40rWiIyA,Detour Coffee,4.5,154,False,VA
+q3ltcVY0b1GGBdIDQGpJuA,Pizza Hut,2.0,6,False,VA
+q4forca2s9QNRA3bXRWG5Q,Miso,4.0,464,False,VA
+q7VufQMmkJC6tyB3VMML0g,Mamma's Kitchen,4.0,257,False,VA
+q9ciiCbkr5KQQal26G87BA,Panera Bread,2.5,73,False,VA
+q9wyNDEPE_6Qrh_NzDJN_w,Pasara Thai Restaurant,3.5,283,False,VA
+qASq_ek6ZDkTQU7ihLISTA,The Big Cheese,3.0,185,False,VA
+qE5YkRpfMAOOUbg12pl0Lw,Metro 29 Diner Restaurant,3.0,566,False,VA
+qG1aCxPFn8ihqgpOZjjkug,Casa Fiesta,2.5,6,False,VA
+qGDKfl5LWwzcB5cbA5Cc_Q,Washington Pour Bar,2.5,35,False,VA
+qHOAu4cV8ZBhlSBu7YCIBQ,IHOP,2.5,94,True,VA
+qHpU6Mp26Em6FY2RDDAluw,Express Subs & Pizza,2.5,19,True,VA
+qI9uZPZEu2Xc3dD69oalrg,Mr Chicken,3.0,31,False,VA
+qJ6p-Dz-X37ZypsoNae5zA,Bon Vivant Cafe,3.5,216,False,VA
+qJ_qmf8VFA0OcZgeK2USbg,BengBeng Grill & Chicken,4.0,42,False,VA
+qK9ln2a1QedvO8eHmEDDYg,Barnside Diner,3.5,348,True,VA
+qKoY2Yf8XBe8iB86OB-X9A,JINYA Ramen Bar,4.0,1283,False,VA
+qNkGokZr-tVXcMZ_GarJ0A,McDonald's,2.5,47,True,VA
+qNpJVi3TI57yPfqa-KHJSA,Bada Bing,4.0,90,False,VA
+qO6JzOPfPvlh6hOGcbcdLw,Coastal Flats,4.0,1022,False,VA
+qTAm7DyJUUvbYPEJuu7A5g,Hong Kong Bistro,3.0,106,False,VA
+qVPRO_FZrrljzpxeVWFfyA,Barrel & Bushel,3.0,632,True,VA
+qWOw_fS8c1xWJmfJ1CNXvg,Subway,2.5,4,False,VA
+qWPrvViZbdUkadowG4XR0A,Morton's The Steakhouse,3.5,212,False,VA
+qWaS58vvLB1yyDO1LAemQw,Jimmy John's,4.0,77,False,VA
+qWiso6-BDyKn8MmIv7EoQg,sweetgreen,3.5,67,False,VA
+qXrhZD_5Hn1rxhRBAjoBZg,Shawarma Guys,4.0,259,False,VA
+qYt89GRyEBBEP29J4wF2Zw,Vinh Kee Restaurant,3.5,165,False,VA
+qZokuBkcS9IzPFSWDATpKQ,Tosokchon,4.0,183,True,VA
+q_beJaZdtqt-gsabs2qcEg,Fresh Chop Chop,4.5,30,False,VA
+qacsmIcFzSFknjf3TWoTRw,La Casa Pizzeria Restaurant,3.5,144,False,VA
+qbT0H8xT4lSeFe_qhmJz-w,Roll Play Grill,4.5,1266,True,VA
+qbg7md-lw9w2-nF63VXL_A,Danibelles Lebanese Cuisine,3.5,20,False,VA
+qfEPNBOupWxSsjFemJYwUg,Vocelli Pizza,2.0,39,False,VA
+qhb107S4-PzOc7Zm_3o1hw,Bonchon - Arlington,4.0,704,False,VA
+qidyOeKmBna9DVxetfMhqg,sweetgreen,4.0,111,False,VA
+qmAv_Zze9DyfnOhXSx_6sA,Hai Duong Vietnamese Restaurant,4.0,69,False,VA
+qoDgIEQH6tx4Q5xOEmj34Q,Szechuan Delight,3.5,119,False,VA
+qsgdK-jBo7lZnpN48iQNFQ,Sarku Japan,2.5,53,False,VA
+qt1VHzTnZ5RExFNwT4x1ag,Pizza Boli's,2.5,84,True,VA
+qtTUL9ydwmPx6wSGRJj-4g,Jimmy John's,3.0,28,False,VA
+qu_uRTqAFCRd26037g2AyA,Rice Crook,4.0,25,False,VA
+qzRJfuVujLYzQpICGnxkBg,Khisko Authentic Bolivian Cuisine,4.0,1,False,VA
+r7zjaaf5mPTzH63ShtkzBg,Lighthouse Tofu,4.0,808,False,VA
+r8hnrYd1a_Y1c-UgS8zdrg,Cosi,2.5,59,False,VA
+rB4oPbl4NX5Z5X9BhFhyxw,Zoes Kitchen,3.5,131,False,VA
+rDH_2rG0SKbmWS_bMpYrrg,Popeyes Louisiana Kitchen,3.0,15,False,VA
+rDtgZ0LeCoOckm85_GlTyg,Dan & Brad's,2.5,13,False,VA
+rIy3p08Gzgi0Uk4hvtyPGg,Topgolf,3.5,574,False,VA
+rJRMztg7v5xOqkKdb76rxA,Ssam Kitchen,4.0,13,False,VA
+rK8rdOQ4vTficHR_pR1DjA,Mrs Chen's Kitchen,2.5,94,False,VA
+rO6vdDfLGipv_r1zdGZmqQ,Subway,1.0,1,False,VA
+rP_B0tFOeVCCq63-zgniSg,Poplar Run Deli,4.5,4,False,VA
+rQKablrIou5oMVT-eegH8g,CIRCA at Clarendon,4.0,467,True,VA
+rQS62yLu-xJaDVVDOnmS8w,Marino's Pizza and Subs,3.0,80,True,VA
+rRT-SodQBgWXU064L8U8-g,Pho Han Duong,3.5,14,False,VA
+rRTg1AP2Whxnbs0Zrvl1Kg,Cafe Monaco,1.0,1,False,VA
+rRjrJv3RS3COvJQ-0056uQ,La Union Restaurant,4.5,235,False,VA
+rSQw7SOcCGp9U4j14o0BZg,La Cochabambina Food Truck,4.0,1,False,VA
+rVlo0etXlf9bSUSnHzhmWg,Saigon 1975 Vietnamese Restaurant,4.0,73,False,VA
+rXWyOMcmaST5UfI4QRVU0w,Fairfax Inn Restaurant,4.0,138,False,VA
+rXaFuAxSVR5z2FxVdjue2A,Burger King,1.5,46,False,VA
+rXvZSpiyC9eGkBIsCE-jiA,Yong Kang Street - Dumpling & Noodle House,3.5,85,False,VA
+rY-FEU0F9h_LL8wN0JZ09w,The Halal Guys,3.5,298,True,VA
+ra7lO3NVxerzSr1gAgh78w,Five Guys,4.0,19,False,VA
+rbMWfAjI8U1a5o9cY0Vzxg,The Yard,3.5,5,False,VA
+reqnndNFYAHs3vAP-HejpA,Jaleo,3.5,872,False,VA
+rfbh4p0AwKVGVUtRtVAiGg,Mezeh Mediterranean Grill - Arlington,4.5,357,False,VA
+rh_qVLhS2Aq6gmCCdWHrtw,Roti Modern Mediterranean,3.5,53,False,VA
+rlcnMs4Zo3vVJ4btKGd8xg,Mayuree Thai Express,2.5,3,False,VA
+rmAOSAMFTS6i0RBHu3KqRw,El Centro,3.0,96,False,VA
+rnOzcG7h1qgLSeTEeCDcpg,Tempo Restaurant,3.5,104,False,VA
+rsQZ8dFmseG-etfboifBqA,Wiseguy Pizza,4.0,197,False,VA
+rstrRQwp_5eEq-Qm__FVGw,Golden Gobi,4.5,2,False,VA
+rxvFKnQDJymt_NvSDTZKtg,Quattro Formaggi,3.5,404,False,VA
+s1aSvvtbR3fTKu0UcV55cA,McDonald's,2.0,26,True,VA
+s3EwnVaXYWBGPE-vRDsBqg,Rocco's Italian Restaurant,3.5,129,False,VA
+s3dwNhFUsOaRzvHicNGjPQ,Chipotle Mexican Grill,2.5,109,False,VA
+s5_Zr3fu_gp31oS0ENFToQ,Dairy Queen,3.0,16,False,VA
+s6srGu1SyvUoCHr-5QPnnA,Jasmine Garden,3.0,216,False,VA
+s8wKMExrpD7qbnhpg6czCg,Capri Ristorante Italiano,3.5,60,False,VA
+s9u4J3WfKM1CtmRi7OT5vA,Soju Sarang,4.0,102,True,VA
+sDkUpa9evlb7J1KXiUUOBQ,Subway,4.0,4,False,VA
+sKD-RsQrbtuG3r3PCsXY_w,Caribbean Plate,4.0,431,False,VA
+sO3r9ur2WM5I6QURrdvnYg,Le Pain Quotidien,3.0,263,False,VA
+sPho0P0rLrtKq8LRxaJZ9w,Volas Dockside Grill & Hi-Tide Lounge,4.0,879,True,VA
+sQrIex4wleEcyavq29FRGA,Little Caesars Pizza,2.0,32,False,VA
+sR49UlLPP_KPcxbTdNbSGQ,La Sandia,3.5,695,False,VA
+sXTsbeCnUQV3kOk2faH7QA,Rango's Tex-Mex & Grill,4.5,86,False,VA
+sYdDDYx8ZRjTvq_6oVYbkw,"The Marketplace, An Uncommon Cafe",2.5,13,False,VA
+sZQ78J6d085UcBM_yUX_GQ,Paisano's,3.0,65,False,VA
+samxhKST9eHcEvIbsyWUMQ,Subway,2.5,11,False,VA
+sbvdYH8FKx5Am63EgZoPgw,Basic Burger,4.0,312,False,VA
+sc0SXG5m_P4_BICvm16KmQ,True Food Kitchen,4.0,58,False,VA
+seR5Mwv-w0as0qA6slriFQ,Taco Bell,2.5,54,True,VA
+seZhJhv-LdPISt0XQibAPg,Sardi's Pollo A La Brasa,4.5,20,False,VA
+skAvaz5nOA_Wu4gEzEnq-g,Hunan Express,3.5,16,False,VA
+snwn7sWDaDzo3zhrMi3s5g,Kapnos Taverna,2.5,147,False,VA
+sp7Bpn3XIRxyRImqadwcpA,TenPenh Tysons,4.0,269,False,VA
+stB4wp76DMJNGYQ6noRLOQ,China King V,3.0,66,False,VA
+sufpWerGyV1SrC2_kWvVRw,The Italian Store,4.0,931,False,VA
+syRATiNa3HFnZPh6ydou5Q,Cheesetique,4.0,90,False,VA
+szrZachMq32nl_RcAV_oXg,Stone Hot Pizza,4.5,20,False,VA
+t-WoHAkORI7VLvS7RFRyGg,Panera Bread,2.5,93,False,VA
+t1hnP2qlCUKLoZJ5TxA-qg,Chicago's Pizza With A Twist,4.5,6,False,VA
+t1jKpbpevaneiPPeYHdQoA,District Taco,3.5,194,False,VA
+t3ORi68lKMvC2Ia0N-n6VA,Fettoosh,4.5,388,False,VA
+t6SKef7VRxz1VfEJYsVDeQ,Spirits of ‘76,4.5,167,True,VA
+t6TvDBDQQdMRCW3sIOjKNw,El Chilango,4.5,532,False,VA
+tAlktE7ydFLrtOesY_jC3Q,Szechuan Star,4.0,65,False,VA
+tGBHnMnMclfKtMQ0iGmlhA,Jimmy John's,3.0,25,True,VA
+tJgmgKASYljkWwsENxnG_g,Mi & Yu Noodle Bar,2.5,58,False,VA
+tLOWcuS89UxUw-7dcjvRHg,Chipotle Mexican Grill,2.0,25,False,VA
+tP0ERkN_gAysmzjR9KADlQ,Las Americas Restaurant,2.5,16,False,VA
+tS311okFXgXI78STKj5Kkg,Zaaki Restaurant and Cafe,3.5,296,True,VA
+tTrrB_Q31lPEBak_zXdATA,Ho's Chinese Carryout,3.0,66,False,VA
+tW52AED-JqStdTmWeqKUPg,Cafe Tu Ah,3.0,46,True,VA
+tYZ0jPPbZgFeGuZ30A16vg,Potbelly Sandwich Shop,3.5,67,False,VA
+t_SD8LeBscl6WXOEk_4snw,McDonald's,2.0,28,False,VA
+tdMCGnsCEEG4RvS6bfN90A,Peking Express,3.5,81,False,VA
+thVa7C2K62m5W_Es8Gm3VQ,Dave & Buster's,2.0,487,True,VA
+thhvcUzF1Y3o8TKzbIvbAg,Cafe Aurora,4.0,112,False,VA
+tiqB0OTT-BcQ-Fa3PBpnOQ,Rice Pot Asian Cuisine,4.0,289,False,VA
+tm_K_lwLp7ejq5qOkkee4Q,Finn & Porter Restaurant,3.0,111,False,VA
+tmfrSg2B9ErS0xSwtARNGQ,King Of Koshary,5.0,1,False,VA
+tncF1z3fOoOeYuGWDPO-Ig,Extreme Pizza - Arlington,4.0,421,False,VA
+trR4kHhXqK7eol8kMEAk-A,Andy’s Pizza,4.5,46,False,VA
+tsZ3vMfruhyV093Q4xOrbw,BBQ Chicken,3.5,77,True,VA
+tyGXm2-B7OgteN5jctFp6w,El Paso Mexican Restaurant,4.0,285,False,VA
+tyPe9kScaCo1658JwHZsZg,Uptown Cafe,1.0,5,False,VA
+tzyYxIY3yNTdY4q7blsPvA,Dera,3.5,139,False,VA
+u-MJOv0q0IAmRPKc08nNlg,Subway,1.5,15,False,VA
+u-amlodaLALeHRlmc4x6nA,Virtue Feed & Grain,3.5,1672,True,VA
+u3QNhKFUS4amvN3DP0v_MQ,Laze cafe,4.5,32,True,VA
+u3RkUu9PaWHuGG3MGMS3og,Pollo Campero - Springfield,3.0,50,False,VA
+u5RnUbLvIScK17cDbzV3ag,Grateful Kitchen Co.,4.5,57,False,VA
+u7sy12z9LERr7Uice0sUZQ,Moby Dick House of Kabob,3.5,172,False,VA
+u83eb9hoh39DQ1RIpRF13g,Eastern Carryout and Cafe,3.0,133,False,VA
+uBWkmHJuf-HvxhEk00vNDQ,Portabellos,3.5,54,False,VA
+uGuoH_yor1ZROcvZ--v1Nw,Chicken House,3.5,12,False,VA
+uHJIAwR5t_SJ3tsNUKY4Jg,Nando's PERi-PERi,3.5,51,False,VA
+uITxKIXOEu5m4wk-PRznTQ,Bangkok 54 Restaurant & Bar,4.0,940,False,VA
+uJ6SB0uzEK1EnOXPvlX60Q,Nak Won Catering,4.0,8,False,VA
+uM-Wz6AIT2y5bF5EEH3dXA,Checkpoint Cafe,1.5,6,False,VA
+uMxjS7lf0UO1rEY-cZtaQw,Taco Baja,2.0,21,False,VA
+uOBwCbJuFsFynqw68OJcJQ,La Bettola Italiano,3.0,166,False,VA
+uOfwrp8xKvO0jcWyF9KSqQ,Savor Salvadoreño,4.5,6,False,VA
+uRFqL_zAnc0BfKv7pVHrMw,May Island,4.0,188,False,VA
+uTcB8RoWdE1W9ffAqlRLWQ,El Rancho Migueleno,2.5,8,True,VA
+uTkqqhj5JBIdkrPqWiCUzg,Hibachi Grill & Supreme Buffet,3.0,57,False,VA
+uXgRi2zqY_NmrwMRoZ80GQ,Balo Kitchen,4.5,248,False,VA
+ubLZP9AY9_TRRyyuE_UcCQ,Joe Theismann's Restaurant,3.5,578,False,VA
+ubpMW-6cTY88U-f6SMCOHA,Dal Grano,4.5,156,False,VA
+ucdrteFEIfvTrhIGEPf1QQ,Rustico,3.5,701,False,VA
+ucsZ0SPi7K5ChmvJcGI5rA,Oath Pizza - Mosaic District,4.5,256,False,VA
+ucuM3pG0FgyycdniKzsDxg,CAVA,3.5,29,False,VA
+uhOSDf9gAlxeooW5QkbYfA,Pho 75,4.0,434,False,VA
+uij8ZChX8P3bxkCNFhm2eA,The Perfect Pita,3.5,57,False,VA
+ujOFqMTrhxaHO28GlUDQYA,Silver Diner,5.0,1,False,VA
+um_qS97EfFcOs9uCm_Kf8w,Glory Days Grill,3.5,95,False,VA
+urJfUJfagHK7gc-gvBK2oQ,Mughal's Oasis,3.5,13,False,VA
+urZFh5k2lTbbbteLcAdHzw,New Star Asian Bistro,3.5,88,False,VA
+usyxcAb8n-vF7Chm-K3ysg,Federico Ristorante Italiano,4.5,107,False,VA
+uwfOdmiJaUGBiZJ4Lz0EXA,Famous Famiglia Pizza,2.0,10,False,VA
+uxLqoCvXwgewp0uYZ13yhA,Grille District,3.5,52,False,VA
+uyb16BDD41-4CPm4OV2oBg,Kumkang Delicioso,2.5,3,False,VA
+v-98KWiLjbGKAzXA7Ai3fw,AHRA Cafe & Sandwich Bar,4.5,53,False,VA
+v5IZ5n3Qe7aV8EulqLn7Cg,Mint,3.0,127,True,VA
+v5boOnlqvhiQFMTsxCpPHg,Eat Cafe,4.0,1,False,VA
+v8Osqs0OKQfWw4Yo0Oauwg,Bawadi,4.0,179,False,VA
+vA0rn7fdRaXW2UkhYWWLGg,Silverado,4.0,404,False,VA
+vAS45aUUmX2_oSVF1tifxA,The Wharf,3.5,415,False,VA
+vD4su2UpM5zkzhaHMDqQKw,Dairy Queen,2.5,39,False,VA
+vGz1T9cmVI-dcI54rsK-1g,Royal Restaurant,3.5,308,False,VA
+vK2u7OVz-0UPFHk9wdy3mQ,Chipotle Mexican Grill,2.0,123,False,VA
+vKdNkc11LQD6qetEqzkHOA,Paisano's,3.5,54,False,VA
+vMjQzow_oOGPXgg-0ffe-w,El Catrin,4.5,2,False,VA
+vMmSDNwFEud7Pwo65lnGcA,Papa John's Pizza,2.0,45,False,VA
+vOeLFAWRArBhB5T-bJO8lA,California Tortilla,2.5,78,False,VA
+vOh387H5SGL9jrmRDSDzCg,Plaza Gourmet,4.0,25,False,VA
+vRg9QAxXgMaB3Q-55_DFBQ,Alley Cat,3.5,109,True,VA
+vTBTAQATYU1dUxfthVe2bw,1823 Cafe,5.0,2,False,VA
+vYjohCC3iWwQUonYYQ-Kng,Riverside Center Dinner Theater & Conference Facility,4.0,45,False,VA
+vYk5NViNVHVkMx5E9_PmGg,Siroo Juk Story and Tea Cafe,4.0,326,False,VA
+vYscvV8AHW9V70WMznKOVQ,LongHorn Steakhouse,3.0,146,False,VA
+vZVJBERoBmtKdkG9Xuuw_w,Natural Cafe,4.5,37,False,VA
+vZxBJ_WfvHgS5z_OZ0NpQQ,Four Sisters Grill,4.0,503,False,VA
+vd7SnntXAV0YszlvMIE-og,Subway,3.5,5,False,VA
+vgCNySatJjwB-_McEQx_SQ,Taeji Sushi,4.0,42,False,VA
+viE72gC8UdY-rk_9zwGxqw,El Paso Cafe,4.0,427,False,VA
+viUP-ur-yTIxF4GbEOqZHQ,Veronica'S Bakery & Cafe,3.0,49,False,VA
+vmQmIKZAp024poMde-lcmQ,McDonald's,1.5,45,True,VA
+vocsHn4hMA9AVYnbIR14lg,El Charrito Caminante,4.0,447,False,VA
+vt-dZqlnU99qo_ivTOt0Gg,Kao Sarn Thai Street Food,4.0,126,False,VA
+vw68kxeb3vRGuJMXz2Gnbg,Chick-fil-A,4.0,127,False,VA
+vykFBAHWYOH2ypSEzXf0_Q,Baja Fresh,2.5,52,False,VA
+vzvuB2t9-t3kqtINjjhPig,Buuz Thai Eatery,4.0,144,True,VA
+w2_ssbfOISZsavwthHbGag,Chipotle Mexican Grill,3.0,130,False,VA
+w2sxY4oA4pIs0NVMGhlxQA,Goody Corner Deli,4.0,2,False,VA
+w5BYHE4FApQfgcW9WSnHmQ,Luzmary Bolivian Restaurant,3.5,62,True,VA
+w5HVeIKZ-xHwaMq6O9-Ykg,Riverside Hot Pot Bar,3.5,19,False,VA
+w5N_UtykEs4ZhGX6beBe_g,Fleming's Prime Steakhouse & Wine Bar - McLean,4.0,384,False,VA
+w6c3YYE7gabFsrxWSBVx4A,Rice & Noodles Thai Gourmet,4.0,276,False,VA
+w6g2CUDT5cIzh5a9CMEQGQ,Naked Lunch,4.5,38,False,VA
+w84HbHnvmxWLMhV664PPrA,Metro Hot Dog Cart,5.0,4,False,VA
+w9qUGXXhXTm6j4k9677f1A,Ravi Kabob House II,4.0,124,False,VA
+wDe7Tev1YnugT3c8XZdhog,Westover Market,4.0,104,True,VA
+wDfPe7nk2rg9bqE5BEw6IQ,Demera Ethiopian Restaurant,2.0,1,False,VA
+wL1TRlsWgXZRnWK58a-bvA,Grove,4.5,83,False,VA
+wLMEqlgAVW4aBbvARBAowQ,Extra Perks Coffee Shop,3.5,287,False,VA
+wO3_E2tE41TiqvpkMMCJTQ,Fish Town & Veggie Heaven,3.0,2,False,VA
+wQtqmL7g3UoM50h7sTfaSA,Four Sisters Restaurant,4.0,1123,False,VA
+wR8BoMHSDW2HLH5LZXQWmg,La Madeleine French Bakery & Café,3.0,306,False,VA
+wRn0k6d-40HVVnynarzrmg,Ranch 1,2.0,4,False,VA
+wToePr5zAnT40Ml5drZiyw,"Fairouz Lounge, Sports Bar & Restaurant",5.0,1,True,VA
+wVskzn13d0lU5MRHpdCsgg,Panda Express,3.0,38,False,VA
+w_KIG8bsFwHmbcJ_aNb-4A,Yechon,3.5,1585,True,VA
+waqeV74OenbbneTvlJdkgw,Kabob Palace,4.0,1770,True,VA
+wbYEFl3xsPaYlL2plPa9og,Papa John's Pizza,3.0,6,False,VA
+wbon6gO3oIj1iIS5DLVCkw,Don Taco,4.0,903,True,VA
+wcyX9mKxVGZF8OBNu21i_A,Big Buns Damn Good Burger Co,4.0,241,False,VA
+wf_5-LatFg8cqVWcPbQMfQ,Mi Rico Peru,3.5,132,False,VA
+whTvHaSycvZuMPMzdrwwNQ,Vinh Loi Restaurant,3.5,84,False,VA
+wpBxMfebuJ7-0gTrBAj8lw,Gaijin Ramen Shop,3.5,382,False,VA
+wr36eafjlRw7OFhFhP_nWg,Golden Lily Foods,4.0,3,False,VA
+wtNS0dESG5nK-qln45a_yQ,Rien Tong Sushi & Asian,3.0,193,False,VA
+wtP2jACD2SRPZffmZ2KNDw,Alamo Drafthouse Cinema One Loudoun,4.0,622,False,VA
+wtyV69b0L99mDPo4VWWQYg,Atrium Cafe,3.0,4,False,VA
+wvPMnl_cxAYlVKReGvcFYg,Cafe 59,3.0,1,False,VA
+wwaLUZAeeDrYgjenSEXdKQ,The Liberty Tavern,4.0,1235,True,VA
+wwwwNYNANMdeBowOmZ-OGA,Whiskey & Oyster,4.0,24,False,VA
+wyB3aDoU4rU0zsrkYEnBCg,Mumbai Darbar,4.0,126,False,VA
+x-0ndQ9G0SKJwCf6DOPsJw,Elevation Burger,3.0,199,False,VA
+x3GVRdNTiBMGImAPP3ir3Q,Domino's Pizza,5.0,1,True,VA
+x49PumZbjzkPWgg7MCrOjQ,Ambasel Ethiopian Restaurant and lounge,4.5,14,True,VA
+x6yZc3A_981UmRTVwMAa9w,CAVA,3.5,53,False,VA
+x9nyoLn4OOlNmLvpZDpkAg,Front Porch,3.0,54,False,VA
+xDUqNvH3XP_yAKOeciRpSw,New Orleans Live Crawfish & Seafood,3.0,270,False,VA
+xEFr0vCynz9Ei4FLb8YjbA,Murphy's Grand Irish Pub,3.5,651,True,VA
+xEsI2EvqaV0RaA3PVXK8SA,Subway,3.0,8,False,VA
+xFbZKHFXcXiDFAg05oSzlA,McDonald's,2.5,81,True,VA
+xG_W7WqtLVhW6h4z1DIlVw,Abi Restaurant,3.5,71,False,VA
+xHVw4Rh-GKJnuRppkLAbJQ,Baja Fresh,3.0,53,False,VA
+xJHjRs9enOKzBa11M8SPyw,Papa John's Pizza,3.0,39,False,VA
+xOJQm3gGkkdj3cljbhC4fA,Alamo Drafthouse Cinema Woodbridge,4.0,236,False,VA
+xQpaqJAISlx6pTPO0K7OGg,Hen Quarter,4.0,1064,False,VA
+xREl51IJyuasOY7btHICKw,Palette 22,4.0,875,True,VA
+x_HQ0ZjaBMepb9fmFzs_Ww,Hunan Village,3.0,45,False,VA
+xc53NE_uIKLP8l8IrM2dgg,Panda Express,2.5,11,False,VA
+xjogbem2t1LFniZ4Qq8OrQ,Sushi Garden,4.0,82,False,VA
+xn0lH5-C1FydaovrBp_M9w,Taqueria el Poblano,3.5,437,False,VA
+xoFPHXxR3NmLyljqYghtwQ,Astor Mediterranean,4.0,547,False,VA
+xrp2K5LFWT0l6tQSaC0jMA,Amoo's Restaurant,4.5,714,False,VA
+xscyyZdTLN328GxESWREZQ,La Petite France,1.0,1,False,VA
+xtDYkjit6tYxH5FFO72MYw,Bun'd Up,4.5,7,False,VA
+xtHuX8YebKYJQwEWpzEi4A,Tasteful Delight Chinese Cafe,3.5,222,False,VA
+xvghkn5jBOY-5tJC2eoISA,Nando's PERi-PERi,3.5,229,False,VA
+xwVwVTAG3lUqBwZjUfrQoA,Izumi Japanese Restaurant,4.5,32,False,VA
+xwc-UI_Nf_g9JP0fvbNjMA,Subway,3.0,18,False,VA
+xxqCs6hSxjvOwVtxRJGu6A,Hawwi Ethiopian Restaurant,4.5,480,False,VA
+xzRYlVVhx4XqlFD6WRdmDg,El Puerto Restaurant,3.0,44,True,VA
+y3-fR1ne7slpo2dkcudVyw,RT's Restaurant,4.0,414,False,VA
+y3Ay97PEaLd6iDNao2zHdQ,Super Pollo,4.0,339,False,VA
+y5gxbppHLehTcnQsUI6-lg,Sushi-Zen,4.0,179,False,VA
+y6y18L1A3G4NAnN3ak5auQ,McDonald's,2.5,22,False,VA
+y8pAfURr_iq8kAwBiKQobw,La Trattoria,4.0,62,False,VA
+yA4_h_BjtY5II-Vv8Vc0lA,Domino's Pizza,2.5,52,True,VA
+yANf3e61XNcW_a7byE0Blw,Boston Market,3.0,23,False,VA
+yBrSE9MGxFphjWOClNI_Sw,Ben's Chili Bowl,3.5,269,False,VA
+yC7LPnUA1YT7rkheBRUKqg,Quickway Japanese Hibachi,3.5,57,False,VA
+yHdtly-icWogBH3vD2ytlg,Ted's Montana Grill,3.5,373,False,VA
+yQBU8aKDrnzpPYeDq0oG2Q,Subway,2.5,9,False,VA
+yQzW32WxvRxGt0ukL58Ycw,Abi Azteca Grill & Bar,3.5,138,True,VA
+yTDjgTgqR9YubrKCP95wnQ,Uncle Julio's,3.5,703,False,VA
+yTFVXVN2eKZKfxj3CGCQEg,Mexicali Blues,2.5,450,True,VA
+yU7UiRsQIvLynrj34ScOVA,Pho Linh Loi,3.0,3,False,VA
+yUF0YS4BZakJX2SvmdfLZg,The Sushi Bar,4.0,300,False,VA
+y_dkshfMu2rrRmUYzf54qg,Legal Sea Foods,3.5,475,False,VA
+yadG7uuX2wwxAjyDt9QE2A,Moby Dick House of Kabob,4.0,84,False,VA
+ybk-p0mWX-JrLAjzJzpzTw,Ginger Beef Foody-Goody,3.0,127,False,VA
+ycHUTVecm4cFIQIYUq43VA,Stage Door Delicatessen,3.0,74,False,VA
+ycZ-D5NwVAEw3xnQECkAVQ,Souvlaki Bar,4.0,216,False,VA
+yd4mkj1JJmJtZBKjlJ3cYQ,El Pollo Primero,3.0,13,False,VA
+ydynMpaZqe4dGNQAvfNGbQ,Raaga Restaurant,4.0,445,False,VA
+ym5IPlFD9JeObKPd9p5RzQ,Cibo Express Gourmet Market,2.0,5,False,VA
+ymW_Ro0w1heydvSXq_zOvw,Lyon Hall,3.5,838,True,VA
+yp6emI14gBlq3JX62517nw,Cafe Old Town,3.0,23,False,VA
+yqjDOViLORsz6XfNEdL80Q,DAK Chicken,4.0,299,False,VA
+yskYCo3frovWZemZksfYzQ,Madison Deli,4.5,78,False,VA
+yuSRYB7fwYscNiFs7kO45w,BlueFire Grille,3.5,8,False,VA
+ywSKlzHwrbAHcGyCJ1JtpA,Chipotle Mexican Grill,2.0,87,False,VA
+yzaZmKBhjhqCXkBZtTTXmw,Super A Market,4.5,5,False,VA
+yzfE1NLzzlkcM_yrRZHyzg,Top Thai Restaurant And Sushi Bar,3.0,242,False,VA
+z-k5mPCQaSda4g5mD4b7VA,Super Chicken,4.0,241,False,VA
+z2DxogyLCwCj2lh5OnaS7w,Kampo Restaurant,3.0,48,False,VA
+z30gmg4BZ__w3-JWtH_xrQ,Primo Family Restaurant,3.5,122,False,VA
+z5WD0MY-uw6epdBQa_dcYA,Naan Kabob,4.0,119,False,VA
+zAJU6f3fI6lGm8EagA1vUA,Outback Steakhouse,2.5,149,False,VA
+zDlXbtSNF24mZSuwct12-w,Yummy Kabob,4.0,180,False,VA
+zEi3vk-cCWx7eFF0WKqebQ,Chick-fil-A,3.5,206,False,VA
+zGNvVNTnh_MsfqR7dHMrTA,Mussel Bar & Grille,3.5,549,False,VA
+zPrtrXXFivNSBtqMpro4Kg,Taqueria el Poblano,3.0,232,False,VA
+zQkjrMIIZB6DQa_pK-bhSQ,Chasin' Tails,4.0,1738,False,VA
+zSYUp_2wIUnJ3e_aQW5L4A,Portales Restaurant,2.5,13,False,VA
+zXir2hi2sUyaGW32_xNrKQ,McDonald's,3.5,26,True,VA
+zZPGZqt8L276h5LnMC_csQ,Go-Stir Fry Express,5.0,4,False,VA
+zZTPVtT9DvTcrXAfMTj97Q,Samuel Beckett's Irish Gastro Pub,3.5,315,True,VA
+zZpYWuzoNK12LAY7HX-LxA,Quarter Market,5.0,3,False,VA
+z_R_yycwLPD79_7Sx75iIg,Annangol Restaurant,3.5,110,False,VA
+zczqqucpJtJz0x4NysqSaA,Chadwicks,4.0,588,True,VA
+zdju3CjFWlAgz8L4O9aPJA,Domino's Pizza,2.5,39,True,VA
+zdsN4OmabvEEAIlK8WhWFw,Mazza Kitchen,5.0,28,False,VA
+ziVcxV7TPKRxhZdbtKXSgg,Nina's Dandy,4.0,8,False,VA
+zl7vNqWzNqqxaWkMR0xJXA,Kang Chon Korean & Chinese Restaurant,3.5,99,False,VA
+zlFDjpQ_fcQsgyt_oEAetA,Bread & Water Company,4.5,87,False,VA
+zn8qToXPwUlq0NmXPGcxIw,Mason Social,3.5,327,True,VA
+zoasIdKx1k4-U9lhZt5QDQ,Safeway,2.5,68,True,VA
+zrRNZ5uu0opYa5cBPAajFQ,Crepe Love Truck,4.0,56,False,VA
+ztsERus90Z97YIvasluZFA,Raouche Cafe,4.5,374,False,VA
+zv57o726QIasiABZbttKQg,Hunan Cafe,3.0,76,False,VA
+zwa7IXU8BtlJCivRq-TI2A,Frank,1.0,3,False,VA
