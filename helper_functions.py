@@ -286,6 +286,38 @@ class InferentialStatisticsHelperFunctions():
         df_rating = new_df.rating
         return df_review_count, df_rating
 
+    def get_bars_open_info(self, df):
+        '''
+
+        '''
+        bars = df[df.cuisine == "Bars"]
+        bars.reset_index(inplace=True, drop=True)
+        pass_midnight = bars[bars.open_pass_midnight == True]
+        pass_midnight.reset_index(inplace=True, drop=True)
+        not_pass_midnight = bars[bars.open_pass_midnight == False]
+        not_pass_midnight.reset_index(inplace=True, drop=True)
+        pass_midnight_review_count = pass_midnight.review_count
+        pass_midnight_rating = pass_midnight.rating
+        not_pass_midnight_review_count = not_pass_midnight.review_count
+        not_pass_midnight_rating = not_pass_midnight.rating
+        return pass_midnight_review_count, pass_midnight_rating, not_pass_midnight_review_count, not_pass_midnight_rating
+
+    def plot_distribution(self, array1, array2, labels, featurename):
+        '''
+        array1: 1 d array
+        array2: 1 d array
+        labels: a list of string for label array1 and array2
+        return: histogram plot with 2 plots on the same ax
+        '''
+        sns.distplot(array1, label=labels[0], color='red')
+        sns.distplot(array2, label=labels[1], color='blue')
+        plt.ylabel('probability density', fontdict={'size': 10})
+        plt.title(f'{featurename} Probability Density Plot for'
+                  f'{labels[0]} and {labels[1]}', fontdict={
+                      'size': 12})
+        plt.legend()
+        plt.show()
+
 
 # ## For Plotting 
 
@@ -311,26 +343,6 @@ def plothist(join_df, df):
     plt.legend()
     fig.add_subplot(224)
     plt.hist(df[2].price, label='VA', color='purple', bins=4, density=True)
-    plt.legend()
-    plt.show()
-
-
-# In[12]:
-
-
-def plot_distribution(array1, array2, labels, featurename):
-    '''
-    array1: 1 d array
-    array2: 1 d array
-    labels: a list of string for label array1 and array2
-    return: histogram plot with 2 plots on the same ax
-    '''
-    sns.distplot(array1, label=labels[0], color='red')
-    sns.distplot(array2, label=labels[1], color='blue')
-    plt.ylabel('probability density', fontdict={'size': 10})
-    plt.title(f'{featureaname} Probability Density Plot for'
-              f'{labels[0]} and {labels[1]}', fontdict={
-                  'size': 12})
     plt.legend()
     plt.show()
 
