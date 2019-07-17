@@ -13,13 +13,13 @@
   * Location (DC, MD, VA)
   * Cuisine
   * Price Range (>$$ or <=$$)
-  * Hours of Operation (close before midnight or aftermidnight) 
+  * Hours of Operation (close before midnight or after midnight) 
 - Provide a set of slides to present
 - Provide Jupyter Notebook for technical audience with an emphasis on readability
 - Detailed data cleaning and helper_functions.py files 
 
 ## Responsibilities
-- Mindy: performed Locations and Price Range analyses
+- Mindy: performed Location and Price Range analyses
 - Ngoc: conducted Cusine and Hours of Operations analyses
 
 ## Summary of files in the repository
