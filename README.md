@@ -12,7 +12,7 @@
 - To find a lucrative restaurant business in DC Metro Area: 
   * Location (DC, MD, VA)
   * Cuisine
-  * Price Range (>$$ or <$$)
+  * Price Range (>$$ or <=$$)
   * Hours of Operation (close before midnight or aftermidnight) 
 - Provide a set of slides to present
 - Provide Jupyter Notebook for technical audience with an emphasis on readability
