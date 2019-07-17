@@ -50,12 +50,20 @@
 * Start a restaurant business
   - Location:
       * Maryland part of the DMV Area
+      
+      ![](images/location_image.png)
   - Cuisine:
       * Bars
+      
+      ![](images/cuisine_image.png)    
   - Price Range:
       * $$$ - $$$$
+      
+      ![](images/price_image.png)
   - Hours of Operation:
       * Close before midnight 
+      
+      ![](images/hours_images.png)
 
 
 ## Presentation
