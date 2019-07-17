@@ -49,10 +49,12 @@ def split_rows(df, col1, col2, sep):
 
 def splitgroups(df, colname, names):
     '''
+    input:
     df: dataframe to split the groups 
     colname: name of the column, a string
     names: criteria a list of string to split column of interest
-    return: separate dfs, num is length of names, used for split into DC, MD, VA
+    return: 
+    separate dfs, num is length of names, used for split into DC, MD, VA
     '''
     dfs = []
     for i in range(len(names)):
@@ -67,11 +69,13 @@ def splitgroups(df, colname, names):
 # split data into high price and low price
 def samples(df, colname, criteria, value):
     '''
+    input:
     df: a dataframe
     colname: colname of interest for split 
     criteria: an int for filter for colname
     value: colname for actual comparsion 
-    return 2 samples of 1 day numpy array, data1 uses mask, data2 complement mask
+    return:
+    2 samples of 1 day numpy array, data1 uses mask, data2 complement mask
     '''
     mask = df[colname] >= criteria
     data1 = df[mask].reset_index()[value]
@@ -84,10 +88,12 @@ def samples(df, colname, criteria, value):
 
 def table_transform(datas, group_names, colname):
     '''
+    input:
     datas: a list of data for comparision 
     group_names: a list of strings with group names, datas order should be same as group_names
     colname: string, the category to compare 
-    return tukeyhsd table result and stacked table 
+    return:
+    tukeyhsd table result and stacked table 
     create stacked dataframe for tukey_hsd and welch F test
     '''
     df = pd.DataFrame()
@@ -111,10 +117,12 @@ class InferentialStatisticsHelperFunctions():
 
     def normality_tests(self, groups_data, group_name, metric_list):
         '''
+        input:
         groups_data: a list of dataframes for comparision
         group_name: name for the dataframe in groups_data
         metric_list: a list of metrics, such as rating 
-        return: df of normal or not normal 
+        return: 
+        df of normal or not normal 
         '''
         df_dict = {}
         for i in range(len(group_name)):
@@ -129,8 +137,10 @@ class InferentialStatisticsHelperFunctions():
 
     def variance_tests(self, groups_data):
         '''
+        input:
         groups_data: a list data of 1 day 
-        return: test equal variance or not using stats.levene test 
+        return: 
+        test equal variance or not using stats.levene test 
         '''
         # alpha is 0.05
         if stats.levene(*groups_data)[1] > 0.05:
@@ -176,8 +186,10 @@ class InferentialStatisticsHelperFunctions():
 
     def one_way_anova(self, groups_data):
         '''
+        input:
         groups_data: a list data of 1 day 
-        return: perform stats.f_oneway to check if there are differences present 
+        return: 
+        perform stats.f_oneway to check if there are differences present 
         '''
         # alpha is 0.05
         if stats.f_oneway(*groups_data)[1] > 0.05:
@@ -187,9 +199,11 @@ class InferentialStatisticsHelperFunctions():
 
     def tukey_hsd(self, stacked_df, colname):
         '''
+        input:
         stacked_df: from table_transform, a stacked df 
         colname: string, the category to compare 
-        return tukeyhsd table result and stacked table 
+        return:
+        tukeyhsd table result and stacked table 
         set up tukey hsd for post anova with significance
         '''
         MultiComp = MultiComparison(stacked_df[colname],
@@ -198,10 +212,12 @@ class InferentialStatisticsHelperFunctions():
 
     def welch_f_test(self, stacked_df, dependentvar, groupname):
         '''
+        input:
         stacked_data: a dataframe from table_transform_function
         dependentvar: value to compare 
         groupname: names of group to split 
-        return: perform welch F test to check if there are differences present 
+        return: 
+        perform welch F test to check if there are differences present 
         '''
         # alpha is 0.05
         p_value = pingouin.welch_anova(
@@ -213,10 +229,12 @@ class InferentialStatisticsHelperFunctions():
 
     def chisquare_test(self, df, category1, category2):
         '''
+        input:
         df: dataframe with data to compare , pd dataframe
         category1: categorical variable one, string 
         category2: categorical variable two , string 
-        return chi square independence result 
+        return:
+        chi square independence result 
         '''
         # create counts for chisquare test
         counts = df.groupby([category1, category2]).size().reset_index()
@@ -231,9 +249,11 @@ class InferentialStatisticsHelperFunctions():
 
     def welch_ttest(self, groups_data, group_name):
         '''
+        input:
         groups_data: a list data of 1 day 
         group_name: string for groups_data, a list of string
-        return: perform stats.ttest_ind, welch to check if there are differences in mean 
+        return: 
+        perform stats.ttest_ind, welch to check if there are differences in mean 
         '''
         # alpha is 0.05
         result = stats.ttest_ind(*groups_data, equal_var=False)
@@ -246,6 +266,7 @@ class InferentialStatisticsHelperFunctions():
 
     def price_welcht(self, DF, colname, criteria, metric, n, num, group_name):
         '''
+        input:
         DF: pd dataframe
         colname: colname to split data, a string
         criteria: a number, criteria for split
@@ -253,7 +274,8 @@ class InferentialStatisticsHelperFunctions():
         n: num of samples for sample mean
         num: num of iteration for sample means
         group_name: string for groups_data, a list of string
-        return: welcht test result 
+        return: 
+        welcht test result 
         '''
         price_splits = samples(DF, colname, 2, metric)
         price_high = price_splits[0]
@@ -265,7 +287,11 @@ class InferentialStatisticsHelperFunctions():
 
     def top_two_cuisines(self, df, metric):
         '''
-
+        input:
+        df: dataframe to use
+        metric: metric to use
+        return:
+        print out the top 2 cuisines, average metric wise
         '''
         # Total number of reviews for each cuisine:
         sum_review_by_cuisine = df.groupby("cuisine")[metric].sum()
@@ -278,7 +304,13 @@ class InferentialStatisticsHelperFunctions():
 
     def get_cuisine(self, df, cuisine):
         '''
-
+        input:
+        df: dataframe to use
+        cuisine: cuisine to use
+        return:
+        a Pandas Series of review counts of the restaurants 
+        serving the cuisine and a Pandas Series of ratings of 
+        the restaurants serving the cuisine
         '''
         new_df = df[df.cuisine == cuisine]
         new_df.reset_index(inplace=True, drop=True)
@@ -288,7 +320,13 @@ class InferentialStatisticsHelperFunctions():
 
     def get_bars_open_info(self, df):
         '''
-
+        input:
+        df: dataframe to use
+        return:
+        a Pandas Series of review counts of the bars open pass midnight, 
+        a Pandas Series of ratings of the bars open pass midnight, a Pandas 
+        Series of review counts of the bars not open pass midnight, 
+        and a Pandas Series of ratings of the bars not open pass midnight
         '''
         bars = df[df.cuisine == "Bars"]
         bars.reset_index(inplace=True, drop=True)
@@ -304,10 +342,12 @@ class InferentialStatisticsHelperFunctions():
 
     def plot_distribution(self, array1, array2, labels, featurename):
         '''
+        input:
         array1: 1 d array
         array2: 1 d array
         labels: a list of string for label array1 and array2
-        return: histogram plot with 2 plots on the same ax
+        return: 
+        histogram plot with 2 plots on the same ax
         '''
         sns.distplot(array1, label=labels[0], color='red')
         sns.distplot(array2, label=labels[1], color='blue')
@@ -326,9 +366,11 @@ class InferentialStatisticsHelperFunctions():
 
 def plothist(join_df, df):
     '''
+    input:
     join_df: dataframe containing all DC, MD, VA
     df: a list of separate dataframes, DC, MD, VA
-    return a 2 by 2 histogram plot for comparision 
+    return:
+    a 2 by 2 histogram plot for comparision 
     '''
     fig = plt.figure(figsize=(8, 6))
     fig.add_subplot(221)
